@@ -15,10 +15,6 @@ __Affiliate__ [Earth and Space Research](https://www.esr.org/)
 
 __Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/)
 
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
 `2/2020 - present`
 __Senior Scientist__, Farallon Institute
 
