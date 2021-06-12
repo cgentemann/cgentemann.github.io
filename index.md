@@ -3,12 +3,5 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a passionate advocate for open science, open source software, and inclusivity.  As a physical oceanographer focused on remote sensing, I have worked for over 25 years on retrievals of ocean temperature from space and using that data to understand how the ocean impacts our lives.  My more recent research focuses on interdisciplinary science using cloud computing, open source software algorithm development, air-sea fluxes, biophysical interactions, and upper ocean physical processes.  I have served on scientific committees, notably as co-chair of a standing committee for the National Academy of Sciences and has presented to a federal house committee on NASA's implementation of scientific community priorities.
 
-## Current Interests and Projects:
-
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
