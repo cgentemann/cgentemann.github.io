@@ -6,7 +6,7 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: "Chelle Gentemann"
+  name: Chelle Gentemann
   avatar: bio-photo.jpg
   bio: "I am a passionate advocate for open science, open source software, and inclusivity.  As a physical oceanographer focused on remote sensing, I have worked for over 25 years on retrievals of ocean temperature from space and using that data to understand how the ocean impacts our lives.  My more recent research focuses on interdisciplinary science using cloud computing, open source software algorithm development, air-sea fluxes, biophysical interactions, and upper ocean physical processes.  I have served on scientific committees, notably as co-chair of a standing committee for the National Academy of Sciences and has presented to a federal house committee on NASA's implementation of scientific community priorities.
   email: cgentemann@faralloninstitute.org
