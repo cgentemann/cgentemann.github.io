@@ -73,25 +73,88 @@ American Meteorological Society 13th Conference on Satellite Meteorology and Oce
 
 ## Science Teams, Working Groups, Organizing Committees:
 
-- National Academies of Sciences, Engineering, and Medicine
-- Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) (2012 - 2018; Co-Chair 2018 - 2020)  
-- Committee on Best Practices for a Future Open Code Policy for NASA Space Studies (10/2017-8/2018; Co-Chair) [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)
-- Intelligence Science and Technology Experts Group [(ISTEG)](https://www.nationalacademies.org/our-work/intelligence-science-and-technology-experts-group) (2015 - present)
-- Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space (10/2013 - 6/2015) [report](https://www.nap.edu/catalog/21789/continuity-of-nasa-earth-observations-from-space-a-value-framework)
-- [Pangeo](https://pangeo.io) Steering Council (2020 - present)
-- Associate Editor of AGU's [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/editorial-board.html) (2020 - present)
-- US Clivar Working Group: [Uncertainty Quantification](https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group) (2020 - present)
-- [Group for high resolution SST (GHRSST) Science Team](https://www.ghrsst.org) and Advisory Council (2001 - present; Chair of Advisory Council 2016-2017)
-- NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group [(DAARWG)](https://sab.noaa.gov/WorkingGroups/StandingWorkingGroups.aspx#1031912-data-archive-and-access-requirements-working-group-daarwg) (2013 - 2018; Chair 2018 - 2020)
-- [AGU Falkenberg Award](https://www.agu.org/Honor-and-Recognize/Honors/Union-Awards/Falkenberg-Award) Committee (2014 - 2019; Chair 2016 - 2019)
-- NASA PO.DAAC Early Cloud Adopters Program (2019 - present)
-- JAXA [AMSR3](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2573914?SSO=1) Science Team (2019 - present)
-- NASA [GHRC User Working Group](https://ghrc.nsstc.nasa.gov/home/meetings/UWG) (2014-2015; Chair 2014-2015)
-- NASA [PO.DAAC User Working Group](https://podaac.jpl.nasa.gov/AboutPodaac#UWG) (2006-2013; Chair 2011-2013)
-- JAXA GCOM-W AMSR2 Science Team (2009 - 2016)
-- NASA Sea Surface Temperature Science Team (2010-present)
-- MIT Educational Council (1998-present)
-- NASA Satellite Ocean Atlas Team (1998-2001)
+
+`2012-2020` 
+__Committee Member__
+`2018-2020` 
+__Co-Chair__
+National Academies of Sciences, Engineering, and Medicine, Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) 
+
+`2017-2018`
+__Co-Chair__
+National Academies of Sciences, Engineering, and Medicine, Committee on Best Practices for a Future Open Code Policy for NASA Space Studies [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)
+
+`2015 - present` 
+__Committee Member__
+National Academies of Sciences, Engineering, and Medicine, Intelligence Science and Technology Experts Group [(ISTEG)](https://www.nationalacademies.org/our-work/intelligence-science-and-technology-experts-group) 
+
+`2013 - 2015` 
+__Committee Member__
+National Academies of Sciences, Engineering, and Medicine, Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space [report](https://www.nap.edu/catalog/21789/continuity-of-nasa-earth-observations-from-space-a-value-framework)
+
+`2020 - present`
+__Steering Council__
+[Pangeo](https://pangeo.io) 
+
+`2020 - present` 
+__Associate Editor__
+American Geophysical Union [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/editorial-board.html)
+
+`2020 - present`
+__Science Team__
+US Clivar Working Group: [Uncertainty Quantification](https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group) 
+
+`2001 - present`
+__Science Team and Advisory Council__
+`2016 - 2017`
+__Chair Advisory Council__
+[Group for high resolution SST (GHRSST) Science Team](https://www.ghrsst.org) 
+
+`2013 - 2018`
+__Member__
+`2018 - 2020`
+__Chair__
+NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group [(DAARWG)](https://sab.noaa.gov/WorkingGroups/StandingWorkingGroups.aspx#1031912-data-archive-and-access-requirements-working-group-daarwg) 
+
+`2014 - 2019`
+__Committee Member__
+`2016 - 2019`
+__Chair__
+[AGU Falkenberg Award Committee](https://www.agu.org/Honor-and-Recognize/Honors/Union-Awards/Falkenberg-Award)
+
+`2019 - present`
+__Team member__
+NASA PO.DAAC Early Cloud Adopters Program
+
+`2019 - present`
+__Science Team__
+JAXA [AMSR3](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2573914?SSO=1) 
+
+`2014 - 2015`
+__Chair__
+NASA [GHRC User Working Group](https://ghrc.nsstc.nasa.gov/home/meetings/UWG) 
+
+`2011 - 2013`
+__Chair__
+`2006 - 2013`
+__Team Member__
+NASA [PO.DAAC User Working Group](https://podaac.jpl.nasa.gov/AboutPodaac#UWG) 
+
+`2009 - 2016`
+__Science Team__ 
+JAXA GCOM-W AMSR2 Science Team
+
+`2010 - present`
+__Science Team__
+NASA Sea Surface Temperature Science Team
+
+`1998 - 2020`
+__Member__
+MIT Educational Council 
+ 
+`1998 - 2001` 
+__Team Member__
+NASA Satellite Ocean Atlas Team
 
 ## Testimony:
 
