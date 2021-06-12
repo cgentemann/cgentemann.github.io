@@ -8,20 +8,20 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Chelle Gentemann
   avatar: bio-photo.jpg
-  bio: "I am a passionate advocate for open science, open source software, and inclusivity.  As a physical oceanographer focused on remote sensing, I have worked for over 25 years on retrievals of ocean temperature from space and using that data to understand how the ocean impacts our lives.  My more recent research focuses on interdisciplinary science using cloud computing, open source software algorithm development, air-sea fluxes, biophysical interactions, and upper ocean physical processes.  I have served on scientific committees, notably as co-chair of a standing committee for the National Academy of Sciences and has presented to a federal house committee on NASA's implementation of scientific community priorities."
+  bio: "I am a physical oceanographer, remote sensing scientist, and a passionate advocate for open science, open source software, and inclusivity."
   email: cgentemann@faralloninstitute.org
   # Do not include the @ symbol in your Twitter username
   twitter: chellegentemann
   linkedin: chelle-gentemann
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  github: cgentemann
+  orcid: 0000-0002-2250-3106
+  researchgate: cgentemann@gmail.com
   mendeley: #username
   google:
-    plus: #username
+    plus: cgentemann@gmail.com
     analytics:
     verify:
-    scholar: #id
+    scholar: faDmNjoAAAAJ&hl
   facebook: #username
   instagram: #username
   bing-verify:
