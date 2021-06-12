@@ -392,24 +392,43 @@ Intercomparison and error analysis of satellite microwave SST retrievals versus 
 ## Ph.D. / Masters Committees, Summer Interns, Student collaborators:
 
 `2020` Sanola Sandiford, Caribbean Institute for Meteorology and Hydrology
+
 `2020` Kashawn Hall, Caribbean Institute for Meteorology and Hydrology
+
 `2020` Alton Daley, Caribbean Institute for Meteorology and Hydrology
+
 `2020` Zaher Alruzaiqi, Sultan Qaboos University
+
 `2019 - 2020` Sotirios Skarpalezos, Technical University of Denmark
+
 `2017 - 2018` Emy Alerskans, Technical University of Denmark
+
 `2019 - -2020` Senya Stein, Colorado School of the Mines
+
 `2019 - 2020` Chong Jia, University of Miami
+
 `2020` Alayah Densby, KIPP San Francisco College Prep
+
 `2020` Alessandra Richardson-Beatty, Stanford Online High School
+
 `2020` Alyssa Bautista, George Washington High School 
+
 `2020` Edgar Orozco, June Jordan High School 
+
 `2020` Emma Chu, Abraham Lincoln High School 
+
 `2020` Sebastien Bachar, Berkeley High school
+
 `2020` Viva Voong, Lowell High School
+
 `2018 - 2019` Alyssa Ells, San Francisco State University
+
 `2019 - 2020` Kexin Song, University of Miami
+
 `2017 - 2019` Bingkun Luo, University of Miami
+
 `2013 - 2015` Xiaofeng Zhu, University of Miami
+
 `2013 - 2016` Yang Lui, University of Miam
 
 ## Contributions to open-source software:
