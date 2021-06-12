@@ -10,7 +10,9 @@ Dr. Gentemann is currently a senior scientist at Farallon Institute, leading res
 `Current`
 
 __Senior Scientist__, [Farallon Institute](https://faralloninstitute.org) 
+
 __Affiliate__ [Earth and Space Research](https://www.esr.org/)
+
 __Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/)
 
 
