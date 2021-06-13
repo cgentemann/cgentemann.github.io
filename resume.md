@@ -37,7 +37,7 @@ B.S. Earth, Atmospheric, and Planetary Sciences
 ## Awards
 
 `2021`
-__Radiant Earth Foundation [15 Leading Women in Machine Learning for Earth Observation (ML4EO)] (https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).__  \
+__Radiant Earth Foundation [15 Leading Women in Machine Learning for Earth Observation (ML4EO)](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).__\
 `2013`
 __American Geophysical Union [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009)__
 The award is for a "scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet".\
