@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Distributed Data Science and Oceanography with Dask
+title: Distributed data science and oceanography with Dask
 excerpt: "Advanced open source libraries like Dask are changing science: how we think about data, analysis, and what questions we think to ask. "
 modified: 2021-06-13 20:41:38
 tags: [cloud computing, open source software, science]
