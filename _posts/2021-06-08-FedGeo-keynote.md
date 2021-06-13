@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: 2021 FedGeo keynote
+title: FedGeo-keynote
 excerpt: "How are open science and cloud computing changing science, how we collaborate, and who participates? How are these changes affecting US federal agencies?"
 theme: simple
 transition: convex
