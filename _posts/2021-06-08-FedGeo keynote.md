@@ -8,6 +8,5 @@ comments: true
 category: presentation
 ---
 # [FedGeo21](https://fedgeo.us/) keynote
-## Open Ecosystems Help Science Storm the Cloud
 How are open science and cloud computing changing science, how we collaborate, and who participates? How are these changes affecting US federal agencies?
 [Link to presentation slides](https://www.slideshare.net/ChelleGentemann/open-ecosystems-help-science-storm-the-cloud)
