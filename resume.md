@@ -37,23 +37,24 @@ B.S. Earth, Atmospheric, and Planetary Sciences
 ## Awards
 
 `2021`
-__Radiant Earth Foundation__
-[15 Leading Women in Machine Learning for Earth Observation (ML4EO)] (https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).  \
+__Radiant Earth Foundation [15 Leading Women in Machine Learning for Earth Observation (ML4EO)] (https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).__  \
 `2013`
 __American Geophysical Union [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009)__
 The award is for a "scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet".\
 `2008` 
-National Oceanographic Partnership Program [2008 Excellence in Partnering Award](https://www.nopp.org/portfolio/excellence-in-partnering/misst/).  C.Gentemann was the PI on this project.  The award is "presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project's commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography".\
+__National Oceanographic Partnership Program [2008 Excellence in Partnering Award](https://www.nopp.org/portfolio/excellence-in-partnering/misst/)__  
+C.Gentemann was the PI on this project.  The award is "presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project's commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography".\
 `2001` 
-NASA Group Achievement Award to the Satellite Ocean Atlas Team, for outstanding achievement in utilization of multiple observations from space for the study of the global oceans.  C. Gentemann was a member of the team.\
+__NASA Group Achievement Award to the Satellite Ocean Atlas Team__
+Award for outstanding achievement in utilization of multiple observations from space for the study of the global oceans.  C. Gentemann was a member of the team.\
 `2007` 
-AGU Joint Assembly, Acapulco, Mexico.  Outstanding student presentation award.\
+__AGU Joint Assembly, Acapulco, Mexico.  Outstanding student presentation award.__\
 `2006` 
-AGU Joint Assembly, Baltimore, MD.  Outstanding student paper award.\
+__AGU Joint Assembly, Baltimore, MD.  Outstanding student paper award.__\
 `2006` 
-IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, Denver, CO.  Student paper competition finalist.\
+__IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, Denver, CO.  Student paper competition finalist.__\
 `2005` 
-American Meteorological Society 13th Conference on Satellite Meteorology and Oceanography, Norfolk, VA.  Student poster competition: 3rd prize.
+__American Meteorological Society 13th Conference on Satellite Meteorology and Oceanography, Norfolk, VA.  Student poster competition: 3rd prize__.
 
 ## Science Teams, Working Groups, Organizing Committees:
 
