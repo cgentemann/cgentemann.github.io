@@ -9,24 +9,17 @@ Dr. Gentemann is currently a senior scientist at Farallon Institute, leading res
 
 `Current`
 
-__Senior Scientist__, [Farallon Institute](https://faralloninstitute.org) 
-
-__Affiliate__ [Earth and Space Research](https://www.esr.org/)
-
-__Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/)
-
+__Senior Scientist__, [Farallon Institute](https://faralloninstitute.org) \
+__Affiliate__ [Earth and Space Research](https://www.esr.org/) \
+__Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/) \
 `2/2020 - present`
-__Senior Scientist__, Farallon Institute
-
+__Senior Scientist__, Farallon Institute \
 `2017 - 2018` 
-__Visiting Scholar__, NASA Jet Propulsion Laboratory
-
+__Visiting Scholar__, NASA Jet Propulsion Laboratory \
 `3/2016 - 2020`
-__Senior Scientist__, Earth & Space Research 
-
+__Senior Scientist__, Earth & Space Research \
 `2012 - 2015` 
-__Senior Principal Scientist__, Remote Sensing Systems
-
+__Senior Principal Scientist__, Remote Sensing Systems \
 `1998 - 2012` 
 __Scientist__, Remote Sensing Systems  
 
