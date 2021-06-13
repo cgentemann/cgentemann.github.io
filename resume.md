@@ -37,9 +37,11 @@ B.S. Earth, Atmospheric, and Planetary Sciences
 ## Awards
 
 `2021`
-Radiant Earth Foundation's [15 Leading Women in Machine Learning for Earth Observation (ML4EO)] (https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).  \
+__Radiant Earth Foundation__
+[15 Leading Women in Machine Learning for Earth Observation (ML4EO)] (https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).  \
 `2013`
-American Geophysical Union [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009).  The award is for a "scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet".\
+__American Geophysical Union [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009)__
+The award is for a "scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet".\
 `2008` 
 National Oceanographic Partnership Program [2008 Excellence in Partnering Award](https://www.nopp.org/portfolio/excellence-in-partnering/misst/).  C.Gentemann was the PI on this project.  The award is "presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project's commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography".\
 `2001` 
