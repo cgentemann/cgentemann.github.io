@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FedGeo
+title: FedGeo keynote
 excerpt: "How are open science and cloud computing changing science, how we collaborate, and who participates? How are these changes affecting US federal agencies?"
 modified: 2021-06-13 20:41:38
 tags: [cloud computing, open science, science, policy]
