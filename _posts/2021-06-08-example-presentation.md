@@ -1,10 +1,10 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+title: 2021 FedGeo keynote
+excerpt: "How are open science and cloud computing changing science, how we collaborate, and who participates? How are these changes affecting US federal agencies?"
 theme: simple
 transition: convex
-tags: [presentation]
+tags: [presentation](https://www.slideshare.net/ChelleGentemann/open-ecosystems-help-science-storm-the-cloud)
 category: presentation
 ---
 <section data-markdown>
