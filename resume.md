@@ -12,8 +12,6 @@ Dr. Gentemann is currently a senior scientist at Farallon Institute, leading res
 __Senior Scientist__, [Farallon Institute](https://faralloninstitute.org) \
 __Affiliate__ [Earth and Space Research](https://www.esr.org/) \
 __Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/) \
-`2/2020 - present`
-__Senior Scientist__, Farallon Institute \
 `2017 - 2018` 
 __Visiting Scholar__, NASA Jet Propulsion Laboratory \
 `3/2016 - 2020`
@@ -28,12 +26,10 @@ __Scientist__, Remote Sensing Systems
 
 `2003 - 2007`
 __University of Miami (Advisor: Peter Minnett)__
-Ph.D.Meteorology and Physical Oceanography
-
+Ph.D.Meteorology and Physical Oceanography\
 `1995 - 1997`
 __UCSD Scripps Institution of Oceanography__
-M.S. Physical Oceanography 
-
+M.S. Physical Oceanography \
 `1991 - 1995`
 __Massachusetts Institute of Technology__
 B.S. Earth, Atmospheric, and Planetary Sciences 
@@ -41,26 +37,19 @@ B.S. Earth, Atmospheric, and Planetary Sciences
 ## Awards
 
 `2021`
-Radiant Earth Foundation's [15 Leading Women in Machine Learning for Earth Observation (ML4EO)] (https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).  
-
+Radiant Earth Foundation's [15 Leading Women in Machine Learning for Earth Observation (ML4EO)] (https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626).  \
 `2013`
-American Geophysical Union [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009).  The award is for a "scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet".
-
+American Geophysical Union [Charles S. Falkenberg Award](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014EO020009).  The award is for a "scientist under 45 years of age who has contributed to the quality of life, economic opportunities, and stewardship of the planet through the use of Earth science information and to the public awareness of the importance of understanding our planet".\
 `2008` 
-National Oceanographic Partnership Program [2008 Excellence in Partnering Award](https://www.nopp.org/portfolio/excellence-in-partnering/misst/).  C.Gentemann was the PI on this project.  The award is "presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project's commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography".
-
+National Oceanographic Partnership Program [2008 Excellence in Partnering Award](https://www.nopp.org/portfolio/excellence-in-partnering/misst/).  C.Gentemann was the PI on this project.  The award is "presented annually to research teams that best demonstrate the partnerships objectives of NOPP, recognizing the project's commitment to partnering, the success of the partnership effort, and the impact of the partnership on oceanography".\
 `2001` 
-NASA Group Achievement Award to the Satellite Ocean Atlas Team, for outstanding achievement in utilization of multiple observations from space for the study of the global oceans.  C. Gentemann was a member of the team.
-
+NASA Group Achievement Award to the Satellite Ocean Atlas Team, for outstanding achievement in utilization of multiple observations from space for the study of the global oceans.  C. Gentemann was a member of the team.\
 `2007` 
-AGU Joint Assembly, Acapulco, Mexico.  Outstanding student presentation award.
-
+AGU Joint Assembly, Acapulco, Mexico.  Outstanding student presentation award.\
 `2006` 
-AGU Joint Assembly, Baltimore, MD.  Outstanding student paper award.
-
+AGU Joint Assembly, Baltimore, MD.  Outstanding student paper award.\
 `2006` 
-IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, Denver, CO.  Student paper competition finalist.
-
+IGARSS 2006 IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, Denver, CO.  Student paper competition finalist.\
 `2005` 
 American Meteorological Society 13th Conference on Satellite Meteorology and Oceanography, Norfolk, VA.  Student poster competition: 3rd prize.
 
@@ -71,81 +60,64 @@ American Meteorological Society 13th Conference on Satellite Meteorology and Oce
 __Committee Member__
 `2018-2020` 
 __Co-Chair__
-National Academies of Sciences, Engineering, and Medicine, Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) 
-
+National Academies of Sciences, Engineering, and Medicine, Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) \
 `2017-2018`
 __Co-Chair__
-National Academies of Sciences, Engineering, and Medicine, Committee on Best Practices for a Future Open Code Policy for NASA Space Studies [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)
-
+National Academies of Sciences, Engineering, and Medicine, Committee on Best Practices for a Future Open Code Policy for NASA Space Studies [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)\
 `2015 - present` 
 __Committee Member__
-National Academies of Sciences, Engineering, and Medicine, Intelligence Science and Technology Experts Group [(ISTEG)](https://www.nationalacademies.org/our-work/intelligence-science-and-technology-experts-group) 
-
+National Academies of Sciences, Engineering, and Medicine, Intelligence Science and Technology Experts Group [(ISTEG)](https://www.nationalacademies.org/our-work/intelligence-science-and-technology-experts-group) \
 `2013 - 2015` 
 __Committee Member__
-National Academies of Sciences, Engineering, and Medicine, Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space [report](https://www.nap.edu/catalog/21789/continuity-of-nasa-earth-observations-from-space-a-value-framework)
-
+National Academies of Sciences, Engineering, and Medicine, Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space [report](https://www.nap.edu/catalog/21789/continuity-of-nasa-earth-observations-from-space-a-value-framework)\
 `2020 - present`
 __Steering Council__
-[Pangeo](https://pangeo.io) 
-
+[Pangeo](https://pangeo.io) \
 `2020 - present` 
 __Associate Editor__
-American Geophysical Union [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/editorial-board.html)
-
+American Geophysical Union [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/editorial-board.html)\
 `2020 - present`
 __Science Team__
-US Clivar Working Group: [Uncertainty Quantification](https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group) 
-
+US Clivar Working Group: [Uncertainty Quantification](https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group) \
 `2001 - present`
 __Science Team and Advisory Council__
 `2016 - 2017`
 __Chair Advisory Council__
-[Group for high resolution SST (GHRSST) Science Team](https://www.ghrsst.org) 
-
+[Group for high resolution SST (GHRSST) Science Team](https://www.ghrsst.org) \
 `2013 - 2018`
 __Member__
 `2018 - 2020`
 __Chair__
-NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group [(DAARWG)](https://sab.noaa.gov/WorkingGroups/StandingWorkingGroups.aspx#1031912-data-archive-and-access-requirements-working-group-daarwg) 
-
+NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group [(DAARWG)](https://sab.noaa.gov/WorkingGroups/StandingWorkingGroups.aspx#1031912-data-archive-and-access-requirements-working-group-daarwg) \
 `2014 - 2019`
-__Committee Member__
+__Committee Member, __
 `2016 - 2019`
 __Chair__
-[AGU Falkenberg Award Committee](https://www.agu.org/Honor-and-Recognize/Honors/Union-Awards/Falkenberg-Award)
-
+[AGU Falkenberg Award Committee](https://www.agu.org/Honor-and-Recognize/Honors/Union-Awards/Falkenberg-Award)\
 `2019 - present`
 __Team member__
-NASA PO.DAAC Early Cloud Adopters Program
-
+NASA PO.DAAC Early Cloud Adopters Program\
 `2019 - present`
 __Science Team__
-JAXA [AMSR3](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2573914?SSO=1) 
-
+JAXA [AMSR3](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2573914?SSO=1) \
 `2014 - 2015`
 __Chair__
-NASA [GHRC User Working Group](https://ghrc.nsstc.nasa.gov/home/meetings/UWG) 
-
+NASA [GHRC User Working Group](https://ghrc.nsstc.nasa.gov/home/meetings/UWG) \
 `2011 - 2013`
-__Chair__
+__Chair, __
 `2006 - 2013`
 __Team Member__
-NASA [PO.DAAC User Working Group](https://podaac.jpl.nasa.gov/AboutPodaac#UWG) 
-
+NASA [PO.DAAC User Working Group](https://podaac.jpl.nasa.gov/AboutPodaac#UWG) \
 `2009 - 2016`
 __Science Team__ 
-JAXA GCOM-W AMSR2 Science Team
-
+JAXA GCOM-W AMSR2 Science Team\
 `2010 - present`
 __Science Team__
-NASA Sea Surface Temperature Science Team
-
+NASA Sea Surface Temperature Science Team\
 `1998 - 2020`
 __Member__
-MIT Educational Council 
- 
-`1998 - 2001` 
+MIT Educational Council \
+ `1998 - 2001` 
 __Team Member__
 NASA Satellite Ocean Atlas Team
 
@@ -157,141 +129,102 @@ House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Spac
 ## Images:
 
 `2020`
-Cover [image](https://journals.ametsoc.org/bams/issue/101/8) August 2020 BAMS
-
+Cover [image](https://journals.ametsoc.org/bams/issue/101/8) August 2020 BAMS\
 `2020`
-NRDC fact sheet October 2020, [image of Blob](https://www.nrdc.org/sites/default/files/hot-water-climate-change-fisheries-fs.pdf)
-
+NRDC fact sheet October 2020, [image of Blob](https://www.nrdc.org/sites/default/files/hot-water-climate-change-fisheries-fs.pdf)\
 `2017`
-Cover [image](https://agupubs.onlinelibrary.wiley.com/toc/19448007/2017/44/1) Jan 2017 GRL
-
+Cover [image](https://agupubs.onlinelibrary.wiley.com/toc/19448007/2017/44/1) Jan 2017 GRL\
 `2010`
-Cover [image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5416607) 2010 IEEE Transactions on Geoscience and Remote Sensing
-
+Cover [image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5416607) 2010 IEEE Transactions on Geoscience and Remote Sensing\
 `2008`
-Earle, S. and L. Glover (2008), Oceans: An illustrated atlas, National Geographic, 320p.
-
+Earle, S. and L. Glover (2008), Oceans: An illustrated atlas, National Geographic, 320p.\
 `2007` 
-King, M.D., C.L. Parkinson, K.C. Partington, R.G. Williams (2007), Our changing planet, the view from space, Cambridge University Press, 400p.
-
+King, M.D., C.L. Parkinson, K.C. Partington, R.G. Williams (2007), Our changing planet, the view from space, Cambridge University Press, 400p.\
 `2001`
 Cover image 2001 IEEE Transactions on Geoscience and Remote Sensing
 
 ## Hackathons:
 
 `2021` 
-OceanHackWeek, [website](https://oceanhackweek.github.io/)
-
+OceanHackWeek, [website](https://oceanhackweek.github.io/)\
 `2020` 
-AGU Ocean Sciences, Pangeo Tutorial [website](https://tinyurl.com/pangeo-osm20)
-
+AGU Ocean Sciences, Pangeo Tutorial [website](https://tinyurl.com/pangeo-osm20)\
 `2020` 
-OceanHackWeek, [website](https://oceanhackweek.github.io/)
-
+OceanHackWeek, [website](https://oceanhackweek.github.io/)\
 `2019` 
-PICES Ecosystem tool [website](https://github.com/python4oceanography/PICES-tools)
-
+PICES Ecosystem tool [website](https://github.com/python4oceanography/PICES-tools)\
 `2019` 
-OceanObs Python Tutorial, Python for Oceanography [website](https://github.com/python4oceanography/ocean_python_tutorial)
-
+OceanObs Python Tutorial, Python for Oceanography [website](https://github.com/python4oceanography/ocean_python_tutorial)\
 `2019` 
 GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](https://github.com/python4oceanography/ocean_python_tutorial)
 
 ## Meeting Organzation
 
-`2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf) 
-`2019` OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) 
-`2003 - present` Annual MISST science team meetings held at AGU/Ocean Sciences 
-`2009` 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)
-`2018 - 2020` Biannual NASEM CESAS committee meetings 
-`2017-2018` 3 NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings
+`2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf) \
+`2019` OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) \
+`2003 - present` Annual MISST science team meetings held at AGU/Ocean Sciences \
+`2009` 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)\
+`2018 - 2020` Biannual NASEM CESAS committee meetings \
+`2017-2018` 3 NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings\
 
 ## Partial list of invited talks/panels:
 
 `2021` 
-FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/)
-
+FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/)\
 `2021` 
-Science Thursday Livestream on [Distributed Data Science and Oceanography with Dask](https://www.youtube.com/watch?v=ZoK3Rn5j9R4&feature=youtu.be&ab_channel=Coiled)
-
+Science Thursday Livestream on [Distributed Data Science and Oceanography with Dask](https://www.youtube.com/watch?v=ZoK3Rn5j9R4&feature=youtu.be&ab_channel=Coiled)\
 `2021` 
-International Ocean Vector Wind Science Team meeting invited talk: [Butterfly](https://youtu.be/AhkGZYbW_24)
-
+International Ocean Vector Wind Science Team meeting invited talk: [Butterfly](https://youtu.be/AhkGZYbW_24)\
 `2020` 
-AGU Fall meeting invited talk: Session: Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".
-
+AGU Fall meeting invited talk: Session: Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".\
 `2020` 
-ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) 
-
+ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) \
 `2020` 
-The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [slides[(https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)
-
+The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [slides](https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)\
 `2020` 
-NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ["Towards open science: accelerating and expanding NASA's scientific impact"](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).
-
+NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ["Towards open science: accelerating and expanding NASA's scientific impact"](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).\
 `2020` 
-COVID-19: Identifying Unique Opportunities for Earth System Science"Keck Institute for Space Studies virtual workshop, invited speaker and participant. "Cloud enabled science".
-
+COVID-19: Identifying Unique Opportunities for Earth System Science"Keck Institute for Space Studies virtual workshop, invited speaker and participant. "Cloud enabled science".\
 `2020` 
-AWS Public Sector Summit, The Cube, ["Cloud enabled science"](https://video.cube365.net/c/927999) invited interview.
-
+AWS Public Sector Summit, The Cube, ["Cloud enabled science"](https://video.cube365.net/c/927999) invited interview.\
 `2020` 
-Coiled Blog invited interview, ["Dask in Action with Massive Satellite Datasets"](https://coiled.io/blog/dask-in-action-gentemann/).
-
+Coiled Blog invited interview, ["Dask in Action with Massive Satellite Datasets"](https://coiled.io/blog/dask-in-action-gentemann/).\
 `2020` 
-Coiled Blog invited interview, ["Accelerating Science with Dask"](https://coiled.io/blog/accelerating-science-dask-gentemann/).
-
+Coiled Blog invited interview, ["Accelerating Science with Dask"](https://coiled.io/blog/accelerating-science-dask-gentemann/).\
 `2020` 
-Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [recording, at 8:10:30](https://livestream.com/nasem/earthsciencefromspace/videos/201004615)
-
+Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [recording, at 8:10:30](https://livestream.com/nasem/earthsciencefromspace/videos/201004615)\
 `2018` 
-AGU Fall Meeting Townhall ["TH13C: Best Practices for a Future Open Code Policy for NASA Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/56246)
-
+AGU Fall Meeting Townhall ["TH13C: Best Practices for a Future Open Code Policy for NASA Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/56246)\
 `2018` 
-AGU Fall Meeting Townhall ["TH45A: Data Science and a New Scientific Frontier in Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/55933)
-
+AGU Fall Meeting Townhall ["TH45A: Data Science and a New Scientific Frontier in Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/55933)\
 `2018` 
-SFSU, ["The changing landscape of science"](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)
-
+SFSU, ["The changing landscape of science"](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)\
 `2015` 
-IGARSS, "RFI in Microwave Remote Sensing"
-
+IGARSS, "RFI in Microwave Remote Sensing"\
 `2011` 
-AGU Fall Meeting, "AQUA AMSR-E Sea Surface Temperature"
-
+AGU Fall Meeting, "AQUA AMSR-E Sea Surface Temperature"\
 `2010` 
-Oceans from Space, "A review of Passive Microwave Retrievals from Space"
-
+Oceans from Space, "A review of Passive Microwave Retrievals from Space"\
 `2008` 
-Yale Department of Geology & Geophysics Colloquium, "Satellite sea surface temperatures"
-
+Yale Department of Geology & Geophysics Colloquium, "Satellite sea surface temperatures"\
 `2006` 
-AGU Joint Assembly, "Optimally interpolated infrared and microwave sea surface temperatures: The Multi-sensor Improved SST (MISST) Project"
-
+AGU Joint Assembly, "Optimally interpolated infrared and microwave sea surface temperatures: The Multi-sensor Improved SST (MISST) Project"\
 `2006` 
-IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "Multi-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMI"
-
+IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "Multi-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMI"\
 `2006` 
-IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "In situ observations of diurnal warming in the skin layer"
-
+IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "In situ observations of diurnal warming in the skin layer"\
 `2004` 
-AMS 14th Conference on Satellite Meteorology, "Multi-sensor Improved Sea Surface Temperatures (MISST) for GODAE"
-
+AMS 14th Conference on Satellite Meteorology, "Multi-sensor Improved Sea Surface Temperatures (MISST) for GODAE"\
 `2004` 
-AGU Ocean Sciences, "Diurnal warming in satellite sea-surface temperatures"
-
+AGU Ocean Sciences, "Diurnal warming in satellite sea-surface temperatures"\
 `2003` 
-JCOMM Workshop on Advances in Marine Climatology, "Diurnal Warming and Climate SST records"
-
+JCOMM Workshop on Advances in Marine Climatology, "Diurnal Warming and Climate SST records"\
 `2003` 
-CEOS Meeting, Ocean Sciences, "Accurate microwave SST retrieval and microwave/infrared blending"
-
+CEOS Meeting, Ocean Sciences, "Accurate microwave SST retrieval and microwave/infrared blending"\
 `2002` 
-GCOS Workshop on Advances in the Use of Historical Marine Climate Data, "Advances in Microwave Sea Surface Temperature"and "Towards Improved Validation of Satellite Sea Surface Skin Temperature Measurements for Climate Research"
-
+GCOS Workshop on Advances in the Use of Historical Marine Climate Data, "Advances in Microwave Sea Surface Temperature"and "Towards Improved Validation of Satellite Sea Surface Skin Temperature Measurements for Climate Research"\
 `2001` 
-GODAE Science Team Meeting, "Microwave SST retrievals from TRMM"
-
+GODAE Science Team Meeting, "Microwave SST retrievals from TRMM"\
 `2001` 
 IGARSS, "Satellite Microwave SST: Accuracy, Comparisons to AVHRR and Reynolds SST, and Measurement of Diurnal Thermocline Variability"
 
@@ -309,45 +242,26 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 ## Ph.D. / Masters Committees, Summer Interns, Student collaborators:
 
-`2020` Sanola Sandiford, Caribbean Institute for Meteorology and Hydrology
-
-`2020` Kashawn Hall, Caribbean Institute for Meteorology and Hydrology
-
-`2020` Alton Daley, Caribbean Institute for Meteorology and Hydrology
-
-`2020` Zaher Alruzaiqi, Sultan Qaboos University
-
-`2019 - 2020` Sotirios Skarpalezos, Technical University of Denmark
-
-`2017 - 2018` Emy Alerskans, Technical University of Denmark
-
-`2019 - -2020` Senya Stein, Colorado School of the Mines
-
-`2019 - 2020` Chong Jia, University of Miami
-
-`2020` Alayah Densby, KIPP San Francisco College Prep
-
-`2020` Alessandra Richardson-Beatty, Stanford Online High School
-
-`2020` Alyssa Bautista, George Washington High School 
-
-`2020` Edgar Orozco, June Jordan High School 
-
-`2020` Emma Chu, Abraham Lincoln High School 
-
-`2020` Sebastien Bachar, Berkeley High school
-
-`2020` Viva Voong, Lowell High School
-
-`2018 - 2019` Alyssa Ells, San Francisco State University
-
-`2019 - 2020` Kexin Song, University of Miami
-
-`2017 - 2019` Bingkun Luo, University of Miami
-
-`2013 - 2015` Xiaofeng Zhu, University of Miami
-
-`2013 - 2016` Yang Lui, University of Miam
+`2020` Sanola Sandiford, Caribbean Institute for Meteorology and Hydrology\
+`2020` Kashawn Hall, Caribbean Institute for Meteorology and Hydrology\
+`2020` Alton Daley, Caribbean Institute for Meteorology and Hydrology\
+`2020` Zaher Alruzaiqi, Sultan Qaboos University\
+`2019 - 2020` Sotirios Skarpalezos, Technical University of Denmark\
+`2017 - 2018` Emy Alerskans, Technical University of Denmark\
+`2019 - -2020` Senya Stein, Colorado School of the Mines\
+`2019 - 2020` Chong Jia, University of Miami\
+`2020` Alayah Densby, KIPP San Francisco College Prep\
+`2020` Alessandra Richardson-Beatty, Stanford Online High School\
+`2020` Alyssa Bautista, George Washington High School \
+`2020` Edgar Orozco, June Jordan High School \
+`2020` Emma Chu, Abraham Lincoln High School \
+`2020` Sebastien Bachar, Berkeley High school\
+`2020` Viva Voong, Lowell High School\
+`2018 - 2019` Alyssa Ells, San Francisco State University\
+`2019 - 2020` Kexin Song, University of Miami\
+`2017 - 2019` Bingkun Luo, University of Miami\
+`2013 - 2015` Xiaofeng Zhu, University of Miami\
+`2013 - 2016` Yang Lui, University of Miami\
 
 ## Publications
 
@@ -418,71 +332,49 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 ## Research Projects: (listed by year started)
 `2020` 
-IMPACT: Enabling scientific computing on the Cloud.  Role: PI.
-
+IMPACT: Enabling scientific computing on the Cloud.  Role: PI.\
 `2019` 
-IMPACT: Enabling scientific computing on the Cloud.  Role: PI.
-
+IMPACT: Enabling scientific computing on the Cloud.  Role: PI.\
 `2018` 
-Multi-sensor Improved Sea Surface Temperature (SST): Continuing the GHRSST Partnership and improving Arctic Data.  Role: PI.
-
+Multi-sensor Improved Sea Surface Temperature (SST): Continuing the GHRSST Partnership and improving Arctic Data.  Role: PI.\
 `2018` 
-Validation in challenging environments: coastal and Arctic SSS.  Role: PI.
-
+Validation in challenging environments: coastal and Arctic SSS.  Role: PI.\
 `2017` 
-East Meets West: Dynamic Biogeography of the Subarctic North Pacific.  Role: Co-I.
-
+East Meets West: Dynamic Biogeography of the Subarctic North Pacific.  Role: Co-I.\
 `2017` 
-Using Saildrone autonomous in situ data for satellite validation and research into upper ocean physics and ecology.  Role: PI.
-
+Using Saildrone autonomous in situ data for satellite validation and research into upper ocean physics and ecology.  Role: PI.\
 `2016` 
-Quantification of Atmospheric Influence on Passive Microwave Observations. Role: external expert consultant.
-
+Quantification of Atmospheric Influence on Passive Microwave Observations. Role: external expert consultant.\
 `2015` 
-Improved Spatial Resolution Sea Surface Temperature Fields from AMSR-E.  Role: Co-I.
-
+Improved Spatial Resolution Sea Surface Temperature Fields from AMSR-E.  Role: Co-I.\
 `2015` 
-Using satellite data to understand the impact of the Pacific SST anomaly on California's drought.  Role: PI.
-
+Using satellite data to understand the impact of the Pacific SST anomaly on California's drought.  Role: PI.\
 `2014` 
-Continuation of Inter-Calibrated Ocean Products from GCOM-W AMSR2.  Role: PI.
-
+Continuation of Inter-Calibrated Ocean Products from GCOM-W AMSR2.  Role: PI.\
 `2014` 
-Analysis and Mitigation of Atmospheric CrossTalk in VIIRS SST Retrievals.  Role: Co-I.
-
+Analysis and Mitigation of Atmospheric CrossTalk in VIIRS SST Retrievals.  Role: Co-I.\
 `2013` 
-Estimating the effective heat capacity of the ocean.  Role: PI.
-
+Estimating the effective heat capacity of the ocean.  Role: PI.\
 `2010` 
-Storm induced wakes: upper ocean variability.  Role: PI.
-
+Storm induced wakes: upper ocean variability.  Role: PI.\
 `2010` 
-A Next-generation Integrated Earth System Analysis - Coupling between the Ocean and Atmosphere.  Role: Co-I.
-
+A Next-generation Integrated Earth System Analysis - Coupling between the Ocean and Atmosphere.  Role: Co-I.\
 `2010` 
-Complete Error Characterization of the DISCOVER Earth System Data Records.  Role: Co-I.
-
+Complete Error Characterization of the DISCOVER Earth System Data Records.  Role: Co-I.\
 `2010` 
-Multi-sensor Improved Sea Surface Temperature (MISST) for IOOS.  Role: PI.
-
+Multi-sensor Improved Sea Surface Temperature (MISST) for IOOS.  Role: PI.\
 `2008` 
-Geophysical retrievals from GCOM-W AMSR2.  Role: PI
-
+Geophysical retrievals from GCOM-W AMSR2.  Role: PI\
 `2008` 
-A NOPP Partnership for Atlantic Meridional Overturning Circulation (AMOC): Focused Analysis of Satellite Data Sets.  Role: Co-I.
-
+A NOPP Partnership for Atlantic Meridional Overturning Circulation (AMOC): Focused Analysis of Satellite Data Sets.  Role: Co-I.\
 `2007` 
-Diurnal heating of the upper ocean.  Role: Co-I.
-
+Diurnal heating of the upper ocean.  Role: Co-I.\
 `2006` 
-Integration of the AMSR-E Ocean Products into the Existing Satellite Climate Record.  Role: Co-I.
-
+Integration of the AMSR-E Ocean Products into the Existing Satellite Climate Record.  Role: Co-I.\
 `2004` 
-Multi-sensor Improved Sea Surface Temperature (MISST) for GODAE.  Role: PI.
-
+Multi-sensor Improved Sea Surface Temperature (MISST) for GODAE.  Role: PI.\
 `2003` 
-Developing an Inner-Core SST Cooling Predictor for use in SHIPS.  Role: Co-I.
-
+Developing an Inner-Core SST Cooling Predictor for use in SHIPS.  Role: Co-I.\
 `2003` 
 Intercomparison and error analysis of satellite microwave SST retrievals versus VOS and Buoy observations.  Role: Co-I.
 
