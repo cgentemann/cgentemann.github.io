@@ -19,7 +19,7 @@ __Senior Scientist__, Earth & Space Research \
 `2012 - 2015` 
 __Senior Principal Scientist__, Remote Sensing Systems \
 `1998 - 2012` 
-__Scientist__, Remote Sensing Systems.  
+__Scientist__, Remote Sensing Systems  
 
 
 ## Education
