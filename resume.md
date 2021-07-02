@@ -88,7 +88,7 @@ __Science Team and Advisory Council__
 __Chair Advisory Council__
 [Group for high resolution SST (GHRSST) Science Team](https://www.ghrsst.org) \
 `2013 - 2018`
-__Member__
+__Member,__
 `2018 - 2020`
 __Chair__
 NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group [(DAARWG)](https://sab.noaa.gov/WorkingGroups/StandingWorkingGroups.aspx#1031912-data-archive-and-access-requirements-working-group-daarwg) \
