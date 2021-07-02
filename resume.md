@@ -93,7 +93,7 @@ __Member__
 __Chair__
 NOAA Science Advisory Board (SAB): Data Access and Archiving Requirements Working Group [(DAARWG)](https://sab.noaa.gov/WorkingGroups/StandingWorkingGroups.aspx#1031912-data-archive-and-access-requirements-working-group-daarwg) \
 `2014 - 2019`
-__Committee Member, __
+__Committee Member__
 `2016 - 2019`
 __Chair__
 [AGU Falkenberg Award Committee](https://www.agu.org/Honor-and-Recognize/Honors/Union-Awards/Falkenberg-Award)\
@@ -107,7 +107,7 @@ JAXA [AMSR3](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2573914?
 __Chair__
 NASA [GHRC User Working Group](https://ghrc.nsstc.nasa.gov/home/meetings/UWG) \
 `2011 - 2013`
-__Chair, __
+__Chair,__
 `2006 - 2013`
 __Team Member__
 NASA [PO.DAAC User Working Group](https://podaac.jpl.nasa.gov/AboutPodaac#UWG) \
