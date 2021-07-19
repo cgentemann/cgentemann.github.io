@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Dr. Gentemann is currently a senior scientist at Farallon Institute, leading research on open science, cloud computing, biophysical interactions, validation of satellite ocean temperature and salinity retrievals. She has coordinated plans and project success for several large, international groups, leading the US component of the international Group for High Resolution Sea Surface Temperature (GHRSST) science team since 2003, and leading 3 large field campaigns. For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, including calibration, algorithm development, validation, data distribution, and science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS, a global 1-km 18 year record of SST and sits on the open-science Pangeo project’s steering committee. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission.”
+Dr. Gentemann is currently a senior scientist at Farallon Institute, leading research on open science, cloud computing, remote sensing, and physical oceanography. She is the science lead for a proposed NASA Earth Venture Mission, [Butterfly](https://nasa-butterfly.github.io/). She has coordinated plans and project success for several large, international groups, leading the US component of the international Group for High Resolution Sea Surface Temperature (GHRSST) science team since 2003, and leading 3 large field campaigns. For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, including calibration, algorithm development, validation, data distribution, and science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS, a global 1-km 18 year record of SST and sits on the open-science Pangeo project’s steering committee. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission.”
 
 ## Occupation
 
@@ -245,10 +245,12 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 ## Ph.D. / Masters Committees, Summer Interns, Student collaborators:
 
-`2020` Sanola Sandiford, Caribbean Institute for Meteorology and Hydrology\
-`2020` Kashawn Hall, Caribbean Institute for Meteorology and Hydrology\
-`2020` Alton Daley, Caribbean Institute for Meteorology and Hydrology\
-`2020` Zaher Alruzaiqi, Sultan Qaboos University\
+`2021` Lucas Sterzinger, UC Davis\
+`2020-2021` Sanola Sandiford, Caribbean Institute for Meteorology and Hydrology\
+`2020-2021` Kashawn Hall, Caribbean Institute for Meteorology and Hydrology\
+`2020-2021` Alton Daley, Caribbean Institute for Meteorology and Hydrology\
+`2020-2021` Shanice Whitehall, Caribbean Institute for Meteorology and Hydrology\
+`2020-2021` Zaher Alruzaiqi, Sultan Qaboos University\
 `2019 - 2020` Sotirios Skarpalezos, Technical University of Denmark\
 `2017 - 2018` Emy Alerskans, Technical University of Denmark\
 `2019 - -2020` Senya Stein, Colorado School of the Mines\
