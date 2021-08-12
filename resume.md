@@ -174,6 +174,8 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 
 `2021` 
 FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/)\
+`2021`
+Pangeo Science Showcase: [Accessing SST data on the cloud](https://discourse.pangeo.io/t/may-19-2021-accessing-sea-surface-temperature-data-on-the-cloud/1503)\
 `2021` 
 Science Thursday Livestream on [Distributed Data Science and Oceanography with Dask](https://www.youtube.com/watch?v=ZoK3Rn5j9R4&feature=youtu.be&ab_channel=Coiled)\
 `2021` 
