@@ -5,7 +5,7 @@ excerpt: "Open science, open-source software, and cloud-based Big Data collectio
 modified: 8/26/2021, 12:00:24
 tags: [intro, NASA, science, open science]
 comments: true
-category: blog
+category: presentation
 ---
 
 A link to the interview [here](https://earthdata.nasa.gov/learn/data-chat/data-chat-dr-chelle-gentemann)
