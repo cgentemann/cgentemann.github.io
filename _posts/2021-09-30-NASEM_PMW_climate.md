@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Satellite Passive Microwave Measurements of the climate crisis 
-excerpt: "Pasive microwave data provide a critically important 40-year record of changes to our climate."
+excerpt: "10/2021 NASEM CORF invited talk: Passive microwave data provide a critically important 40-year record of changes to our climate."
 modified: 2021-06-13 20:41:38
 tags: [science, policy]
 comments: true
