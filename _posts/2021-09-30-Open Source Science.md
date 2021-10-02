@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Open ecosystems help science storm the cloud
-excerpt: "FedGeo21 keynote: How are open science and cloud computing changing science, how we collaborate, and who participates? How are these changes affecting US federal agencies?"
+title: Open Source Science 
+excerpt: "The core tools of geospatial science (data, software, and computers) are undergoing a rapid and historic evolution, changing what questions scientists ask and how they find answers."
 modified: 2021-06-13 20:41:38
 tags: [cloud computing, open science, science, policy]
 comments: true
 category: presentation
 ---
-# [FedGeo21](https://fedgeo.us/) keynote
-How are open science and cloud computing changing science, how we collaborate, and who participates? How are these changes affecting US federal agencies?
-[Link to presentation slides](https://www.slideshare.net/ChelleGentemann/open-ecosystems-help-science-storm-the-cloud)
+# [FedGeo21](https://2021.foss4g.org/) invited talk
+The core tools of geospatial science (data, software, and computers) are undergoing a rapid and historic evolution, changing what questions scientists ask and how they find answers.
+[Link to presentation slides](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science)
