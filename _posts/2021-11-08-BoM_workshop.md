@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Open Source Science 
-excerpt: "10/2021 FOSS4G invited talk: The core tools of geospatial science (data, software, and computers) are undergoing a rapid and historic evolution, changing what questions scientists ask and how they find answers."
+title: Transforming to Open Science 
+excerpt: "11/2021 Australian Bureau of Meteorology Annual research and development workshop, invited presentation on open source science."
 modified: 2021-06-13 20:41:38
 tags: [cloud computing, open science, science, policy]
 comments: true
 category: presentation
 ---
-# [FedGeo21](https://2021.foss4g.org/) invited talk
-The core tools of geospatial science (data, software, and computers) are undergoing a rapid and historic evolution, changing what questions scientists ask and how they find answers.
-[Link to presentation slides](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science)
+# [Workshop website](http://www.bom.gov.au/research/workshop/2021/) invited talk
+What is open science? How can it help us ask better questions and get better answers?
