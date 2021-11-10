@@ -173,6 +173,12 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 ## Partial list of invited talks/panels:
 
 `2021` 
+Australian Bureau of Meteorology Annual research and development workshop [Science Storms the Cloud](http://www.bom.gov.au/research/workshop/2021/)\
+`2021`
+[Lecture 19](https://ds100.org/fa21/lecture/lec19/) to UC Berkeley's Data 100 class on the physical basis of climate change and using Xarray to analyze climate records\
+`2021`
+NASA Open-Source Science for Data Processing and Archives Workshop [Transform to OPen Science](https://science.nasa.gov/researchers/science-data/open-source-science-workshop)
+`2021` 
 FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/)\
 `2021`
 Pangeo Science Showcase: [Accessing SST data on the cloud](https://discourse.pangeo.io/t/may-19-2021-accessing-sea-surface-temperature-data-on-the-cloud/1503)\
@@ -273,9 +279,9 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 ## Publications
 
 1. Daley, A., S. Sandiford. K. Hall, C. Gentemann, "ATOMIC: Salty Seas from Satellites and Saildrones", in prep
-4. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), submitted Earth System Science Data.
 6. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones", submitted MWR.
-7. Ashlock, L., M. Garcia-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature driven patterns of copepod presence and abundance in the Northeast Pacific", submitted Frontiers.
+7. Ashlock, L., M. Garcia-Reyes, S. Batten, C. Gentemann, W. Sydeman, ["Temperature and Patterns of Occurrence and Abundance of Key Copepod Taxa in the Northeast Pacific"](https://doi.org/10.3389/fmars.2021.670795s), Front. Mar. Sci., 07 September 2021 | https://doi.org/10.3389/fmars.2021.670795s.
+4. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), Earth Syst. Sci. Data, 13, 4067–4119, 2021, https://doi.org/10.5194/essd-13-4067-2021.
 8. Erdmann, Christopher, Stall, Shelley, Gentemann, Chelle, Holdgraf, Chris, Fernandes, Filipe P. A., & Gehlen, Karsten Peters-von. (2021, May 20). Guidance for AGU Authors - Jupyter Notebooks. Zenodo. [http://doi.org/10.5281/zenodo.4910038](http://doi.org/10.5281/zenodo.4910038)
 9. Gentemann, C. L., Holdgraf, C., Abernathey, R., Crichton, D., Colliander, J., Kearns, E. J., et al. (2021). Science storms the cloud. AGU Advances, 2, e2020AV000354. [https://doi.org/10.1029/2020AV000354](https://doi.org/10.1029/2020AV000354)
 10. Chiodi AM, Zhang C, Cokelet ED, Yang Q, Mordy CW, Gentemann CL, Cross JN, Lawrence-Slavas N, Meinig C, Steele M, Harrison DE, Stabeno PJ, Tabisola HM, Zhang D, Burger EF, O’Brien KM and Wang M (2021) Exploring the Pacific Arctic Seasonal Ice Zone With Saildrone USVs. Front. Mar. Sci. 8:640690. [doi: 10.3389/fmars.2021.640697](https://www.frontiersin.org/articles/10.3389/fmars.2021.640697/full)
