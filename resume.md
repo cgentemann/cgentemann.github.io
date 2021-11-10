@@ -179,6 +179,10 @@ Australian Bureau of Meteorology Annual research and development workshop [Scien
 `2021`
 NASA Open-Source Science for Data Processing and Archives Workshop [Transform to OPen Science](https://science.nasa.gov/researchers/science-data/open-source-science-workshop)
 `2021` 
+[FOSS4G](https://2021.foss4g.org/) invited talk [Open Source Science](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science)
+`2021` 
+[NASEM Committee on Radio Frequencies](https://www.nationalacademies.org/our-work/committee-on-radio-frequencies) invited talk: [Passive microwave data provide a critically important 40-year record of changes to our climate](https://www.slideshare.net/ChelleGentemann/satellite-passive-microwave-measurements-of-the-climate-crisis)
+`2021` 
 FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/)\
 `2021`
 Pangeo Science Showcase: [Accessing SST data on the cloud](https://discourse.pangeo.io/t/may-19-2021-accessing-sea-surface-temperature-data-on-the-cloud/1503)\
