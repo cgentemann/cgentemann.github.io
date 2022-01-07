@@ -8,4 +8,4 @@ comments: true
 category: presentation
 ---
 # [Workshop website](http://www.bom.gov.au/research/workshop/2021/) invited talk:
-"What is open science? How can it help us ask better questions and get better answers?" Available (here)[https://www.youtube.com/watch?v=CtaQN4546Cw&ab_channel=BureauofMeteorology]
+"What is open science? How can it help us ask better questions and get better answers?" Available [here](https://www.youtube.com/watch?v=CtaQN4546Cw&ab_channel=BureauofMeteorology)
