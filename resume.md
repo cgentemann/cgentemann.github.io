@@ -124,10 +124,18 @@ MIT Educational Council \
 __Team Member__
 NASA Satellite Ocean Atlas Team
 
-## Testimony:
-
+##Public Speaking and Articles:
 `2019` 
 House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Space: Exploring NASA's Science Mission." 11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission)
+`2020` 
+AWS Public Sector Online, 30 June 2020. [Video](https://www.youtube.com/watch?v=vkaMBBF3PHs)
+`2021`
+NASA Earth [Data Chats](https://earthdata.nasa.gov/learn/data-chat) 21 May 2021. [Article](https://earthdata.nasa.gov/learn/data-chat/data-chat-dr-chelle-gentemann)
+`2021`
+[PythonBytes](https://pythonbytes.fm/) Podcast "Please Re-enable Spacebar Heating" 3 Dec 2021. [PodCast](https://pythonbytes.fm/episodes/show/261/please-re-enable-spacebar-heating)
+`2022`
+[AWS Day One](https://blog.aboutamazon.co.uk/) These Women use Science Data and Amazon to Fight Climate Change 14 Feb 2022 [Article](https://blog.aboutamazon.co.uk/sustainability/these-women-use-science-data-and-amazon-to-fight-climate-change)
+
 
 ## Images:
 
