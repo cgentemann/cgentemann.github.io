@@ -124,7 +124,8 @@ MIT Educational Council \
 __Team Member__
 NASA Satellite Ocean Atlas Team
 
-##Public Speaking and Articles:
+## Public Speaking and Articles:
+
 `2019` 
 House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Space: Exploring NASA's Science Mission." 11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission)
 `2020` 
