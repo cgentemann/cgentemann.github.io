@@ -132,6 +132,8 @@ National Geographic: A Striking New View of the Pacific “Blob” 8 Feb 2017. (
 House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Space: Exploring NASA's Science Mission." 11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission) \
 `2020` 
 AWS Public Sector Online, 30 June 2020. [Video](https://www.youtube.com/watch?v=vkaMBBF3PHs) \
+`2020`
+Saildrone’s Science at the Air–Sea Interface 23 July 2020. [Article](http://blog.ametsoc.org/bams-paper/saildrones-science-at-the-air-sea-interface/) \
 `2021`
 NASA Earth [Data Chats](https://earthdata.nasa.gov/learn/data-chat) 21 May 2021. [Article](https://earthdata.nasa.gov/learn/data-chat/data-chat-dr-chelle-gentemann) \
 `2021`
