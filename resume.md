@@ -183,7 +183,9 @@ OceanObs Python Tutorial, Python for Oceanography [website](https://github.com/p
 GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](https://github.com/python4oceanography/ocean_python_tutorial)
 
 ## Meeting Organzation
-
+`2021` ASLO/AGU Ocean Sciences Meeting Townhall: TH53 NASA’s Open Source Science Initiative \
+`2021` ASLO/AGU Ocean Sciences Meeting Innovation Session: IN08A Open Ocean Science \
+`2021` AGU Fall Meeting full day Innovation Session: "U51B: Open Science in Action" \
 `2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf) \
 `2019` OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) \
 `2003 - present` Annual MISST science team meetings held at AGU/Ocean Sciences \
@@ -192,7 +194,10 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 `2017-2018` 3 NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings\
 
 ## Partial list of invited talks/panels:
-
+`2021`
+AGU Fall Meeting U34A-02: Science for the World: Transform to OPen Science (TOPS)
+`2021`
+AGU Fall Meeting IN55C-02: Open Oceanography - FOSS science
 `2021` 
 Australian Bureau of Meteorology Annual research and development workshop [Science Storms the Cloud](http://www.bom.gov.au/research/workshop/2021/)\
 `2021`
