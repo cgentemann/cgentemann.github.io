@@ -135,9 +135,11 @@ AWS Public Sector Online, 30 June 2020. [Video](https://www.youtube.com/watch?v=
 `2020`
 Saildrone’s Science at the Air–Sea Interface 23 July 2020. [Article](http://blog.ametsoc.org/bams-paper/saildrones-science-at-the-air-sea-interface/) \
 `2020`
-Dask in Action with Massive Satellite Datasets 8 Aug 2020. [Article](https://coiled.io/blog/dask-in-action-gentemann/)
+Dask in Action with Massive Satellite Datasets 8 Aug 2020. [Article](https://coiled.io/blog/dask-in-action-gentemann/) \
 `2020`
-Accelerating Science with Dask 26 July 2020. [Article](https://coiled.io/blog/accelerating-science-dask-gentemann/)
+Accelerating Science with Dask 26 July 2020. [Article](https://coiled.io/blog/accelerating-science-dask-gentemann/) \
+`2021`
+Distributed Data Science and Oceanography with Dask 8 April 2021 [YouTube](ttps://www.youtube.com/watch?v=ZoK3Rn5j9R4) \
 `2021`
 NASA Earth [Data Chats](https://earthdata.nasa.gov/learn/data-chat) 21 May 2021. [Article](https://earthdata.nasa.gov/learn/data-chat/data-chat-dr-chelle-gentemann) \
 `2021`
