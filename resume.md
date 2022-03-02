@@ -128,6 +128,8 @@ NASA Satellite Ocean Atlas Team
 
 `2017`
 National Geographic: A Striking New View of the Pacific “Blob” 8 Feb 2017. [Article](https://www.nationalgeographic.com/culture/article/space-map-pacific-blob) \
+`2018`
+Human Emissions Made Ocean Heat Wave 53 Times More Likely 15 Jan 2018. [Article](https://www.nationalgeographic.com/science/article/carbon-dioxide-emissions-drive-ocean-heat-waves-global-warming) \
 `2019` 
 House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Space: Exploring NASA's Science Mission." 11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission) \
 `2020` 
