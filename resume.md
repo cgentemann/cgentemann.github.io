@@ -3,15 +3,16 @@ layout: resume
 ---
 ## Currently
 
-Dr. Gentemann is currently a senior scientist at Farallon Institute, leading research on open science, cloud computing, remote sensing, and physical oceanography. She is the science lead for a proposed NASA Earth Venture Mission, [Butterfly](https://nasa-butterfly.github.io/). She has coordinated plans and project success for several large, international groups, leading the US component of the international Group for High Resolution Sea Surface Temperature (GHRSST) science team since 2003, and leading 3 large field campaigns. For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, including calibration, algorithm development, validation, data distribution, and science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS, a global 1-km 18 year record of SST and sits on the open-science Pangeo project’s steering committee. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission.”
+Dr. Gentemann is currently NASA's Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/transform-to-open-science)) Program Scientist. At Farallon Institute, she was a senior scientist leading research on open science, cloud computing, remote sensing, physical oceanography, and the science lead for a proposed NASA Earth Venture Mission, [Butterfly](https://nasa-butterfly.github.io/). She has coordinated plans and project success for several large, international groups, leading the US component of the international Group for High Resolution Sea Surface Temperature (GHRSST) science team since 2003, and leading 3 large field campaigns. For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, including calibration, algorithm development, validation, data distribution, and science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS, a global 1-km 18 year record of SST and sits on the open-science Pangeo project’s steering committee. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission.”
 
 ## Occupation
 
 `Current`
-
+__Transform to Open Science (TOPS) Program Scientist__, [NASA](https://science.nasa.gov/open-science/transform-to-open-science) \
 __Senior Scientist__, [Farallon Institute](https://faralloninstitute.org) \
-__Affiliate__ [Earth and Space Research](https://www.esr.org/) \
+`2016 - 2022` 
 __Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/) \
+__Affiliate__ [Earth and Space Research](https://www.esr.org/) \
 `2017 - 2018` 
 __Visiting Scholar__, NASA Jet Propulsion Laboratory \
 `3/2016 - 2020`
@@ -73,9 +74,6 @@ National Academies of Sciences, Engineering, and Medicine, Intelligence Science 
 `2013 - 2015` 
 __Committee Member__
 National Academies of Sciences, Engineering, and Medicine, Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space [report](https://www.nap.edu/catalog/21789/continuity-of-nasa-earth-observations-from-space-a-value-framework)\
-`2020 - present`
-__Steering Council__
-[Pangeo](https://pangeo.io) \
 `2020 - present` 
 __Associate Editor__
 American Geophysical Union [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/editorial-board.html)\
@@ -84,6 +82,9 @@ __Science Team__
 US Clivar Working Group: [Uncertainty Quantification](https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group) \
 `2001 - present`
 __Science Team and Advisory Council__
+`2020 - 2022`
+__Steering Council__
+[Pangeo](https://pangeo.io) \
 `2016 - 2017`
 __Chair Advisory Council__
 [Group for high resolution SST (GHRSST) Science Team](https://www.ghrsst.org) \
@@ -97,10 +98,10 @@ __Committee Member__
 `2016 - 2019`
 __Chair__
 [AGU Falkenberg Award Committee](https://www.agu.org/Honor-and-Recognize/Honors/Union-Awards/Falkenberg-Award)\
-`2019 - present`
+`2019 - 2022`
 __Team member__
 NASA PO.DAAC Early Cloud Adopters Program\
-`2019 - present`
+`2019 - 2022`
 __Science Team__
 JAXA [AMSR3](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2573914?SSO=1) \
 `2014 - 2015`
@@ -310,7 +311,7 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 1. Daley, A., S. Sandiford. K. Hall, C. Gentemann, "ATOMIC: Salty Seas from Satellites and Saildrones", in prep
 6. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones", submitted MWR.
-7. Gentemann, C. L., Erdmann, C.; and Kroeger, C. Institutionalizing open science, (in press National Academy of Sciences Issues in Science and Technology, Special Issue on the next 75 years of science).
+7. Gentemann, C. L., Erdmann, C.; and Kroeger, C. Opening up to Open Science, (in press National Academy of Sciences Issues in Science and Technology, Special Issue on the next 75 years of science).
 8. Vazquez-Cuervo, J.; Castro, S.L.; Steele, M.; Gentemann, C.; Gomez-Valdes, J.; Tang, W. Comparison of GHRSST SST Analysis in the Arctic Ocean and Alaskan Coastal Waters Using Saildrones. Remote Sens. 2022, 14, 692. [https://doi.org/10.3390/rs14030692](https://doi.org/10.3390/rs14030692)
 9. Ashlock, L., M. Garcia-Reyes, S. Batten, C. Gentemann, W. Sydeman, ["Temperature and Patterns of Occurrence and Abundance of Key Copepod Taxa in the Northeast Pacific"](https://doi.org/10.3389/fmars.2021.670795s), Front. Mar. Sci., 07 September 2021 | https://doi.org/10.3389/fmars.2021.670795s.
 10. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), Earth Syst. Sci. Data, 13, 4067–4119, 2021, https://doi.org/10.5194/essd-13-4067-2021.
