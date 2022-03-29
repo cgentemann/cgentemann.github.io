@@ -7,15 +7,15 @@ Dr. Gentemann is currently NASA's Transform to Open Science ([TOPS](https://scie
 
 ## Occupation
 
-`Current`
+`Current`\
 __Transform to Open Science (TOPS) Program Scientist__, [NASA](https://science.nasa.gov/open-science/transform-to-open-science) \
 __Senior Scientist__, [Farallon Institute](https://faralloninstitute.org) \
-`2016 - 2022` 
+`2016 - 2022` \
 __Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/) \
 __Affiliate__ [Earth and Space Research](https://www.esr.org/) \
 `2017 - 2018` 
 __Visiting Scholar__, NASA Jet Propulsion Laboratory \
-`3/2016 - 2020`
+`2016 - 2020`
 __Senior Scientist__, Earth & Space Research \
 `2012 - 2015` 
 __Senior Principal Scientist__, Remote Sensing Systems \
@@ -148,8 +148,9 @@ NASA Earth [Data Chats](https://earthdata.nasa.gov/learn/data-chat) 21 May 2021.
 `2021`
 [PythonBytes](https://pythonbytes.fm/) Podcast "Please Re-enable Spacebar Heating" 3 Dec 2021. [PodCast](https://pythonbytes.fm/episodes/show/261/please-re-enable-spacebar-heating) \
 `2022`
-[AWS Day One](https://blog.aboutamazon.co.uk/) These Women use Science Data and Amazon to Fight Climate Change 14 Feb 2022 [Article](https://blog.aboutamazon.co.uk/sustainability/these-women-use-science-data-and-amazon-to-fight-climate-change) 
-
+[AWS Day One](https://blog.aboutamazon.co.uk/) These Women use Science Data and Amazon to Fight Climate Change 14 Feb 2022 [Article](https://blog.aboutamazon.co.uk/sustainability/these-women-use-science-data-and-amazon-to-fight-climate-change) \
+`2022` 
+Environmental Professionals Radio ([EPR](https://www.environmentalprofessionalsradio.com/)), "Coding, Open Science, and Physical Oceanography with Dr. Chelle Gentemann" [PodCast](https://www.youtube.com/watch?v=atfijhzzQz4)
 
 ## Images:
 
