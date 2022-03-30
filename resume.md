@@ -80,11 +80,11 @@ American Geophysical Union [Earth and Space Science](https://agupubs.onlinelibra
 `2020 - present`
 __Science Team__
 US Clivar Working Group: [Uncertainty Quantification](https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group) \
-`2001 - present`
-__Science Team and Advisory Council__
 `2020 - 2022`
 __Steering Council__
 [Pangeo](https://pangeo.io) \
+`2001 - 2022`
+__Science Team and Advisory Council__
 `2016 - 2017`
 __Chair Advisory Council__
 [Group for high resolution SST (GHRSST) Science Team](https://www.ghrsst.org) \
@@ -115,7 +115,7 @@ NASA [PO.DAAC User Working Group](https://podaac.jpl.nasa.gov/AboutPodaac#UWG) \
 `2009 - 2016`
 __Science Team__ 
 JAXA GCOM-W AMSR2 Science Team\
-`2010 - present`
+`2010 - 2020`
 __Science Team__
 NASA Sea Surface Temperature Science Team\
 `1998 - 2020`
