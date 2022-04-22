@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accessing Sea surface Temperature Data on the cloud
+title: Accessing Sea Surface Temperature Data on the cloud
 excerpt: "Cloud based SST data provide an opportunity for data-proximate computing, where exploration and research can occur more rapidly."
 modified: 2021-05-19 20:41:38
 tags: [cloud computing, open source software, science]
