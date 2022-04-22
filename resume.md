@@ -312,7 +312,7 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 1. Daley, A., S. Sandiford. K. Hall, C. Gentemann, "ATOMIC: Salty Seas from Satellites and Saildrones", in prep
 1. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones", submitted MWR.
-7. Gentemann, C. L., Erdmann, C.; and Kroeger, C. Opening up to Open Science, (in press National Academy of Sciences Issues in Science and Technology, Special Issue on the next 75 years of science).
+7. Gentemann, C. L., Erdmann, C.; and Kroeger, C. Opening up to Open Science, Issues in Science and Technology 38, no. 3 (Spring 2022): 57–59.[link](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/).
 8. Vazquez-Cuervo, J.; Castro, S.L.; Steele, M.; Gentemann, C.; Gomez-Valdes, J.; Tang, W. Comparison of GHRSST SST Analysis in the Arctic Ocean and Alaskan Coastal Waters Using Saildrones. Remote Sens. 2022, 14, 692. [https://doi.org/10.3390/rs14030692](https://doi.org/10.3390/rs14030692)
 9. Ashlock, L., M. Garcia-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature and Patterns of Occurrence and Abundance of Key Copepod Taxa in the Northeast Pacific", Front. Mar. Sci., 07 September 2021, [https://doi.org/10.3389/fmars.2021.670795s](https://doi.org/10.3389/fmars.2021.670795s).
 10. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), Earth Syst. Sci. Data, 13, 4067â€“4119, 2021, https://doi.org/10.5194/essd-13-4067-2021.
