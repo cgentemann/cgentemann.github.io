@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Dr. Gentemann is currently NASA's Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/transform-to-open-science)) Program Scientist. At Farallon Institute, she was a senior scientist leading research on open science, cloud computing, remote sensing, physical oceanography, and the science lead for a proposed NASA Earth Venture Mission, [Butterfly](https://nasa-butterfly.github.io/). She has coordinated plans and project success for several large, international groups, leading the US component of the international Group for High Resolution Sea Surface Temperature (GHRSST) science team since 2003, and leading 3 large field campaigns. For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, including calibration, algorithm development, validation, data distribution, and science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS, a global 1-km 18 year record of SST and sits on the open-science Pangeo project’s steering committee. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission.”
+Dr. Gentemann is currently NASA's Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/transform-to-open-science)) Program Scientist. At Farallon Institute, she was a senior scientist leading research on open science, cloud computing, remote sensing, physical oceanography, and the science lead for a proposed NASA Earth Venture Mission, [Butterfly](https://nasa-butterfly.github.io/). She has coordinated plans and project success for several large, international groups, leading the US component of the international Group for High Resolution Sea Surface Temperature (GHRSST) science team since 2003, and leading 3 large field campaigns. For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, including calibration, algorithm development, validation, data distribution, and science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS, a global 1-km 18 year record of SST and sits on the open-science Pangeo projectâ€™s steering committee. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, â€œDiscovery on the Frontiers of Space: Exploring NASAâ€™s Science Mission.â€
 
 ## Occupation
 
@@ -128,7 +128,7 @@ NASA Satellite Ocean Atlas Team
 ## Public Speaking and Articles:
 
 `2017`
-National Geographic: A Striking New View of the Pacific “Blob” 8 Feb 2017. [Article](https://www.nationalgeographic.com/culture/article/space-map-pacific-blob) \
+National Geographic: A Striking New View of the Pacific â€œBlobâ€ 8 Feb 2017. [Article](https://www.nationalgeographic.com/culture/article/space-map-pacific-blob) \
 `2018`
 Human Emissions Made Ocean Heat Wave 53 Times More Likely 15 Jan 2018. [Article](https://www.nationalgeographic.com/science/article/carbon-dioxide-emissions-drive-ocean-heat-waves-global-warming) \
 `2019` 
@@ -136,7 +136,7 @@ House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Spac
 `2020` 
 AWS Public Sector Online, 30 June 2020. [Video](https://www.youtube.com/watch?v=vkaMBBF3PHs) \
 `2020`
-Saildrone’s Science at the Air–Sea Interface 23 July 2020. [Article](http://blog.ametsoc.org/bams-paper/saildrones-science-at-the-air-sea-interface/) \
+Saildroneâ€™s Science at the Airâ€“Sea Interface 23 July 2020. [Article](http://blog.ametsoc.org/bams-paper/saildrones-science-at-the-air-sea-interface/) \
 `2020`
 Dask in Action with Massive Satellite Datasets 8 Aug 2020. [Article](https://coiled.io/blog/dask-in-action-gentemann/) \
 `2020`
@@ -185,7 +185,7 @@ OceanObs Python Tutorial, Python for Oceanography [website](https://github.com/p
 GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](https://github.com/python4oceanography/ocean_python_tutorial)
 
 ## Meeting Organzation
-`2021` ASLO/AGU Ocean Sciences Meeting Townhall: TH53 NASA’s Open Source Science Initiative \
+`2021` ASLO/AGU Ocean Sciences Meeting Townhall: TH53 NASAâ€™s Open Source Science Initiative \
 `2021` ASLO/AGU Ocean Sciences Meeting Innovation Session: IN08A Open Ocean Science \
 `2021` AGU Fall Meeting full day Innovation Session: "U51B: Open Science in Action" \
 `2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf) \
@@ -219,7 +219,7 @@ Science Thursday Livestream on [Distributed Data Science and Oceanography with D
 `2021` 
 International Ocean Vector Wind Science Team meeting invited talk: [Butterfly](https://youtu.be/AhkGZYbW_24)\
 `2020` 
-AGU Fall meeting invited talk: Session: Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".\
+AGU Fall meeting invited talk: Session:Â Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".\
 `2020` 
 ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) \
 `2020` 
@@ -312,19 +312,19 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 1. Daley, A., S. Sandiford. K. Hall, C. Gentemann, "ATOMIC: Salty Seas from Satellites and Saildrones", in prep
 1. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Operational Forecasts at Alaskan Arctic Sea Surface Using in situ Observations from Saildrones", submitted MWR.
-7. Gentemann, C. L., Erdmann, C.; and Kroeger, C. Opening up to Open Science, Issues in Science and Technology 38, no. 3 (Spring 2022): 57�59.[link](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/).
+2. Gentemann, C. L., Erdmann, C.; and Kroeger, C. Opening up to Open Science, Issues in Science and Technology 38, no. 3 (Spring 2022): 57–59.[link](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/).
 8. Vazquez-Cuervo, J.; Castro, S.L.; Steele, M.; Gentemann, C.; Gomez-Valdes, J.; Tang, W. Comparison of GHRSST SST Analysis in the Arctic Ocean and Alaskan Coastal Waters Using Saildrones. Remote Sens. 2022, 14, 692. [https://doi.org/10.3390/rs14030692](https://doi.org/10.3390/rs14030692)
 9. Ashlock, L., M. Garcia-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature and Patterns of Occurrence and Abundance of Key Copepod Taxa in the Northeast Pacific", Front. Mar. Sci., 07 September 2021, [https://doi.org/10.3389/fmars.2021.670795s](https://doi.org/10.3389/fmars.2021.670795s).
-10. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), Earth Syst. Sci. Data, 13, 4067–4119, 2021, https://doi.org/10.5194/essd-13-4067-2021.
+10. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), Earth Syst. Sci. Data, 13, 4067â€“4119, 2021, https://doi.org/10.5194/essd-13-4067-2021.
 11. Erdmann, Christopher, Stall, Shelley, Gentemann, Chelle, Holdgraf, Chris, Fernandes, Filipe P. A., & Gehlen, Karsten Peters-von. (2021, May 20). Guidance for AGU Authors - Jupyter Notebooks. Zenodo. [http://doi.org/10.5281/zenodo.4910038](http://doi.org/10.5281/zenodo.4910038)
 12. Gentemann, C. L., Holdgraf, C., Abernathey, R., Crichton, D., Colliander, J., Kearns, E. J., et al. (2021). Science storms the cloud. AGU Advances, 2, e2020AV000354. [https://doi.org/10.1029/2020AV000354](https://doi.org/10.1029/2020AV000354)
-13. Chiodi AM, Zhang C, Cokelet ED, Yang Q, Mordy CW, Gentemann CL, Cross JN, Lawrence-Slavas N, Meinig C, Steele M, Harrison DE, Stabeno PJ, Tabisola HM, Zhang D, Burger EF, O’Brien KM and Wang M (2021) Exploring the Pacific Arctic Seasonal Ice Zone With Saildrone USVs. Front. Mar. Sci. 8:640690. [doi: 10.3389/fmars.2021.640697](https://www.frontiersin.org/articles/10.3389/fmars.2021.640697/full)
+13. Chiodi AM, Zhang C, Cokelet ED, Yang Q, Mordy CW, Gentemann CL, Cross JN, Lawrence-Slavas N, Meinig C, Steele M, Harrison DE, Stabeno PJ, Tabisola HM, Zhang D, Burger EF, Oâ€™Brien KM and Wang M (2021) Exploring the Pacific Arctic Seasonal Ice Zone With Saildrone USVs. Front. Mar. Sci. 8:640690. [doi: 10.3389/fmars.2021.640697](https://www.frontiersin.org/articles/10.3389/fmars.2021.640697/full)
 14. Vazquez-Cuervo, J., C.L. Gentemann, et al. [Validation of Sea Surface Salinity in the Bering Straits using Saildrone, SMAP, and Models](https://www.mdpi.com/2072-4292/13/5/831), Remote Sens. 2021, 13(5), 831; https://doi.org/10.3390/rs13050831.
 15. Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. J. Hamman, N. Henderson, C. Lepore, T. A. McCaie, N.H. Robinson, R.P. Signell, [Cloud-Native Repositories for Big Scientific Data](https://www.computer.org/csdl/magazine/cs/5555/01/09354557/1reXu4gJjri), in Computing in Science & Engineering, vol. , no. 01, pp. 1-1, 5555. doi: 10.1109/MCSE.2021.3059437
-16. Hoover BA, García-Reyes M, Batten SD, Gentemann CL, Sydeman WJ (2021) [Spatio-temporal persistence of zooplankton communities in the Gulf of Alaska]((https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244960)). PLoS ONE 16(1): e0244960. https://doi.org/10.1371/journal.pone.0244960
+16. Hoover BA, GarcÃ­a-Reyes M, Batten SD, Gentemann CL, Sydeman WJ (2021) [Spatio-temporal persistence of zooplankton communities in the Gulf of Alaska]((https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244960)). PLoS ONE 16(1): e0244960. https://doi.org/10.1371/journal.pone.0244960
 17. Gentemann, C.L.; et al. FluxSat: Measuring the Ocean-Atmosphere Turbulent Exchange of Heat and Moisture from Space. Remote Sensing 2020, 12, 1796, [doi:10.3390/rs12111796](https://www.mdpi.com/2072-4292/12/11/1796).
 18. Gentemann, C.L., et al., ["Saildrone: adaptively sampling the marine environment"](https://doi.org/10.1175/BAMS-D-19-0015.1), 2020, Bull. Amer. Meteor. Soc., 101, E744-E762, https://doi.org/10.1175/BAMS-D-19-0015.1.
-19. Alerskans, E., J. L. HÃ¸yer, C. L. Gentemann, et al. (2020), Construction of a climate data record of sea surface temperature from passive microwave measurements, Remote Sensing of Environment, 236, 111485, doi:https://doi.org/10.1016/j.rse.2019.111485. 
+19. Alerskans, E., J. L. HÃƒÂ¸yer, C. L. Gentemann, et al. (2020), Construction of a climate data record of sea surface temperature from passive microwave measurements, Remote Sensing of Environment, 236, 111485, doi:https://doi.org/10.1016/j.rse.2019.111485. 
 20. Scott, J. P., S. Crooke, I. Cetini?, C. E. Del Castillo, and C. L. Gentemann (2020), "Correcting non-photochemical quenching of Saildrone chlorophyll-a fluorescence for evaluation of satellite ocean color retrievals," Opt. Express 28(3), 4274-4285, https://doi.org/10.1364/OE.382029.
 21. Cronin M. F. and C. L. Gentemann, (2019) "Ocean Surface Holds the Key to Understanding Our Climate", Scientia Earth and Environment. https://doi.org/10.33548/SCIENTIA435.
 22. Vazquez-Cuervo, J.; Gomez-Valdes, J.; Bouali, M.; Miranda, L.E.; Van der Stocken, T.; Tang, W.; Gentemann, C. Using Saildrones to Validate Satellite-Derived Sea Surface Salinity and Sea Surface Temperature along the California/Baja Coast (2019), Remote Sens., 11, 1964 [https://doi.org/10.3390/rs11171964](https://www.mdpi.com/2072-4292/11/17/1964). 
@@ -338,8 +338,8 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 30. National Academies of Sciences, Engineering, and Medicine (2018) Open Source Software Policy Options for NASA Earth and Space Sciences. Washington, DC: The National Academies Press., [doi: 10.17226/25217](https://www.nap.edu/catalog/25217/open-source-software-policy-options-for-nasa-earth-and-space-sciences). 
 31. Lee, T., and C. L. Gentemann (2018), Satellite SST and SSS Observations and Their Role to Constrain Ocean Models, in New Frontiers in Operational Oceanography, edited by E. P. Chassignet, CreateSpace Independent Publishing Platform, Scotts Valley, CA, pp. 812.[DOI:10.17125/gov2018.ch11](http://fsu.digital.flvc.org/islandora/object/fsu%3A602134)
 32. Zhang, H., Beggs, H., Merchant, C. J., Wang, X. H., Majewski, L., Kiss, A. E., et al. (2018). Comparison of SST diurnal variation models over the Tropical Warm Pool region. J. Geophys. Res. Oceans, 123, 3467?3488. [https://doi.org/10.1029/2017JC013517](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017JC013517). 
-33. Nielsen-Englyst, P., J. L. HÃ¸yer, L. Toudal Pedersen, C. L. Gentemann, E. Alerskans, T. Block, and C. Donlon (2018), Optimal Estimation of Sea Surface Temperature from AMSR-E, Remote Sensing, 10(2), 229, doi:10.3390/rs10020229. 
-34. Gentemann, C. L., M. R. Fewings, and M. GarcÃ­a-Reyes (2016), "Satellite sea surface temperatures along the West Coast of the United States during the 2014-2016 northeast Pacific marine heat wave", Geophys. Res. Lett., 43, doi:10.1002/2016GL071039.
+33. Nielsen-Englyst, P., J. L. HÃƒÂ¸yer, L. Toudal Pedersen, C. L. Gentemann, E. Alerskans, T. Block, and C. Donlon (2018), Optimal Estimation of Sea Surface Temperature from AMSR-E, Remote Sensing, 10(2), 229, doi:10.3390/rs10020229. 
+34. Gentemann, C. L., M. R. Fewings, and M. GarcÃƒÂ­a-Reyes (2016), "Satellite sea surface temperatures along the West Coast of the United States during the 2014-2016 northeast Pacific marine heat wave", Geophys. Res. Lett., 43, doi:10.1002/2016GL071039.
 35. National Academies of Sciences, Engineering, and Medicine. 2015. Continuity of NASA Earth Observations from Space: A Value Framework. Washington, DC: The National Academies Press. https://doi.org/10.17226/21789. 
 36. Gentemann, C.L. and K.A. Hilburn, "In situ validation of sea surface temperatures from the GCOM-W1 AMSR2 RSS calibrated brightness temperatures", (2015) J. Geophys. Res. Oceans, 120, 3567-3585, doi: 10.1002/2014JC010574.
 37. Walker, N. D., R. R. Leben, C. T. Pilley, M. Shannon, D. C. Herndon, I.-F. Pun, I.-I. Lin, and C. L. Gentemann (2014), Slow translation speed causes rapid collapse of northeast Pacific Hurricane Kenneth over cold core eddy, Geophys. Res. Lett., 41, 7595-7601, doi:10.1002/2014GL061584
