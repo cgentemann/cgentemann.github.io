@@ -59,7 +59,9 @@ __American Meteorological Society 13th Conference on Satellite Meteorology and O
 
 ## Science Teams, Working Groups, Organizing Committees:
 
-
+`2021-present` 
+__Member__
+NOAA [Science Advisory Board](https://sab.noaa.gov/) \
 `2012-2020` 
 __Committee Member__
 `2018-2020` 
@@ -306,7 +308,7 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 `2019 - 2020` Kexin Song, University of Miami\
 `2017 - 2019` Bingkun Luo, University of Miami\
 `2013 - 2015` Xiaofeng Zhu, University of Miami\
-`2013 - 2016` Yang Lui, University of Miami\
+`2013 - 2016` Yang Lui, University of Miami
 
 ## Publications
 
