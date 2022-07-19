@@ -85,7 +85,7 @@ National Academies of Sciences, Engineering, and Medicine, Committee on a Framew
 `2020 - present` 
 __Associate Editor__
 American Geophysical Union [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/editorial-board.html)\
-`2020 - present`
+`2020 - 2022`
 __Science Team__
 US Clivar Working Group: [Uncertainty Quantification](https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group) \
 `2020 - 2022`
