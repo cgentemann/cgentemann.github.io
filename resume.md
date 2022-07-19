@@ -3,13 +3,13 @@ layout: resume
 ---
 ## Currently
 
-Dr. Gentemann is currently NASA's Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/transform-to-open-science)) Program Scientist. At Farallon Institute, she was a senior scientist leading research on open science, cloud computing, remote sensing, physical oceanography, and the science lead for a proposed NASA Earth Venture Mission, [Butterfly](https://nasa-butterfly.github.io/). For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, calibration through science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, Discovery on the Frontiers of Space: Exploring NASA's Science Mission.â€
+Dr. Gentemann is currently an IPA at NASA HQ leading NASA's Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/transform-to-open-science)) mission. At Farallon Institute, she was a senior scientist leading research on open science, cloud computing, remote sensing, physical oceanography, and the science lead for a proposed NASA Earth Venture Mission, [Butterfly](https://nasa-butterfly.github.io/). For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, calibration through science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, Discovery on the Frontiers of Space: Exploring NASA's Science Mission.
 
 ## Occupation
 
 `Current`\
 __Transform to Open Science (TOPS) Program Scientist__, [NASA](https://science.nasa.gov/open-science/transform-to-open-science) \
-__Senior Scientist (on IPA to NASA currently)__, [Farallon Institute](https://faralloninstitute.org) \
+__Senior Scientist (currently on IPA assignment to NASA HQ)__, [Farallon Institute](https://faralloninstitute.org) \
 `2016 - 2022` \
 __Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/) \
 __Affiliate__ [Earth and Space Research](https://www.esr.org/) \
@@ -130,7 +130,7 @@ NASA Satellite Ocean Atlas Team
 ## Public Speaking and Articles:
 
 `2017`
-National Geographic: A Striking New View of the Pacific â€œBlobâ€ 8 Feb 2017. [Article](https://www.nationalgeographic.com/culture/article/space-map-pacific-blob) \
+National Geographic: A Striking New View of the Pacific Blob 8 Feb 2017. [Article](https://www.nationalgeographic.com/culture/article/space-map-pacific-blob) \
 `2018`
 Human Emissions Made Ocean Heat Wave 53 Times More Likely 15 Jan 2018. [Article](https://www.nationalgeographic.com/science/article/carbon-dioxide-emissions-drive-ocean-heat-waves-global-warming) \
 `2019` 
@@ -138,7 +138,7 @@ House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Spac
 `2020` 
 AWS Public Sector Online, 30 June 2020. [Video](https://www.youtube.com/watch?v=vkaMBBF3PHs) \
 `2020`
-Saildroneâ€™s Science at the Airâ€“Sea Interface 23 July 2020. [Article](http://blog.ametsoc.org/bams-paper/saildrones-science-at-the-air-sea-interface/) \
+Saildrone's Science at the Air-ea Interface 23 July 2020. [Article](http://blog.ametsoc.org/bams-paper/saildrones-science-at-the-air-sea-interface/) \
 `2020`
 Dask in Action with Massive Satellite Datasets 8 Aug 2020. [Article](https://coiled.io/blog/dask-in-action-gentemann/) \
 `2020`
@@ -187,7 +187,7 @@ OceanObs Python Tutorial, Python for Oceanography [website](https://github.com/p
 GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](https://github.com/python4oceanography/ocean_python_tutorial)
 
 ## Meeting Organzation
-`2021` ASLO/AGU Ocean Sciences Meeting Townhall: TH53 NASAâ€™s Open Source Science Initiative \
+`2021` ASLO/AGU Ocean Sciences Meeting Townhall: TH53 NASA's Open Source Science Initiative \
 `2021` ASLO/AGU Ocean Sciences Meeting Innovation Session: IN08A Open Ocean Science \
 `2021` AGU Fall Meeting full day Innovation Session: "U51B: Open Science in Action" \
 `2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf) \
@@ -317,10 +317,10 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 3. Gentemann, C. L., Erdmann, C.; and Kroeger, C. [Opening up to Open Science, Issues in Science and Technology](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/), 38, no. 3, Spring 2022: 5, 7–59.
 8. Vazquez-Cuervo, J.; Castro, S.L.; Steele, M.; Gentemann, C.; Gomez-Valdes, J.; Tang, W. Comparison of GHRSST SST Analysis in the Arctic Ocean and Alaskan Coastal Waters Using Saildrones. Remote Sens. 2022, 14, 692. [https://doi.org/10.3390/rs14030692](https://doi.org/10.3390/rs14030692)
 9. Ashlock, L., M. Garcia-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature and Patterns of Occurrence and Abundance of Key Copepod Taxa in the Northeast Pacific", Front. Mar. Sci., 07 September 2021, [https://doi.org/10.3389/fmars.2021.670795s](https://doi.org/10.3389/fmars.2021.670795s).
-10. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), Earth Syst. Sci. Data, 13, 4067â€“4119, 2021, https://doi.org/10.5194/essd-13-4067-2021.
+10. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), Earth Syst. Sci. Data, 13, 4067-4119, 2021, https://doi.org/10.5194/essd-13-4067-2021.
 11. Erdmann, Christopher, Stall, Shelley, Gentemann, Chelle, Holdgraf, Chris, Fernandes, Filipe P. A., & Gehlen, Karsten Peters-von. (2021, May 20). Guidance for AGU Authors - Jupyter Notebooks. Zenodo. [http://doi.org/10.5281/zenodo.4910038](http://doi.org/10.5281/zenodo.4910038)
 12. Gentemann, C. L., Holdgraf, C., Abernathey, R., Crichton, D., Colliander, J., Kearns, E. J., et al. (2021). Science storms the cloud. AGU Advances, 2, e2020AV000354. [https://doi.org/10.1029/2020AV000354](https://doi.org/10.1029/2020AV000354)
-13. Chiodi AM, Zhang C, Cokelet ED, Yang Q, Mordy CW, Gentemann CL, Cross JN, Lawrence-Slavas N, Meinig C, Steele M, Harrison DE, Stabeno PJ, Tabisola HM, Zhang D, Burger EF, Oâ€™Brien KM and Wang M (2021) Exploring the Pacific Arctic Seasonal Ice Zone With Saildrone USVs. Front. Mar. Sci. 8:640690. [doi: 10.3389/fmars.2021.640697](https://www.frontiersin.org/articles/10.3389/fmars.2021.640697/full)
+13. Chiodi AM, Zhang C, Cokelet ED, Yang Q, Mordy CW, Gentemann CL, Cross JN, Lawrence-Slavas N, Meinig C, Steele M, Harrison DE, Stabeno PJ, Tabisola HM, Zhang D, Burger EF, O'Brien KM and Wang M (2021) Exploring the Pacific Arctic Seasonal Ice Zone With Saildrone USVs. Front. Mar. Sci. 8:640690. [doi: 10.3389/fmars.2021.640697](https://www.frontiersin.org/articles/10.3389/fmars.2021.640697/full)
 14. Vazquez-Cuervo, J., C.L. Gentemann, et al. [Validation of Sea Surface Salinity in the Bering Straits using Saildrone, SMAP, and Models](https://www.mdpi.com/2072-4292/13/5/831), Remote Sens. 2021, 13(5), 831; https://doi.org/10.3390/rs13050831.
 15. Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. J. Hamman, N. Henderson, C. Lepore, T. A. McCaie, N.H. Robinson, R.P. Signell, [Cloud-Native Repositories for Big Scientific Data](https://www.computer.org/csdl/magazine/cs/5555/01/09354557/1reXu4gJjri), in Computing in Science & Engineering, vol. , no. 01, pp. 1-1, 5555. doi: 10.1109/MCSE.2021.3059437
 16. Hoover BA, GarcÃ­a-Reyes M, Batten SD, Gentemann CL, Sydeman WJ (2021) [Spatio-temporal persistence of zooplankton communities in the Gulf of Alaska]((https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244960)). PLoS ONE 16(1): e0244960. https://doi.org/10.1371/journal.pone.0244960
@@ -427,9 +427,4 @@ Multi-sensor Improved Sea Surface Temperature (MISST) for GODAE.  Role: PI.\
 Developing an Inner-Core SST Cooling Predictor for use in SHIPS.  Role: Co-I.\
 `2003` 
 Intercomparison and error analysis of satellite microwave SST retrievals versus VOS and Buoy observations.  Role: Co-I.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
 
