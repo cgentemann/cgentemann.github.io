@@ -3,13 +3,13 @@ layout: resume
 ---
 ## Currently
 
-Dr. Gentemann is currently NASA's Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/transform-to-open-science)) Program Scientist. At Farallon Institute, she was a senior scientist leading research on open science, cloud computing, remote sensing, physical oceanography, and the science lead for a proposed NASA Earth Venture Mission, [Butterfly](https://nasa-butterfly.github.io/). For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, calibration through science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, â€œDiscovery on the Frontiers of Space: Exploring NASAâ€™s Science Mission.â€
+Dr. Gentemann is currently NASA's Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/transform-to-open-science)) Program Scientist. At Farallon Institute, she was a senior scientist leading research on open science, cloud computing, remote sensing, physical oceanography, and the science lead for a proposed NASA Earth Venture Mission, [Butterfly](https://nasa-butterfly.github.io/). For over 20 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, calibration through science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, Discovery on the Frontiers of Space: Exploring NASA's Science Mission.â€
 
 ## Occupation
 
 `Current`\
 __Transform to Open Science (TOPS) Program Scientist__, [NASA](https://science.nasa.gov/open-science/transform-to-open-science) \
-__Senior Scientist__, [Farallon Institute](https://faralloninstitute.org) \
+__Senior Scientist (on IPA to NASA currently)__, [Farallon Institute](https://faralloninstitute.org) \
 `2016 - 2022` \
 __Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/) \
 __Affiliate__ [Earth and Space Research](https://www.esr.org/) \
