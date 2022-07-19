@@ -61,7 +61,7 @@ __American Meteorological Society 13th Conference on Satellite Meteorology and O
 
 `2022-present`
 __Co-chair__
-White House National Science and Technology Council (NSTC) Subgroup on Year of Open Science (within the Subcommittee on Open Science) \
+White House Office for Science Technology and Policy National Science and Technology Council ([NSTC](https://www.whitehouse.gov/ostp/nstc/)) Subgroup on Year of Open Science (within the Subcommittee on Open Science) \
 `2021-present`
 __Steering Committee__
 NASA Open-Source Science for the [Earth System Observatory Mission Data Processing Study](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops) \
