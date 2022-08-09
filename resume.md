@@ -204,6 +204,19 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 `2017-2018` 3 NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings\
 
 ## Partial list of invited talks/panels:
+`2022`
+[Python at Scale](https://www.pythonatscale.com/speakers) 
+`2022`
+[Women in Data Science](http://wids-santaclara.org/) Santa Clara, Distinguished Speaker, Transforming to Open Science
+`2022` 
+[US CLIVAR Summit](https://usclivar.org/meetings/us-clivar-summit-2022) Transforming to Open Science 
+`2022`
+AGU [Open Science Pathways in the Earth, Space, and Life Sciences](https://data.agu.org/2022/03/11/open-science-pathways-earth-life.html) [Opening up to Open Science]
+(https://doi.org/10.5281/zenodo.6536833)
+`2022` 
+DOE [ARM/ASR Open Science Virtual Workshop 2022](https://web.cvent.com/event/a240de56-f066-45f3-a5e8-5bb4ef6293f2/summary) Keynote: NASA's Transform to Open Science Initiative
+`2022` 
+[NAS Machine Learning and Artificial Intelligence to Advance Earth System Science Opportunities and Challenges](https://www.nationalacademies.org/our-work/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges---a-workshop) ML/AI - opportunities & challenges: data & community [talk](https://zenodo.org/record/6015660#.YvKP8rfMKUk)
 `2021`
 AGU Fall Meeting U34A-02: Science for the World: Transform to OPen Science (TOPS)
 `2021`
