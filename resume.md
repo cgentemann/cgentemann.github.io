@@ -135,12 +135,17 @@ NASA Satellite Ocean Atlas Team
 
 ## Public Speaking and Articles:
 
-`2017`
+`2022`
+[AWS Day One](https://blog.aboutamazon.co.uk/) These Women use Science Data and Amazon to Fight Climate Change 14 Feb 2022 [Article](https://blog.aboutamazon.co.uk/sustainability/these-women-use-science-data-and-amazon-to-fight-climate-change) \
+`2022` 
+Environmental Professionals Radio ([EPR](https://www.environmentalprofessionalsradio.com/)), "Coding, Open Science, and Physical Oceanography with Dr. Chelle Gentemann" [PodCast](https://www.youtube.com/watch?v=atfijhzzQz4)`2017`
 National Geographic: A Striking New View of the Pacific Blob 8 Feb 2017. [Article](https://www.nationalgeographic.com/culture/article/space-map-pacific-blob) \
-`2018`
-Human Emissions Made Ocean Heat Wave 53 Times More Likely 15 Jan 2018. [Article](https://www.nationalgeographic.com/science/article/carbon-dioxide-emissions-drive-ocean-heat-waves-global-warming) \
-`2019` 
-House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Space: Exploring NASA's Science Mission." 11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission) \
+`2021`
+Distributed Data Science and Oceanography with Dask 8 April 2021 [Video](https://www.youtube.com/watch?v=ZoK3Rn5j9R4) \
+`2021`
+NASA Earth [Data Chats](https://earthdata.nasa.gov/learn/data-chat) 21 May 2021. [Article](https://earthdata.nasa.gov/learn/data-chat/data-chat-dr-chelle-gentemann) \
+`2021`
+[PythonBytes](https://pythonbytes.fm/) Podcast "Please Re-enable Spacebar Heating" 3 Dec 2021. [PodCast](https://pythonbytes.fm/episodes/show/261/please-re-enable-spacebar-heating) \
 `2020` 
 AWS Public Sector Online, 30 June 2020. [Video](https://www.youtube.com/watch?v=vkaMBBF3PHs) \
 `2020`
@@ -149,16 +154,10 @@ Saildrone's Science at the Air-ea Interface 23 July 2020. [Article](http://blog.
 Dask in Action with Massive Satellite Datasets 8 Aug 2020. [Article](https://coiled.io/blog/dask-in-action-gentemann/) \
 `2020`
 Accelerating Science with Dask 26 July 2020. [Article](https://coiled.io/blog/accelerating-science-dask-gentemann/) \
-`2021`
-Distributed Data Science and Oceanography with Dask 8 April 2021 [Video](https://www.youtube.com/watch?v=ZoK3Rn5j9R4) \
-`2021`
-NASA Earth [Data Chats](https://earthdata.nasa.gov/learn/data-chat) 21 May 2021. [Article](https://earthdata.nasa.gov/learn/data-chat/data-chat-dr-chelle-gentemann) \
-`2021`
-[PythonBytes](https://pythonbytes.fm/) Podcast "Please Re-enable Spacebar Heating" 3 Dec 2021. [PodCast](https://pythonbytes.fm/episodes/show/261/please-re-enable-spacebar-heating) \
-`2022`
-[AWS Day One](https://blog.aboutamazon.co.uk/) These Women use Science Data and Amazon to Fight Climate Change 14 Feb 2022 [Article](https://blog.aboutamazon.co.uk/sustainability/these-women-use-science-data-and-amazon-to-fight-climate-change) \
-`2022` 
-Environmental Professionals Radio ([EPR](https://www.environmentalprofessionalsradio.com/)), "Coding, Open Science, and Physical Oceanography with Dr. Chelle Gentemann" [PodCast](https://www.youtube.com/watch?v=atfijhzzQz4)
+`2019` 
+House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Space: Exploring NASA's Science Mission." 11 June 2019. [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission) \
+`2018`
+Human Emissions Made Ocean Heat Wave 53 Times More Likely 15 Jan 2018. [Article](https://www.nationalgeographic.com/science/article/carbon-dioxide-emissions-drive-ocean-heat-waves-global-warming) \
 
 ## Images:
 
