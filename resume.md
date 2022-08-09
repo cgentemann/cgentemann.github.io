@@ -204,34 +204,34 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 
 ## Partial list of invited talks/panels:
 `2022`
-[Python at Scale](https://www.pythonatscale.com/speakers) 
+[Python at Scale](https://www.pythonatscale.com/speakers) \
 `2022`
-[Women in Data Science](http://wids-santaclara.org/) Santa Clara, Distinguished Speaker, Transforming to Open Science
+[Women in Data Science](http://wids-santaclara.org/) Santa Clara, Distinguished Speaker, Transforming to Open Science \
 `2022` 
-[US CLIVAR Summit](https://usclivar.org/meetings/us-clivar-summit-2022) Transforming to Open Science 
+[US CLIVAR Summit](https://usclivar.org/meetings/us-clivar-summit-2022) Transforming to Open Science \ 
 `2022`
 AGU [Open Science Pathways in the Earth, Space, and Life Sciences](https://data.agu.org/2022/03/11/open-science-pathways-earth-life.html) [Opening up to Open Science]
-(https://doi.org/10.5281/zenodo.6536833)
+(https://doi.org/10.5281/zenodo.6536833) \
 `2022` 
-DOE [ARM/ASR Open Science Virtual Workshop 2022](https://web.cvent.com/event/a240de56-f066-45f3-a5e8-5bb4ef6293f2/summary) Keynote: NASA's Transform to Open Science Initiative
+DOE [ARM/ASR Open Science Virtual Workshop 2022](https://web.cvent.com/event/a240de56-f066-45f3-a5e8-5bb4ef6293f2/summary) Keynote: NASA's Transform to Open Science Initiative \
 `2022` 
-[NAS Machine Learning and Artificial Intelligence to Advance Earth System Science Opportunities and Challenges](https://www.nationalacademies.org/our-work/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges---a-workshop) ML/AI - opportunities & challenges: data & community [talk](https://zenodo.org/record/6015660#.YvKP8rfMKUk)
+[NAS Machine Learning and Artificial Intelligence to Advance Earth System Science Opportunities and Challenges](https://www.nationalacademies.org/our-work/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges---a-workshop) ML/AI - opportunities & challenges: data & community [talk](https://zenodo.org/record/6015660#.YvKP8rfMKUk) \
 `2021`
-AGU Fall Meeting U34A-02: Science for the World: Transform to OPen Science (TOPS)
+AGU Fall Meeting U34A-02: Science for the World: Transform to OPen Science (TOPS) \
 `2021`
-AGU Fall Meeting IN55C-02: Open Oceanography - FOSS science
+AGU Fall Meeting IN55C-02: Open Oceanography - FOSS science \
 `2021` 
-Australian Bureau of Meteorology Annual research and development workshop [Science Storms the Cloud](http://www.bom.gov.au/research/workshop/2021/)\
+Australian Bureau of Meteorology Annual research and development workshop [Science Storms the Cloud](http://www.bom.gov.au/research/workshop/2021/) \
 `2021`
-[Lecture 19](https://ds100.org/fa21/lecture/lec19/) to UC Berkeley's Data 100 class on the physical basis of climate change and using Xarray to analyze climate records\
+[Lecture 19](https://ds100.org/fa21/lecture/lec19/) to UC Berkeley's Data 100 class on the physical basis of climate change and using Xarray to analyze climate records \
 `2021`
-NASA Open-Source Science for Data Processing and Archives Workshop [Transform to OPen Science](https://science.nasa.gov/researchers/science-data/open-source-science-workshop)\
+NASA Open-Source Science for Data Processing and Archives Workshop [Transform to OPen Science](https://science.nasa.gov/researchers/science-data/open-source-science-workshop) \
 `2021` 
-[FOSS4G](https://2021.foss4g.org/) invited talk [Open Source Science](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science)\
+[FOSS4G](https://2021.foss4g.org/) invited talk [Open Source Science](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science) \
 `2021` 
-[NASEM Committee on Radio Frequencies](https://www.nationalacademies.org/our-work/committee-on-radio-frequencies) invited talk: [Passive microwave data provide a critically important 40-year record of changes to our climate](https://www.slideshare.net/ChelleGentemann/satellite-passive-microwave-measurements-of-the-climate-crisis)\
+[NASEM Committee on Radio Frequencies](https://www.nationalacademies.org/our-work/committee-on-radio-frequencies) invited talk: [Passive microwave data provide a critically important 40-year record of changes to our climate](https://www.slideshare.net/ChelleGentemann/satellite-passive-microwave-measurements-of-the-climate-crisis) \
 `2021` 
-FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/)\
+FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/) \
 `2021`
 Pangeo Science Showcase: [Accessing SST data on the cloud](https://discourse.pangeo.io/t/may-19-2021-accessing-sea-surface-temperature-data-on-the-cloud/1503)\
 `2021` 
