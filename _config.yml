@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Chelle Gentemann
   avatar: bio-photo.jpg
-  bio: "Physical oceanographer, remote sensing scientist, and a passionate advocate for open science and inclusivity."
+  bio: "Physical oceanographer, remote sensing scientist, and an advocate for open science and inclusivity."
   email: cgentemann@faralloninstitute.org
   # Do not include the @ symbol in your Twitter username
   twitter: chellegentemann
@@ -16,6 +16,7 @@ owner:
   github: cgentemann
   orcid: 0000-0002-2250-3106
   researchgate: cgentemann@gmail.com
+  medium: cgentemann
   mendeley: #username
   google:
     plus: cgentemann@gmail.com
