@@ -302,6 +302,7 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 ## Ph.D. / Masters Committees, Summer Interns, Student collaborators:
 
+`2019 - present` Chong Jia, University of Miami\
 `2021` Lucas Sterzinger, UC Davis\
 `2020-2021` Sanola Sandiford, Caribbean Institute for Meteorology and Hydrology\
 `2020-2021` Kashawn Hall, Caribbean Institute for Meteorology and Hydrology\
@@ -311,7 +312,6 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 `2019 - 2020` Sotirios Skarpalezos, Technical University of Denmark\
 `2017 - 2018` Emy Alerskans, Technical University of Denmark\
 `2019 - -2020` Senya Stein, Colorado School of the Mines\
-`2019 - 2020` Chong Jia, University of Miami\
 `2020` Alayah Densby, KIPP San Francisco College Prep\
 `2020` Alessandra Richardson-Beatty, Stanford Online High School\
 `2020` Alyssa Bautista, George Washington High School \
