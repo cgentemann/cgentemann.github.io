@@ -146,7 +146,9 @@ NASA Earth [Data Chats](https://earthdata.nasa.gov/learn/data-chat) 21 May 2021.
 `2020` 
 AWS Public Sector Online, 30 June 2020. [Video](https://www.youtube.com/watch?v=vkaMBBF3PHs) \
 `2020`
-Saildrone's Science at the Air-ea Interface 23 July 2020. [Article](http://blog.ametsoc.org/bams-paper/saildrones-science-at-the-air-sea-interface/) \
+Saildrone's Science at the Air-sea Interface 23 July 2020. [Article](http://blog.ametsoc.org/bams-paper/saildrones-science-at-the-air-sea-interface/) \
+`2020`
+Improving our knowledge about the oceans by providing cloud-based access to large datasets 28 July 2020. [Article](https://aws.amazon.com/blogs/publicsector/improving-knowledge-oceans-providing-cloud-based-access-large-datasets/) \
 `2020`
 Dask in Action with Massive Satellite Datasets 8 Aug 2020. [Article](https://coiled.io/blog/dask-in-action-gentemann/) \
 `2020`
