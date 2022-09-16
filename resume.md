@@ -203,9 +203,9 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 
 ## Partial list of invited talks/panels:
 `2022`
-NOAA Environmental Data Management [Workshop](https://noaaedm2022.sched.com/chellegentemann) Panel and Invited talk: [Year of Open Science](https://zenodo.org/record/7086354)\
+NOAA Environmental Data Management [Workshop](https://noaaedm2022.sched.com/chellegentemann) Panel and Invited talk: [Year of Open Science](https://zenodo.org/record/7086354) \
 `2022`
-[PACE Applications Workshop](https://app.swapcard.com/event/2022-pace-applications-workshop) Plenary talk: Open Data and Accessibility(https://zenodo.org/record/7075771)\
+[PACE Applications Workshop](https://app.swapcard.com/event/2022-pace-applications-workshop) Plenary talk: [Open Data and Accessibility](https://zenodo.org/record/7075771) \
 `2022`
 [Python at Scale](https://www.pythonatscale.com/speakers) \
 `2022`
