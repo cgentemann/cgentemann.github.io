@@ -7,7 +7,7 @@ Dr. Gentemann is currently an IPA at NASA HQ leading NASA's Transform to Open Sc
 
 ## Occupation
 
-`Current`\
+`Current` \
 __Transform to Open Science (TOPS) Program Scientist__, [NASA](https://science.nasa.gov/open-science/transform-to-open-science) \
 __Senior Scientist (currently on IPA assignment to NASA HQ)__, [Farallon Institute](https://faralloninstitute.org) \
 `2016 - 2022` \
