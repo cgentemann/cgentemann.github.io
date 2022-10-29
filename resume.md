@@ -203,6 +203,14 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 
 ## Partial list of invited talks/panels:
 `2022`
+AWS ReInvent Panel \
+`2022`
+PyDataNY Keynote \
+`2022`
+Fish and Wildlife Service Data Management Conference Keynote \
+`2022`
+Open Source Science: A Conversation with Leaders at NASA and UC Berkeley [Panel](https://www.eventbrite.com/e/open-source-science-a-conversation-with-leaders-at-nasa-and-uc-berkeley-tickets-429815468637) with [livestream](bit.ly/opensci1026live) and [slides](https://zenodo.org/record/7254804#.Y105I2fMKUk) \
+`2022`
 NOAA Environmental Data Management [Workshop](https://noaaedm2022.sched.com/chellegentemann) Panel and Invited talk: [Year of Open Science](https://zenodo.org/record/7086354) \
 `2022`
 [PACE Applications Workshop](https://app.swapcard.com/event/2022-pace-applications-workshop) Plenary talk: [Open Data and Accessibility](https://zenodo.org/record/7075771) \
