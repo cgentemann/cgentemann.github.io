@@ -135,7 +135,8 @@ NASA Satellite Ocean Atlas Team
 `2022`
 [AWS Day One](https://blog.aboutamazon.co.uk/) These Women use Science Data and Amazon to Fight Climate Change 14 Feb 2022 [Article](https://blog.aboutamazon.co.uk/sustainability/these-women-use-science-data-and-amazon-to-fight-climate-change) \
 `2022` 
-Environmental Professionals Radio ([EPR](https://www.environmentalprofessionalsradio.com/)), "Coding, Open Science, and Physical Oceanography with Dr. Chelle Gentemann" [PodCast](https://www.youtube.com/watch?v=atfijhzzQz4)`2017`
+Environmental Professionals Radio ([EPR](https://www.environmentalprofessionalsradio.com/)), "Coding, Open Science, and Physical Oceanography with Dr. Chelle Gentemann" [PodCast](https://www.youtube.com/watch?v=atfijhzzQz4) \
+`2017`
 National Geographic: A Striking New View of the Pacific Blob 8 Feb 2017. [Article](https://www.nationalgeographic.com/culture/article/space-map-pacific-blob) \
 `2021`
 Distributed Data Science and Oceanography with Dask 8 April 2021 [Video](https://www.youtube.com/watch?v=ZoK3Rn5j9R4) \
