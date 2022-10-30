@@ -220,10 +220,9 @@ NOAA Environmental Data Management [Workshop](https://noaaedm2022.sched.com/chel
 `2022`
 [Women in Data Science](http://wids-santaclara.org/) Santa Clara, Distinguished Speaker, Transforming to Open Science \
 `2022` 
-[US CLIVAR Summit](https://usclivar.org/meetings/us-clivar-summit-2022) Transforming to Open Science \ 
+[US CLIVAR Summit](https://usclivar.org/meetings/us-clivar-summit-2022) Transforming to Open Science \
 `2022`
-AGU [Open Science Pathways in the Earth, Space, and Life Sciences](https://data.agu.org/2022/03/11/open-science-pathways-earth-life.html) [Opening up to Open Science]
-(https://doi.org/10.5281/zenodo.6536833) \
+AGU [Open Science Pathways in the Earth, Space, and Life Sciences](https://data.agu.org/2022/03/11/open-science-pathways-earth-life.html) [Opening up to Open Science](https://doi.org/10.5281/zenodo.6536833) \
 `2022` 
 DOE [ARM/ASR Open Science Virtual Workshop 2022](https://web.cvent.com/event/a240de56-f066-45f3-a5e8-5bb4ef6293f2/summary) Keynote: NASA's Transform to Open Science Initiative \
 `2022` 
