@@ -204,11 +204,13 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 
 ## Partial list of invited talks/panels:
 `2022`
-AWS ReInvent Panel \
+[Global Dynamics in Responsible Research](https://symposium.einsteinfoundation.de/), The Einstein FoundationGlobal Dynamics in Responsible Research, Keynote: Transforming to Open Science \
 `2022`
-PyDataNY Keynote \
+PyDataNY Keynote: [I'm from the government and I'm here to help](https://zenodo.org/record/7308372) \
 `2022`
-Fish and Wildlife Service Data Management Conference Keynote \
+Solid Earth Science Team Meeting, La Jolla. Workshop [Ethos of Open Science](https://zenodo.org/record/7304777)
+`2022`
+Fish and Wildlife Service Data Management Conference Keynote: [Science Storms the Cloud](https://zenodo.org/record/7268791) \
 `2022`
 Open Source Science: A Conversation with Leaders at NASA and UC Berkeley [Panel](https://www.eventbrite.com/e/open-source-science-a-conversation-with-leaders-at-nasa-and-uc-berkeley-tickets-429815468637) with [livestream](bit.ly/opensci1026live) and [slides](https://zenodo.org/record/7254804#.Y105I2fMKUk) \
 `2022`
