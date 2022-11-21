@@ -208,7 +208,7 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 `2022`
 PyDataNY Keynote: [I'm from the government and I'm here to help](https://zenodo.org/record/7308372) \
 `2022`
-Solid Earth Science Team Meeting, La Jolla. Workshop [Ethos of Open Science](https://zenodo.org/record/7304777)
+Solid Earth Science Team Meeting, La Jolla. Workshop [Ethos of Open Science](https://zenodo.org/record/7304777) \
 `2022`
 Fish and Wildlife Service Data Management Conference Keynote: [Science Storms the Cloud](https://zenodo.org/record/7268791) \
 `2022`
