@@ -9,7 +9,7 @@ owner:
   name: Chelle Gentemann
   avatar: bio-photo.jpg
   bio: "Physical oceanographer, remote sensing scientist, and an advocate for open science and inclusivity."
-  email: cgentemann@faralloninstitute.org
+  email: chelle.gentemann@nasa.gov
   # Do not include the @ symbol in your Twitter username
   twitter: chellegentemann
   mastodon: ChelleGentemann@fosstodon.org
@@ -50,7 +50,7 @@ lowlight-color: '#42b3f5'  #'#575353'
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
   cc-by: yes #yes
-  cc-by-nc: #yes
+  cc-by-nc: #no
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
