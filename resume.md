@@ -206,11 +206,11 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 
 ## Partial list of invited talks/panels:
 `2023`
-UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Presentation](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)
+UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Presentation](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)  
 `2023`
-American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). Core Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239). NASA's Year of Open Science.
+American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). Core Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239). NASA's Year of Open Science.  
 `2022`
-National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.
+National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.  
 `2022`
 [Global Dynamics in Responsible Research](https://symposium.einsteinfoundation.de/), The Einstein FoundationGlobal Dynamics in Responsible Research, Keynote: Transforming to Open Science \
 `2022`
@@ -351,11 +351,12 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 ## Publications
 
-1. Field Measurements for Passive Environmental Remote Sensing: Instrumentation, Intensive Campaigns, and Satellite Applications. Chapter 19 "Sea surface temperature validation and blended analysis (2022). United States: Elsevier Science. [https://doi.org/10.1016/C2020-0-01287-9](https://doi.org/10.1016/C2020-0-01287-9)
-2. Tang, W., S. Yueh, A. Fore, J. Vazquez-Cuervo, C. Gentemann, A. Hayashi, A. Akins, M. Garcia Reyes, "Using Saildrones to Assess the SMAP Sea Surface Salinity Retrieval in the Coastal Regions", in press JSTARS. 
-3. Hall, K.; Daley, A.; Whitehall, S.; Sandiford, S.; Gentemann, C.L. "Validating Salinity from SMAP and HYCOM Data with Saildrone Data during EUREC4A-OA/ATOMIC". Remote Sens. 2022, 14, 3375. [https://doi.org/10.3390/rs14143375]()https://www.mdpi.com/2072-4292/14/14/3375).
-4. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Surface Conditions from Operational Forecasts Using in situ Saildrone Observations in the Pacific Arctic", Monthly Weather Review. [10.1175/MWR-D-20-0379.1](https://journals.ametsoc.org/view/journals/mwre/150/6/MWR-D-20-0379.1.xml).
-5. Gentemann, C. L., Erdmann, C.; and Kroeger, C. [Opening up to Open Science, Issues in Science and Technology](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/), 38, no. 3, Spring 2022: 5, 7–59.
+1. Why NASA and federal agencies are declaring this the Year of Open Science (2023). Nature 613, 217. [doi: https://doi.org/10.1038/d41586-023-00019-y](https://doi.org/10.1038/d41586-023-00019-y)  
+2. Field Measurements for Passive Environmental Remote Sensing: Instrumentation, Intensive Campaigns, and Satellite Applications. Chapter 19 "Sea surface temperature validation and blended analysis (2022). United States: Elsevier Science. [https://doi.org/10.1016/C2020-0-01287-9](https://doi.org/10.1016/C2020-0-01287-9)
+3. Tang, W., S. Yueh, A. Fore, J. Vazquez-Cuervo, C. Gentemann, A. Hayashi, A. Akins, M. Garcia Reyes, "Using Saildrones to Assess the SMAP Sea Surface Salinity Retrieval in the Coastal Regions", in press JSTARS. 
+4. Hall, K.; Daley, A.; Whitehall, S.; Sandiford, S.; Gentemann, C.L. "Validating Salinity from SMAP and HYCOM Data with Saildrone Data during EUREC4A-OA/ATOMIC". Remote Sens. 2022, 14, 3375. [https://doi.org/10.3390/rs14143375]()https://www.mdpi.com/2072-4292/14/14/3375).
+5. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Surface Conditions from Operational Forecasts Using in situ Saildrone Observations in the Pacific Arctic", Monthly Weather Review. [10.1175/MWR-D-20-0379.1](https://journals.ametsoc.org/view/journals/mwre/150/6/MWR-D-20-0379.1.xml).
+6. Gentemann, C. L., Erdmann, C.; and Kroeger, C. [Opening up to Open Science, Issues in Science and Technology](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/), 38, no. 3, Spring 2022: 5, 7–59.
 8. Vazquez-Cuervo, J.; Castro, S.L.; Steele, M.; Gentemann, C.; Gomez-Valdes, J.; Tang, W. Comparison of GHRSST SST Analysis in the Arctic Ocean and Alaskan Coastal Waters Using Saildrones. Remote Sens. 2022, 14, 692. [https://doi.org/10.3390/rs14030692](https://doi.org/10.3390/rs14030692)
 9. Ashlock, L., M. Garcia-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature and Patterns of Occurrence and Abundance of Key Copepod Taxa in the Northeast Pacific", Front. Mar. Sci., 07 September 2021, [https://doi.org/10.3389/fmars.2021.670795s](https://doi.org/10.3389/fmars.2021.670795s).
 10. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), Earth Syst. Sci. Data, 13, 4067-4119, 2021, https://doi.org/10.5194/essd-13-4067-2021.
