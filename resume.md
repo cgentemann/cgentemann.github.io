@@ -7,11 +7,13 @@ Dr. Gentemann is currently an IPA at NASA HQ leading NASA's Transform to Open Sc
 
 ## Occupation
 
-`Current` \
+`2022 - Current` 
 __Transform to Open Science (TOPS) Program Scientist__, [NASA](https://science.nasa.gov/open-science/transform-to-open-science) \
+`2016 - Current` 
 __Senior Scientist (currently on IPA assignment to NASA HQ)__, [Farallon Institute](https://faralloninstitute.org) \
-`2016 - 2022` \
+`2016 - 2022` 
 __Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/) \
+`2016 - 2022` 
 __Affiliate__ [Earth and Space Research](https://www.esr.org/) \
 `2017 - 2018` 
 __Visiting Scholar__, NASA Jet Propulsion Laboratory \
@@ -203,6 +205,12 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 `2017-2018` 3 NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings\
 
 ## Partial list of invited talks/panels:
+`2023`
+UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Presentation](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)
+`2023`
+American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). Core Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239). NASA's Year of Open Science.
+`2022`
+National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.
 `2022`
 [Global Dynamics in Responsible Research](https://symposium.einsteinfoundation.de/), The Einstein FoundationGlobal Dynamics in Responsible Research, Keynote: Transforming to Open Science \
 `2022`
