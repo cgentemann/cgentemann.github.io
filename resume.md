@@ -205,111 +205,111 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 `2017-2018` 3 NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings\
 
 ## Partial list of invited talks/panels:
-`2023`
+1. `2023`
 UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Presentation](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)  
-`2023`
+1. `2023`
 American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). Core Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239). NASA's Year of Open Science.  
-`2022`
+1. `2022`
 National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.  
-`2022`
+1. `2022`
 [Global Dynamics in Responsible Research](https://symposium.einsteinfoundation.de/), The Einstein FoundationGlobal Dynamics in Responsible Research, Keynote: Transforming to Open Science \
-`2022`
+1. `2022`
 PyDataNY Keynote: [I'm from the government and I'm here to help](https://zenodo.org/record/7308372) \
-`2022`
+1. `2022`
 Solid Earth Science Team Meeting, La Jolla. Workshop [Ethos of Open Science](https://zenodo.org/record/7304777) \
-`2022`
+1. `2022`
 Fish and Wildlife Service Data Management Conference Keynote: [Science Storms the Cloud](https://zenodo.org/record/7268791) \
-`2022`
+1. `2022`
 Open Source Science: A Conversation with Leaders at NASA and UC Berkeley [Panel](https://www.eventbrite.com/e/open-source-science-a-conversation-with-leaders-at-nasa-and-uc-berkeley-tickets-429815468637) with [livestream](bit.ly/opensci1026live) and [slides](https://zenodo.org/record/7254804#.Y105I2fMKUk) \
-`2022`
+1. `2022`
 NOAA Environmental Data Management [Workshop](https://noaaedm2022.sched.com/chellegentemann) Panel and Invited talk: [Year of Open Science](https://zenodo.org/record/7086354) \
-`2022`
+1. `2022`
 [PACE Applications Workshop](https://app.swapcard.com/event/2022-pace-applications-workshop) Plenary talk: [Open Data and Accessibility](https://zenodo.org/record/7075771) \
-`2022`
+1. `2022`
 [Python at Scale](https://www.pythonatscale.com/speakers) \
-`2022`
+1. `2022`
 [Women in Data Science](http://wids-santaclara.org/) Santa Clara, Distinguished Speaker, Transforming to Open Science \
-`2022` 
+1. `2022` 
 [US CLIVAR Summit](https://usclivar.org/meetings/us-clivar-summit-2022) Transforming to Open Science \
-`2022`
+1. `2022`
 AGU [Open Science Pathways in the Earth, Space, and Life Sciences](https://data.agu.org/2022/03/11/open-science-pathways-earth-life.html) [Opening up to Open Science](https://doi.org/10.5281/zenodo.6536833) \
-`2022` 
+1. `2022` 
 DOE [ARM/ASR Open Science Virtual Workshop 2022](https://web.cvent.com/event/a240de56-f066-45f3-a5e8-5bb4ef6293f2/summary) Keynote: NASA's Transform to Open Science Initiative \
-`2022` 
+1. `2022` 
 [NAS Machine Learning and Artificial Intelligence to Advance Earth System Science Opportunities and Challenges](https://www.nationalacademies.org/our-work/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges---a-workshop) ML/AI - opportunities & challenges: data & community [talk](https://zenodo.org/record/6015660#.YvKP8rfMKUk) \
-`2021`
+1. `2021`
 AGU Fall Meeting U34A-02: Science for the World: Transform to OPen Science (TOPS) \
-`2021`
+1. `2021`
 AGU Fall Meeting IN55C-02: Open Oceanography - FOSS science \
-`2021` 
+1. `2021` 
 Australian Bureau of Meteorology Annual research and development workshop [Science Storms the Cloud](http://www.bom.gov.au/research/workshop/2021/) \
-`2021`
+1. `2021`
 [Lecture 19](https://ds100.org/fa21/lecture/lec19/) to UC Berkeley's Data 100 class on the physical basis of climate change and using Xarray to analyze climate records \
-`2021`
+1. `2021`
 NASA Open-Source Science for Data Processing and Archives Workshop [Transform to OPen Science](https://science.nasa.gov/researchers/science-data/open-source-science-workshop) \
-`2021` 
+1. `2021` 
 [FOSS4G](https://2021.foss4g.org/) invited talk [Open Source Science](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science) \
-`2021` 
+1. `2021` 
 [NASEM Committee on Radio Frequencies](https://www.nationalacademies.org/our-work/committee-on-radio-frequencies) invited talk: [Passive microwave data provide a critically important 40-year record of changes to our climate](https://www.slideshare.net/ChelleGentemann/satellite-passive-microwave-measurements-of-the-climate-crisis) \
-`2021` 
+1. `2021` 
 FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/) \
-`2021`
+1. `2021`
 Pangeo Science Showcase: [Accessing SST data on the cloud](https://discourse.pangeo.io/t/may-19-2021-accessing-sea-surface-temperature-data-on-the-cloud/1503)\
-`2021` 
+1. `2021` 
 Science Thursday Livestream on [Distributed Data Science and Oceanography with Dask](https://www.youtube.com/watch?v=ZoK3Rn5j9R4&feature=youtu.be&ab_channel=Coiled)\
-`2021` 
+1. `2021` 
 International Ocean Vector Wind Science Team meeting invited talk: [Butterfly](https://youtu.be/AhkGZYbW_24)\
-`2020` 
+1. `2020` 
 AGU Fall meeting invited talk: Session:Â Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".\
-`2020` 
+1. `2020` 
 ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) \
-`2020` 
+1. `2020` 
 The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [slides](https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)\
-`2020` 
+1. `2020` 
 NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ["Towards open science: accelerating and expanding NASA's scientific impact"](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).\
-`2020` 
+1. `2020` 
 COVID-19: Identifying Unique Opportunities for Earth System Science"Keck Institute for Space Studies virtual workshop, invited speaker and participant. "Cloud enabled science".\
-`2020` 
+1. `2020` 
 AWS Public Sector Summit, The Cube, ["Cloud enabled science"](https://video.cube365.net/c/927999) invited interview.\
-`2020` 
+1. `2020` 
 Coiled Blog invited interview, ["Dask in Action with Massive Satellite Datasets"](https://coiled.io/blog/dask-in-action-gentemann/).\
-`2020` 
+1. `2020` 
 Coiled Blog invited interview, ["Accelerating Science with Dask"](https://coiled.io/blog/accelerating-science-dask-gentemann/).\
-`2020` 
+1. `2020` 
 Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [recording, at 8:10:30](https://livestream.com/nasem/earthsciencefromspace/videos/201004615)\
-`2018` 
+1. `2018` 
 AGU Fall Meeting Townhall ["TH13C: Best Practices for a Future Open Code Policy for NASA Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/56246)\
-`2018` 
+1. `2018` 
 AGU Fall Meeting Townhall ["TH45A: Data Science and a New Scientific Frontier in Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/55933)\
-`2018` 
+1. `2018` 
 SFSU, ["The changing landscape of science"](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)\
-`2015` 
+1. `2015` 
 IGARSS, "RFI in Microwave Remote Sensing"\
-`2011` 
+1. `2011` 
 AGU Fall Meeting, "AQUA AMSR-E Sea Surface Temperature"\
-`2010` 
+1. `2010` 
 Oceans from Space, "A review of Passive Microwave Retrievals from Space"\
-`2008` 
+1. `2008` 
 Yale Department of Geology & Geophysics Colloquium, "Satellite sea surface temperatures"\
-`2006` 
+1. `2006` 
 AGU Joint Assembly, "Optimally interpolated infrared and microwave sea surface temperatures: The Multi-sensor Improved SST (MISST) Project"\
-`2006` 
+1. `2006` 
 IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "Multi-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMI"\
-`2006` 
+1. `2006` 
 IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "In situ observations of diurnal warming in the skin layer"\
-`2004` 
+1. `2004` 
 AMS 14th Conference on Satellite Meteorology, "Multi-sensor Improved Sea Surface Temperatures (MISST) for GODAE"\
-`2004` 
+1. `2004` 
 AGU Ocean Sciences, "Diurnal warming in satellite sea-surface temperatures"\
-`2003` 
+1. `2003` 
 JCOMM Workshop on Advances in Marine Climatology, "Diurnal Warming and Climate SST records"\
-`2003` 
+1. `2003` 
 CEOS Meeting, Ocean Sciences, "Accurate microwave SST retrieval and microwave/infrared blending"\
-`2002` 
+1. `2002` 
 GCOS Workshop on Advances in the Use of Historical Marine Climate Data, "Advances in Microwave Sea Surface Temperature"and "Towards Improved Validation of Satellite Sea Surface Skin Temperature Measurements for Climate Research"\
-`2001` 
+1. `2001` 
 GODAE Science Team Meeting, "Microwave SST retrievals from TRMM"\
-`2001` 
+1. `2001` 
 IGARSS, "Satellite Microwave SST: Accuracy, Comparisons to AVHRR and Reynolds SST, and Measurement of Diurnal Thermocline Variability"
 
 ## Memberships:
@@ -326,7 +326,7 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 ## Ph.D. / Masters Committees, Summer Interns, Student collaborators:
 
-`2019 - present` Chong Jia, University of Miami\
+`2019 - 2023` Chong Jia, University of Miami\
 `2021` Lucas Sterzinger, UC Davis\
 `2020-2021` Sanola Sandiford, Caribbean Institute for Meteorology and Hydrology\
 `2020-2021` Kashawn Hall, Caribbean Institute for Meteorology and Hydrology\
@@ -351,12 +351,14 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 ## Publications
 
+1. Bingham, A. et al., 2023, Final Report of the Open Source Science for Earth System Observatory Mission Data Processing Architecture Study, [https://doi.org/10.48577/jpl.AXZSUY](https://doi.org/10.48577/jpl.AXZSUY)  
 1. Why NASA and federal agencies are declaring this the Year of Open Science (2023). Nature 613, 217. [doi: https://doi.org/10.1038/d41586-023-00019-y](https://doi.org/10.1038/d41586-023-00019-y)  
-2. Field Measurements for Passive Environmental Remote Sensing: Instrumentation, Intensive Campaigns, and Satellite Applications. Chapter 19 "Sea surface temperature validation and blended analysis (2022). United States: Elsevier Science. [https://doi.org/10.1016/C2020-0-01287-9](https://doi.org/10.1016/C2020-0-01287-9)
-3. Tang, W., S. Yueh, A. Fore, J. Vazquez-Cuervo, C. Gentemann, A. Hayashi, A. Akins, M. Garcia Reyes, "Using Saildrones to Assess the SMAP Sea Surface Salinity Retrieval in the Coastal Regions", in press JSTARS. 
-4. Hall, K.; Daley, A.; Whitehall, S.; Sandiford, S.; Gentemann, C.L. "Validating Salinity from SMAP and HYCOM Data with Saildrone Data during EUREC4A-OA/ATOMIC". Remote Sens. 2022, 14, 3375. [https://doi.org/10.3390/rs14143375]()https://www.mdpi.com/2072-4292/14/14/3375).
-5. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Surface Conditions from Operational Forecasts Using in situ Saildrone Observations in the Pacific Arctic", Monthly Weather Review. [10.1175/MWR-D-20-0379.1](https://journals.ametsoc.org/view/journals/mwre/150/6/MWR-D-20-0379.1.xml).
-6. Gentemann, C. L., Erdmann, C.; and Kroeger, C. [Opening up to Open Science, Issues in Science and Technology](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/), 38, no. 3, Spring 2022: 5, 7–59.
+2. NOAA Science Advisory Board (2022), [Report on open data / open science](https://sab.noaa.gov/wp-content/uploads/SAB_Report_Dec2022_OSOD.pdf)
+3. Field Measurements for Passive Environmental Remote Sensing: Instrumentation, Intensive Campaigns, and Satellite Applications. Chapter 19 "Sea surface temperature validation and blended analysis (2022). United States: Elsevier Science. [https://doi.org/10.1016/C2020-0-01287-9](https://doi.org/10.1016/C2020-0-01287-9)
+4. Tang, W., S. Yueh, A. Fore, J. Vazquez-Cuervo, C. Gentemann, A. Hayashi, A. Akins, M. Garcia Reyes, "Using Saildrones to Assess the SMAP Sea Surface Salinity Retrieval in the Coastal Regions", in press JSTARS. 
+5. Hall, K.; Daley, A.; Whitehall, S.; Sandiford, S.; Gentemann, C.L. "Validating Salinity from SMAP and HYCOM Data with Saildrone Data during EUREC4A-OA/ATOMIC". Remote Sens. 2022, 14, 3375. [https://doi.org/10.3390/rs14143375]()https://www.mdpi.com/2072-4292/14/14/3375).
+6. Zhang., C., A. F. Levine, M. Wang, C. L. Gentemann, C. W. Mordy, E. D. Cokelet, P. A. Browne, Q. Yang, N. Lawrence-Slavas, C. Meinig, G. Smith, A. Chiodi, D. Zhang, P. Stabeno, W. Wang, H. Ren, K. A. Peterson, S. N. Figueroa, M. Steele, N. P. Barton, "Evaluation of Surface Conditions from Operational Forecasts Using in situ Saildrone Observations in the Pacific Arctic", Monthly Weather Review. [10.1175/MWR-D-20-0379.1](https://journals.ametsoc.org/view/journals/mwre/150/6/MWR-D-20-0379.1.xml).
+7. Gentemann, C. L., Erdmann, C.; and Kroeger, C. [Opening up to Open Science, Issues in Science and Technology](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/), 38, no. 3, Spring 2022: 5, 7–59.
 8. Vazquez-Cuervo, J.; Castro, S.L.; Steele, M.; Gentemann, C.; Gomez-Valdes, J.; Tang, W. Comparison of GHRSST SST Analysis in the Arctic Ocean and Alaskan Coastal Waters Using Saildrones. Remote Sens. 2022, 14, 692. [https://doi.org/10.3390/rs14030692](https://doi.org/10.3390/rs14030692)
 9. Ashlock, L., M. Garcia-Reyes, S. Batten, C. Gentemann, W. Sydeman, "Temperature and Patterns of Occurrence and Abundance of Key Copepod Taxa in the Northeast Pacific", Front. Mar. Sci., 07 September 2021, [https://doi.org/10.3389/fmars.2021.670795s](https://doi.org/10.3389/fmars.2021.670795s).
 10. Stevens, B., et al. ["EUREC4A"](https://essd.copernicus.org/preprints/essd-2021-18/), Earth Syst. Sci. Data, 13, 4067-4119, 2021, https://doi.org/10.5194/essd-13-4067-2021.
