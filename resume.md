@@ -425,50 +425,50 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 
 ## Research Projects: (listed by year started)
-`2020` 
+1. `2020` 
 IMPACT: Enabling scientific computing on the Cloud.  Role: PI.\
-`2019` 
+1. `2019` 
 IMPACT: Enabling scientific computing on the Cloud.  Role: PI.\
-`2018` 
+1. `2018` 
 Multi-sensor Improved Sea Surface Temperature (SST): Continuing the GHRSST Partnership and improving Arctic Data.  Role: PI.\
-`2018` 
+1. `2018` 
 Validation in challenging environments: coastal and Arctic SSS.  Role: PI.\
-`2017` 
+1. `2017` 
 East Meets West: Dynamic Biogeography of the Subarctic North Pacific.  Role: Co-I.\
-`2017` 
+1. `2017` 
 Using Saildrone autonomous in situ data for satellite validation and research into upper ocean physics and ecology.  Role: PI.\
-`2016` 
+1. `2016` 
 Quantification of Atmospheric Influence on Passive Microwave Observations. Role: external expert consultant.\
-`2015` 
+1. `2015` 
 Improved Spatial Resolution Sea Surface Temperature Fields from AMSR-E.  Role: Co-I.\
-`2015` 
+1. `2015` 
 Using satellite data to understand the impact of the Pacific SST anomaly on California's drought.  Role: PI.\
-`2014` 
+1. `2014` 
 Continuation of Inter-Calibrated Ocean Products from GCOM-W AMSR2.  Role: PI.\
-`2014` 
+1. `2014` 
 Analysis and Mitigation of Atmospheric CrossTalk in VIIRS SST Retrievals.  Role: Co-I.\
-`2013` 
+1. `2013` 
 Estimating the effective heat capacity of the ocean.  Role: PI.\
-`2010` 
+1. `2010` 
 Storm induced wakes: upper ocean variability.  Role: PI.\
-`2010` 
+1. `2010` 
 A Next-generation Integrated Earth System Analysis - Coupling between the Ocean and Atmosphere.  Role: Co-I.\
-`2010` 
+1. `2010` 
 Complete Error Characterization of the DISCOVER Earth System Data Records.  Role: Co-I.\
-`2010` 
+1. `2010` 
 Multi-sensor Improved Sea Surface Temperature (MISST) for IOOS.  Role: PI.\
-`2008` 
+1. `2008` 
 Geophysical retrievals from GCOM-W AMSR2.  Role: PI\
-`2008` 
+1. `2008` 
 A NOPP Partnership for Atlantic Meridional Overturning Circulation (AMOC): Focused Analysis of Satellite Data Sets.  Role: Co-I.\
-`2007` 
+1. `2007` 
 Diurnal heating of the upper ocean.  Role: Co-I.\
-`2006` 
+1. `2006` 
 Integration of the AMSR-E Ocean Products into the Existing Satellite Climate Record.  Role: Co-I.\
-`2004` 
+1. `2004` 
 Multi-sensor Improved Sea Surface Temperature (MISST) for GODAE.  Role: PI.\
-`2003` 
+1. `2003` 
 Developing an Inner-Core SST Cooling Predictor for use in SHIPS.  Role: Co-I.\
-`2003` 
+1. `2003` 
 Intercomparison and error analysis of satellite microwave SST retrievals versus VOS and Buoy observations.  Role: Co-I.
 
