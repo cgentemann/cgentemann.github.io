@@ -1,9 +1,24 @@
 ---
 layout: resume
 ---
-## Currently
 
-Dr. Gentemann is at NASA HQ leading NASA's Transform to Open Science ([TOPS](https://science.nasa.gov/open-science/transform-to-open-science)) mission. For over 25 years, she has worked on every aspect of passive microwave satellite missions, both domestically and internationally, from launch through decommission, calibration through science applications. She initiated a project to create one of the first cloud-optimized NASA datasets on AWS. She was co-chair of the National Academy of Sciences and Engineering (NASEM) Committee on Best Practices for a Future Open Code Policy for NASA Space Science, co-chair of the NASEM Standing Committee on Earth Science and Applications from Space (CESAS), and testified to the House Subcommittee on Space and Aeronautics, Discovery on the Frontiers of Space: Exploring NASA's Science Mission.
+Computational physical oceanographer, remote sensing scientist, and advocate for open science and inclusivity
+
+
+_Email: [cgentemann@gmail.com](mailto:cgentemann@gmail.com); Phone: 707-363-9215; Website: [https://cgentemann.github.io/](https://cgentemann.github.io/); Twitter: [https://twitter.com/chellegentemann](https://twitter.com/chellegentemann); LinkedIn: [https://linkedin.com/in/chelle-gentemann](https://linkedin.com/in/chelle-gentemann); GitHub: [https://github.com/cgentemann](https://github.com/cgentemann); ORCID: https://orcid.org/0000-0002-2250-3106_
+
+## Professional Summary
+Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for adeptly excelling in diverse roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing technical counsel and crafting impactful policy initiatives.
+
+## Significant Achievements
+
+
+- **2023** Created NASA’s [Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) and worked as co-chair of the OSTP Subcommittee on Open Science Sub-Working Group on the Year of Open Science to have the White House and 16 other federal agencies declare a [Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)  
+- **2022** Lead Scientist for NASA’s $40 million Transform to Open Science ([TOPS](https://nasa.github.io/Transform-to-Open-Science/)) project, collaborated on NASA’s new scientific information policy ([SPD-41a](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf)). 
+- **2021** Principal Investigator [Butterfly](https://nasa-butterfly.github.io/) a $190 mission NASA satellite mission proposal that received the highest possible review score (Cat 1). Published science section openly [online](https://medium.com/nasa-butterfly/how-to-write-a-great-nasa-proposal-2c6010faf7ab).
+- **2020** Co-created one of NASA’s [first ](https://registry.opendata.aws/mur/)cloud-optimized public datasets. Successfully advocated NOAA leadership to change UAV from _Unmanned_ Surface Vehicles to _Uncrewed_ Surface Vehicles across all NOAA communications. 
+- **2019** Testified at the House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission.” [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission)
+- **2018** Co-author Best Practices for a Future Open Code Policy for NASA Space Studies NASEM [Report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)
 
 ## Occupation
 
@@ -63,6 +78,11 @@ __American Meteorological Society 13th Conference on Satellite Meteorology and O
 
 ## Science Teams, Working Groups, Organizing Committees:
 
+2022 -	 
+
+`2022-present`
+__Co-chair__
+Co-chair White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Year of Open Science, within the Subcommittee on Open Science \
 `2021-present`
 __Steering Committee__
 NASA Open-Source Science for the [Earth System Observatory Mission Data Processing Study](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops) \
