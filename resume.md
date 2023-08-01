@@ -213,7 +213,8 @@ OceanObs Python Tutorial, Python for Oceanography [website](https://github.com/p
 GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](https://github.com/python4oceanography/ocean_python_tutorial)
 
 ## Meeting Organzation
-`2021` ASLO/AGU Ocean Sciences Meeting Townhall: TH53 NASA's Open Source Science Initiative \
+`2023` CERN/NASA Open Science Summit Co-chair \
+`2021` ASLO/AGU Ocean Sciences Meeting Innovation Session: IN08A Open Ocean Science \
 `2021` ASLO/AGU Ocean Sciences Meeting Innovation Session: IN08A Open Ocean Science \
 `2021` AGU Fall Meeting full day Innovation Session: "U51B: Open Science in Action" \
 `2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf) \
