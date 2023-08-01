@@ -4,9 +4,6 @@ layout: resume
 
 Computational physical oceanographer, remote sensing scientist, and advocate for open science and inclusivity
 
-
-_Email: [cgentemann@gmail.com](mailto:cgentemann@gmail.com); Phone: 707-363-9215; Website: [https://cgentemann.github.io/](https://cgentemann.github.io/); Twitter: [https://twitter.com/chellegentemann](https://twitter.com/chellegentemann); LinkedIn: [https://linkedin.com/in/chelle-gentemann](https://linkedin.com/in/chelle-gentemann); GitHub: [https://github.com/cgentemann](https://github.com/cgentemann); ORCID: https://orcid.org/0000-0002-2250-3106_
-
 ## Professional Summary
 Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for adeptly excelling in diverse roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing technical counsel and crafting impactful policy initiatives.
 
