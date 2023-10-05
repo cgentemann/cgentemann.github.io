@@ -5,10 +5,9 @@ layout: resume
 Computational physical oceanographer, remote sensing scientist, and advocate for open science and inclusivity
 
 ## Professional Summary
-Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for adeptly excelling in diverse roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing technical counsel and crafting impactful policy initiatives.
+Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for adeptly excelling in diverse roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing technical counsel and crafting impactful initiatives.
 
 ## Significant Achievements
-
 
 - **2023** Created NASA’s [Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) and worked as co-chair of the OSTP Subcommittee on Open Science Sub-Working Group on the Year of Open Science to have the White House and 16 other federal agencies declare a [Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)  
 - **2022** Lead Scientist for NASA’s $40 million Transform to Open Science ([TOPS](https://nasa.github.io/Transform-to-Open-Science/)) project, collaborated on NASA’s new scientific information policy ([SPD-41a](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf)). 
@@ -19,7 +18,9 @@ Results-driven and versatile professional with a strong drive for success and ex
 
 ## Occupation
 
-`2022 - Current` 
+`2023 - Current` 
+__Open Science Program Scientist__, [NASA OCSDO](https://science.nasa.gov/open-science/transform-to-open-science) \
+`2022 - 2023` 
 __Transform to Open Science (TOPS) Program Scientist__, [NASA](https://science.nasa.gov/open-science/transform-to-open-science) \
 `2023 - Current` 
 __Senior Program Executive (currently on IPA assignment to NASA HQ)__, [International Computer Science Institute](https://www.icsi.berkeley.edu/icsi/) \
@@ -79,13 +80,13 @@ __American Meteorological Society 13th Conference on Satellite Meteorology and O
 
 `2022-present`
 __Co-chair__
-Co-chair White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Year of Open Science, within the Subcommittee on Open Science \
+Co-chair White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Year of Open Science, within the Subcommittee on Open Science  
 `2021-present`
 __Steering Committee__
-NASA Open-Source Science for the [Earth System Observatory Mission Data Processing Study](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops) \
+NASA Open-Source Science for the [Earth System Observatory Mission Data Processing Study](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops)  
 `2021-present` 
 __Member__
-NOAA [Science Advisory Board](https://sab.noaa.gov/) \
+NOAA [Science Advisory Board](https://sab.noaa.gov/)   
 `2012-2020` 
 __Committee Member__
 `2018-2020` 
@@ -232,15 +233,15 @@ American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index
 1. `2022`
 National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.  
 1. `2022`
-[Global Dynamics in Responsible Research](https://symposium.einsteinfoundation.de/), The Einstein FoundationGlobal Dynamics in Responsible Research, Keynote: Transforming to Open Science \
+[Global Dynamics in Responsible Research](https://symposium.einsteinfoundation.de/), The Einstein FoundationGlobal Dynamics in Responsible Research, Keynote: Transforming to Open Science  
 1. `2022`
-PyDataNY Keynote: [I'm from the government and I'm here to help](https://zenodo.org/record/7308372) \
+PyDataNY Keynote: [I'm from the government and I'm here to help](https://zenodo.org/record/7308372)  
 1. `2022`
-Solid Earth Science Team Meeting, La Jolla. Workshop [Ethos of Open Science](https://zenodo.org/record/7304777) \
+Solid Earth Science Team Meeting, La Jolla. Workshop [Ethos of Open Science](https://zenodo.org/record/7304777)  
 1. `2022`
-Fish and Wildlife Service Data Management Conference Keynote: [Science Storms the Cloud](https://zenodo.org/record/7268791) \
+Fish and Wildlife Service Data Management Conference Keynote: [Science Storms the Cloud](https://zenodo.org/record/7268791)  
 1. `2022`
-Open Source Science: A Conversation with Leaders at NASA and UC Berkeley [Panel](https://www.eventbrite.com/e/open-source-science-a-conversation-with-leaders-at-nasa-and-uc-berkeley-tickets-429815468637) with [livestream](bit.ly/opensci1026live) and [slides](https://zenodo.org/record/7254804#.Y105I2fMKUk) \
+Open Source Science: A Conversation with Leaders at NASA and UC Berkeley [Panel](https://www.eventbrite.com/e/open-source-science-a-conversation-with-leaders-at-nasa-and-uc-berkeley-tickets-429815468637) with [livestream](bit.ly/opensci1026live) and [slides](https://zenodo.org/record/7254804#.Y105I2fMKUk) 
 1. `2022`
 NOAA Environmental Data Management [Workshop](https://noaaedm2022.sched.com/chellegentemann) Panel and Invited talk: [Year of Open Science](https://zenodo.org/record/7086354) \
 1. `2022`
@@ -446,41 +447,41 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 ## Research Projects: (listed by year started)
 1. `2020` 
-IMPACT: Enabling scientific computing on the Cloud.  Role: PI.\
+IMPACT: Enabling scientific computing on the Cloud.  Role: PI.  
 1. `2019` 
-IMPACT: Enabling scientific computing on the Cloud.  Role: PI.\
+IMPACT: Enabling scientific computing on the Cloud.  Role: PI.  
 1. `2018` 
-Multi-sensor Improved Sea Surface Temperature (SST): Continuing the GHRSST Partnership and improving Arctic Data.  Role: PI.\
+Multi-sensor Improved Sea Surface Temperature (SST): Continuing the GHRSST Partnership and improving Arctic Data.  Role: PI.  
 1. `2018` 
-Validation in challenging environments: coastal and Arctic SSS.  Role: PI.\
+Validation in challenging environments: coastal and Arctic SSS.  Role: PI.  
 1. `2017` 
-East Meets West: Dynamic Biogeography of the Subarctic North Pacific.  Role: Co-I.\
+East Meets West: Dynamic Biogeography of the Subarctic North Pacific.  Role: Co-I.  
 1. `2017` 
-Using Saildrone autonomous in situ data for satellite validation and research into upper ocean physics and ecology.  Role: PI.\
+Using Saildrone autonomous in situ data for satellite validation and research into upper ocean physics and ecology.  Role: PI.  
 1. `2016` 
-Quantification of Atmospheric Influence on Passive Microwave Observations. Role: external expert consultant.\
+Quantification of Atmospheric Influence on Passive Microwave Observations. Role: external expert consultant.  
 1. `2015` 
-Improved Spatial Resolution Sea Surface Temperature Fields from AMSR-E.  Role: Co-I.\
+Improved Spatial Resolution Sea Surface Temperature Fields from AMSR-E.  Role: Co-I.  
 1. `2015` 
-Using satellite data to understand the impact of the Pacific SST anomaly on California's drought.  Role: PI.\
+Using satellite data to understand the impact of the Pacific SST anomaly on California's drought.  Role: PI.  
 1. `2014` 
-Continuation of Inter-Calibrated Ocean Products from GCOM-W AMSR2.  Role: PI.\
+Continuation of Inter-Calibrated Ocean Products from GCOM-W AMSR2.  Role: PI.  
 1. `2014` 
-Analysis and Mitigation of Atmospheric CrossTalk in VIIRS SST Retrievals.  Role: Co-I.\
+Analysis and Mitigation of Atmospheric CrossTalk in VIIRS SST Retrievals.  Role: Co-I.  
 1. `2013` 
-Estimating the effective heat capacity of the ocean.  Role: PI.\
+Estimating the effective heat capacity of the ocean.  Role: PI.  
 1. `2010` 
-Storm induced wakes: upper ocean variability.  Role: PI.\
+Storm induced wakes: upper ocean variability.  Role: PI.  
 1. `2010` 
-A Next-generation Integrated Earth System Analysis - Coupling between the Ocean and Atmosphere.  Role: Co-I.\
+A Next-generation Integrated Earth System Analysis - Coupling between the Ocean and Atmosphere.  Role: Co-I.  
 1. `2010` 
-Complete Error Characterization of the DISCOVER Earth System Data Records.  Role: Co-I.\
+Complete Error Characterization of the DISCOVER Earth System Data Records.  Role: Co-I.  
 1. `2010` 
-Multi-sensor Improved Sea Surface Temperature (MISST) for IOOS.  Role: PI.\
+Multi-sensor Improved Sea Surface Temperature (MISST) for IOOS.  Role: PI.  
 1. `2008` 
-Geophysical retrievals from GCOM-W AMSR2.  Role: PI\
+Geophysical retrievals from GCOM-W AMSR2.  Role: PI  
 1. `2008` 
-A NOPP Partnership for Atlantic Meridional Overturning Circulation (AMOC): Focused Analysis of Satellite Data Sets.  Role: Co-I.\
+A NOPP Partnership for Atlantic Meridional Overturning Circulation (AMOC): Focused Analysis of Satellite Data Sets.  Role: Co-I.  
 1. `2007` 
 Diurnal heating of the upper ocean.  Role: Co-I.\
 1. `2006` 
