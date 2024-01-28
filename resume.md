@@ -229,17 +229,25 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 
 ## Partial list of invited talks/panels:
 
-1. '2023'
-Turing Way Fireside Chat [Implementing Open Science at Scale](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)  
-
-1. '2023'
-Health Research Alliance ([HRA](https://www.healthra.org)) on an [Open Research Webinar Series](https://www.healthra.org/exploring-the-value-of-open-evo-program) 'Year of Open Science'
-3. 1. `2023`
-UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Presentation](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)  
-1. `2023`
-American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). Core Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239). NASA's Year of Open Science.  
-1. `2023`
-American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). TOPS Townhall  
+1. `2023` 16 Nov National Academy of Science and Engineering Committee on Science, Engineering, Medicine, and Public Policy [Fall Meeting](https://www.nationalacademies.org/event/41319_11-2023_committee-on-science-engineering-medicine-and-public-policy-fall-meeting-2023), NASA's Transform to Open Science initative [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10143316)
+1. `2023` 02 Nov, Irish National Open Research Festival 2023 [NORF](https://www.ria.ie/national-open-research-festival-2023-norfest2023) Keynote [Opening Science](https://zenodo.org/doi/10.5281/zenodo.10059654)  
+1. `2023` 18 Oct Health Research Alliance ([HRA](https://www.healthra.org)) on an [Open Research Webinar Series](https://www.healthra.org/exploring-the-value-of-open-evo-program) 'Year of Open Science' [slides](https://zenodo.org/doi/10.5281/zenodo.10578442)
+1. `2023` 12 Oct CERN Scientific Information Service [(SIS)](https://scientific-info.cern/) Retreat 'Open Science Perspectives' Keynote [slides](https://zenodo.org/doi/10.5281/zenodo.10578427)  
+1. `2023` 17 Jul National Science Foundation and the American Association for the Advancement of Science Seminar [How can public access advance equity and learning?](https://new.nsf.gov/events/how-can-public-access-advance-equity-learning/2023-07-17) Invited Talk [slides](https://zenodo.org/doi/10.5281/zenodo.10578423)  
+1. `2023` 23 Jun COARA [General Assembly](https://coara.eu/news/coara-holds-general-assembly/) Session: ’Research Assessment Practices and Perspective in a non-European Region’ NASA's Transform to Open Science Mission [Invited Talk](https://zenodo.org/records/8072685)  
+1. `2023` 04 Jun AAS Summer [meeting](https://aas.org/meetings/aas242), 'The What and Why of Open Science' [Session](“The What and Why of Open Science”) 2023 NASA Year of Open Science [slides](https://zenodo.org/doi/10.5281/zenodo.8008089)  
+1. `2023` 12 May Stanford Center for Open and REproducible Science CORES [Annual Meeting](https://datascience.stanford.edu/cores/cores-annual-meeting-2023) Keynote [slides](https://zenodo.org/records/7931483)  
+1. `2023` 11 May TOPS May Community [Forum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230511_community_forum.md): NASA’s Transform to Open Science (TOPS) [slides](https://zenodo.org/records/7948513)  
+1. `2023` 9 May Center for Open Science [MetaScience](https://metascience.info/) 2023 Year of Open Science Invited Talk [slides](https://zenodo.org/doi/10.5281/zenodo.10578418)  
+1. '2023' 05 May Turing Way Fireside Chat [Implementing Open Science at Scale](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)  
+1. `2023` 4 May University of Arizona Lunar and Planetary Laboratory Faculty Retreat [NASA's 2023 Year of Open Science](https://zenodo.org/records/7897387)  
+1. `2023` 13 Mar Lunar and Planetary Science Conference [LPSC](https://www.hou.usra.edu/meetings/lpsc2023/) NASA’s Year of Open Science TownHall [slides](https://zenodo.org/doi/10.5281/zenodo.10578412)  
+1. `2023` 6 Mar UC Berkeley Collaborative and Reproducible Data Science  [Stats 159](https://ucb-stat-159-s23.github.io/site/)  'Climate Data Analysis using Xarray' Guest Lecture [slides](https://zenodo.org/doi/10.5281/zenodo.10578400)  
+1. `2023` 21 Feb Materials Research Data Alliance [MaRDA](https://www.eventbrite.com/e/marda-virtual-annual-meeting-2023-speakers-and-panelists-tickets-504977048947?utm_source=eventbrite&utm_medium=email&utm_campaign=event_reminder&utm_term=eventname) Annual Meeting,  Invited Talk: Equitable Access and the Year of Open Science [slides](https://zenodo.org/doi/10.5281/zenodo.10578410)  
+1. `2023` 09 Feb UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Presentation](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)  
+1. `2023` 08 Feb Scientific Society CEO breakfast 2023 NASA’s Year of Open Science [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10578404)  
+1. `2023` 11 Jan American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). Core Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239). NASA's Year of Open Science.  
+1. `2023` 11 Jan American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). TOPS Townhall  
 1. `2022`
 National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.  
 1. `2022`
