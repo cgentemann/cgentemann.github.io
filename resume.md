@@ -154,6 +154,8 @@ NASA Satellite Ocean Atlas Team
 
 ## Public Speaking and Articles:
 
+`2023`
+[StoryCorps Archives: AGU Narratives](https://archive.storycorps.org/interviews/by-changing-how-science-is-done-we-open-it-up-to-more-diverse-experiences-an-interview-with-chelle-gentemann/)  
 `2022`
 [AWS Day One](https://blog.aboutamazon.co.uk/) These Women use Science Data and Amazon to Fight Climate Change 14 Feb 2022 [Article](https://blog.aboutamazon.co.uk/sustainability/these-women-use-science-data-and-amazon-to-fight-climate-change) \
 `2022` 
@@ -226,10 +228,18 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 `2017-2018` 3 NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings\
 
 ## Partial list of invited talks/panels:
-1. `2023`
+
+1. '2023'
+Turing Way Fireside Chat [Implementing Open Science at Scale](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)  
+
+1. '2023'
+Health Research Alliance ([HRA](https://www.healthra.org)) on an [Open Research Webinar Series](https://www.healthra.org/exploring-the-value-of-open-evo-program) 'Year of Open Science'
+3. 1. `2023`
 UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Presentation](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)  
 1. `2023`
 American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). Core Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239). NASA's Year of Open Science.  
+1. `2023`
+American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). TOPS Townhall  
 1. `2022`
 National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.  
 1. `2022`
