@@ -145,6 +145,7 @@ NASA Satellite Ocean Atlas Team
 
 `2023`
 [StoryCorps Archives: AGU Narratives](https://archive.storycorps.org/interviews/by-changing-how-science-is-done-we-open-it-up-to-more-diverse-experiences-an-interview-with-chelle-gentemann/)  
+`2023` Turing Way Fireside Chat Implementing Open Science at Scale [Interview](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)  
 `2022`
 [AWS Day One](https://blog.aboutamazon.co.uk/) These Women use Science Data and Amazon to Fight Climate Change 14 Feb 2022 [Article](https://blog.aboutamazon.co.uk/sustainability/these-women-use-science-data-and-amazon-to-fight-climate-change) \
 `2022` 
@@ -217,8 +218,9 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 `2018 - 2020` Biannual NASEM CESAS committee meetings  
 `2017-2018` NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings (3 total)   
 
-## Partial list of invited talks/panels:
+## Partial list of invited talks/panels/interviews:
 
+1. `2023 Dec 19` StoryCorps Archives: AGU Narratives [Interview](https://archive.storycorps.org/interviews/by-changing-how-science-is-done-we-open-it-up-to-more-diverse-experiences-an-interview-with-chelle-gentemann/)  
 1. `2023 Dec 14` AGU Fall Meeting [IN43A](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1255196) - Fostering Wide-Open Science by Improving Collaboration, Innovation, Attribution, Identity, and Ethics in Data Repositories and Data (Re)publication II, Transforming to Open Science [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10581689)
 1. `2023 Nov 16` National Academy of Science and Engineering Committee on Science, Engineering, Medicine, and Public Policy [Fall Meeting](https://www.nationalacademies.org/event/41319_11-2023_committee-on-science-engineering-medicine-and-public-policy-fall-meeting-2023), NASA's Transform to Open Science initative [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10143316)
 1. `2023 Nov 02`, Irish National Open Research Festival 2023 [NORF](https://www.ria.ie/national-open-research-festival-2023-norfest2023) Opening Science [Keynote](https://zenodo.org/doi/10.5281/zenodo.10059654)  
