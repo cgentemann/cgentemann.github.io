@@ -268,47 +268,40 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 1. `2020` ESIP Summer Meeting, "Empowering Transformational Science" [Plenary Speaker](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP)  
 1. `2020` The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [Invited Talk](https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)  
 1. `2020` NASA Designated Observables Special Topic: Open Science and Data Systems, "Towards open science: accelerating and expanding NASA's scientific impact" [Invited Talk](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).  
-1. `2020` COVID-19: Identifying Unique Opportunities for Earth System Science"Keck Institute for Space Studies virtual workshop, "Cloud enabled science" [Invited Talk]  
-1. `2020` AWS Public Sector Summit, The Cube, "Cloud enabled science" [Interview] (https://video.cube365.net/c/927999) invited interview.  
-1. `2020` Coiled Blog invited interview, ["Dask in Action with Massive Satellite Datasets"](https://coiled.io/blog/dask-in-action-gentemann/).\
-1. `2020` 
-Coiled Blog invited interview, ["Accelerating Science with Dask"](https://coiled.io/blog/accelerating-science-dask-gentemann/).\
-1. `2020` 
-Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [recording, at 8:10:30](https://livestream.com/nasem/earthsciencefromspace/videos/201004615)\
-1. `2018` 
-AGU Fall Meeting Townhall ["TH13C: Best Practices for a Future Open Code Policy for NASA Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/56246)\
-1. `2018` 
-AGU Fall Meeting Townhall ["TH45A: Data Science and a New Scientific Frontier in Space Science"](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/55933)\
-1. `2018` 
-SFSU, ["The changing landscape of science"](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)\
-1. `2015` 
-IGARSS, "RFI in Microwave Remote Sensing"\
-1. `2011` 
-AGU Fall Meeting, "AQUA AMSR-E Sea Surface Temperature"\
+1. `2020` COVID-19: Identifying Unique Opportunities for Earth System Science" Keck Institute for Space Studies virtual workshop, "Cloud enabled science" [Invited Talk]  
+1. `2020` AWS Public Sector Summit, The Cube, "Cloud enabled science" [Interview](https://video.cube365.net/c/927999)  
+1. `2020` Coiled Blog "Dask in Action with Massive Satellite Datasets" [Interview](https://coiled.io/blog/dask-in-action-gentemann/).  
+1. `2020` Coiled Blog "Accelerating Science with Dask" [Interview](https://coiled.io/blog/accelerating-science-dask-gentemann/).  
+1. `2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [Closing Statement, at 8:10:30](https://livestream.com/nasem/earthsciencefromspace/videos/201004615)  
+1. `2018` AGU Fall Meeting "TH13C: Best Practices for a Future Open Code Policy for NASA Space Science" [Town Hall](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/56246)  
+1. `2018` AGU Fall Meeting "TH45A: Data Science and a New Scientific Frontier in Space Science" [Town Hall](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/55933)  
+1. `2018` SFSU, "The changing landscape of science" [Invited Talk](https://www2.slideshare.net/ChelleGentemann/the-changing-landscape-of-science?qid=c07854f8-1037-4120-a4bc-9b392132bd23&v=&b=&from_search=4)  
+1. `2015` IGARSS, "RFI in Microwave Remote Sensing"  
+1. `2011` AGU Fall Meeting, "AQUA AMSR-E Sea Surface Temperature"  
 1. `2010` 
-Oceans from Space, "A review of Passive Microwave Retrievals from Space"\
+Oceans from Space, "A review of Passive Microwave Retrievals from Space"  
 1. `2008` 
-Yale Department of Geology & Geophysics Colloquium, "Satellite sea surface temperatures"\
+Yale Department of Geology & Geophysics Colloquium, "Satellite sea surface temperatures"  
 1. `2006` 
 AGU Joint Assembly, "Optimally interpolated infrared and microwave sea surface temperatures: The Multi-sensor Improved SST (MISST) Project"\
 1. `2006` 
-IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "Multi-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMI"\
+IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "Multi-satellite, multi-sensor data fusion: global daily 10 km SSTs from MODIS, AMSR-E, and TMI"  
 1. `2006` 
-IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "In situ observations of diurnal warming in the skin layer"\
+IGARSS IEEE International Geoscience and Remote Sensing Symposium & 27th Canadian Symposium on Remote Sensing, "In situ observations of diurnal warming in the skin layer"  
 1. `2004` 
-AMS 14th Conference on Satellite Meteorology, "Multi-sensor Improved Sea Surface Temperatures (MISST) for GODAE"\
+AMS 14th Conference on Satellite Meteorology, "Multi-sensor Improved Sea Surface Temperatures (MISST) for GODAE"  
 1. `2004` 
-AGU Ocean Sciences, "Diurnal warming in satellite sea-surface temperatures"\
+AGU Ocean Sciences, "Diurnal warming in satellite sea-surface temperatures"  
 1. `2003` 
-JCOMM Workshop on Advances in Marine Climatology, "Diurnal Warming and Climate SST records"\
+JCOMM Workshop on Advances in Marine Climatology, "Diurnal Warming and Climate SST records"  
 1. `2003` 
-CEOS Meeting, Ocean Sciences, "Accurate microwave SST retrieval and microwave/infrared blending"\
+CEOS Meeting, Ocean Sciences, "Accurate microwave SST retrieval and microwave/infrared blending"  
 1. `2002` 
-GCOS Workshop on Advances in the Use of Historical Marine Climate Data, "Advances in Microwave Sea Surface Temperature"and "Towards Improved Validation of Satellite Sea Surface Skin Temperature Measurements for Climate Research"\
+GCOS Workshop on Advances in the Use of Historical Marine Climate Data, "Advances in Microwave Sea Surface Temperature"and "Towards Improved Validation of Satellite Sea Surface Skin Temperature Measurements for Climate Research"  
 1. `2001` 
-GODAE Science Team Meeting, "Microwave SST retrievals from TRMM"\
+GODAE Science Team Meeting, "Microwave SST retrievals from TRMM"  
 1. `2001` 
-IGARSS, "Satellite Microwave SST: Accuracy, Comparisons to AVHRR and Reynolds SST, and Measurement of Diurnal Thermocline Variability"
+IGARSS, "Satellite Microwave SST: Accuracy, Comparisons to AVHRR and Reynolds SST, and Measurement of Diurnal Thermocline Variability"  
 
 ## Memberships:
 
