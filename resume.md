@@ -76,22 +76,11 @@ __American Meteorological Society 13th Conference on Satellite Meteorology and O
 
 ## Science Teams, Working Groups, Organizing Committees:
 
-2022 -	 
-
-`2022-present`
-__Co-chair__
-Co-chair White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Year of Open Science, within the Subcommittee on Open Science  
-`2021-present`
-__Steering Committee__
-NASA Open-Source Science for the [Earth System Observatory Mission Data Processing Study](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops)  
-`2021-present` 
-__Member__
-NOAA [Science Advisory Board](https://sab.noaa.gov/)   
-`2012-2020` 
-__Committee Member__
-`2018-2020` 
-__Co-Chair__
-National Academies of Sciences, Engineering, and Medicine, Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) \
+`2024-Present` __Co-chair__ White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Engagement, within the Subcommittee on Open Science  
+`2022-2023` __Co-chair__ White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Year of Open Science, within the Subcommittee on Open Science  
+`2021-2023` __Steering Committee__ NASA Open-Source Science for the [Earth System Observatory Mission Data Processing Study](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops)  
+`2021-present` __Board Member__ [NOAA Science Advisory Board](https://sab.noaa.gov/)   
+`2012-2020` __Committee Member__ `2018-2020` __Co-Chair__ National Academies of Sciences, Engineering, and Medicine, Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) \
 `2017-2018`
 __Co-Chair__
 National Academies of Sciences, Engineering, and Medicine, Committee on Best Practices for a Future Open Code Policy for NASA Space Studies [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)\
@@ -184,7 +173,6 @@ House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Spac
 Human Emissions Made Ocean Heat Wave 53 Times More Likely 15 Jan 2018. [Article](https://www.nationalgeographic.com/science/article/carbon-dioxide-emissions-drive-ocean-heat-waves-global-warming) \
 
 ## Images:
-
 `2020`
 Cover [image](https://journals.ametsoc.org/bams/issue/101/8) August 2020 BAMS\
 `2020`
@@ -216,102 +204,73 @@ OceanObs Python Tutorial, Python for Oceanography [website](https://github.com/p
 GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](https://github.com/python4oceanography/ocean_python_tutorial)
 
 ## Meeting Organzation
-`2023` CERN/NASA Open Science Summit Co-chair \
-`2021` ASLO/AGU Ocean Sciences Meeting Innovation Session: IN08A Open Ocean Science \
-`2021` ASLO/AGU Ocean Sciences Meeting Innovation Session: IN08A Open Ocean Science \
-`2021` AGU Fall Meeting full day Innovation Session: "U51B: Open Science in Action" \
-`2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf) \
-`2019` OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/) \
-`2003 - present` Annual MISST science team meetings held at AGU/Ocean Sciences \
+`2023 Dec 15` [U51A](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/198458) Union Session: Science for All—Organizing Agile Openness  
+`2023 Dec 12` [IN22A](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/213163) Flourishing Science Commons: Data Science, Open Science, and Knowledge Communities  
+`2023 July 10-14` CERN/NASA Open Science [Summit](https://home.cern/news/announcement/knowledge-sharing/cernnasa-summit-accelerating-adoption-open-science) Co-Chair 
+`2022 - 2023` four NASA TOPS Community [Panels](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Panels)
+`2022 Mar 4` ASLO/AGU Ocean Sciences Meeting Innovation Session: [IN08A](https://www.aslo.org/osm2022/innovative-sessions/) Open Ocean Science  
+`2021 Dec 17` AGU Fall Meeting full day Innovation Session: [U51B](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122142): Open Science in Action  
+`2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf)  
+`2019` OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/)  
+`2003 - present` Annual MISST science team meetings held at AGU/Ocean Sciences  
 `2009` 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)\
-`2018 - 2020` Biannual NASEM CESAS committee meetings \
-`2017-2018` 3 NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings\
+`2018 - 2020` Biannual NASEM CESAS committee meetings  
+`2017-2018` NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings (3 total)   
 
 ## Partial list of invited talks/panels:
 
-1. `2023 16 Nov` National Academy of Science and Engineering Committee on Science, Engineering, Medicine, and Public Policy [Fall Meeting](https://www.nationalacademies.org/event/41319_11-2023_committee-on-science-engineering-medicine-and-public-policy-fall-meeting-2023), NASA's Transform to Open Science initative [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10143316)
-1. `2023` 02 Nov, Irish National Open Research Festival 2023 [NORF](https://www.ria.ie/national-open-research-festival-2023-norfest2023) Keynote [Opening Science](https://zenodo.org/doi/10.5281/zenodo.10059654)  
-1. `2023` 18 Oct Health Research Alliance ([HRA](https://www.healthra.org)) on an [Open Research Webinar Series](https://www.healthra.org/exploring-the-value-of-open-evo-program) 'Year of Open Science' [slides](https://zenodo.org/doi/10.5281/zenodo.10578442)
-1. `2023` 12 Oct CERN Scientific Information Service [(SIS)](https://scientific-info.cern/) Retreat 'Open Science Perspectives' Keynote [slides](https://zenodo.org/doi/10.5281/zenodo.10578427)  
-1. `2023` 17 Jul National Science Foundation and the American Association for the Advancement of Science Seminar [How can public access advance equity and learning?](https://new.nsf.gov/events/how-can-public-access-advance-equity-learning/2023-07-17) Invited Talk [slides](https://zenodo.org/doi/10.5281/zenodo.10578423)  
-1. `2023` 23 Jun COARA [General Assembly](https://coara.eu/news/coara-holds-general-assembly/) Session: ’Research Assessment Practices and Perspective in a non-European Region’ NASA's Transform to Open Science Mission [Invited Talk](https://zenodo.org/records/8072685)  
-1. `2023` 04 Jun AAS Summer [meeting](https://aas.org/meetings/aas242), 'The What and Why of Open Science' [Session](“The What and Why of Open Science”) 2023 NASA Year of Open Science [slides](https://zenodo.org/doi/10.5281/zenodo.8008089)  
-1. `2023` 12 May Stanford Center for Open and REproducible Science CORES [Annual Meeting](https://datascience.stanford.edu/cores/cores-annual-meeting-2023) Keynote [slides](https://zenodo.org/records/7931483)  
-1. `2023` 11 May TOPS May Community [Forum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230511_community_forum.md): NASA’s Transform to Open Science (TOPS) [slides](https://zenodo.org/records/7948513)  
-1. `2023` 9 May Center for Open Science [MetaScience](https://metascience.info/) 2023 Year of Open Science Invited Talk [slides](https://zenodo.org/doi/10.5281/zenodo.10578418)  
-1. '2023' 05 May Turing Way Fireside Chat [Implementing Open Science at Scale](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)  
-1. `2023` 4 May University of Arizona Lunar and Planetary Laboratory Faculty Retreat [NASA's 2023 Year of Open Science](https://zenodo.org/records/7897387)  
-1. `2023` 13 Mar Lunar and Planetary Science Conference [LPSC](https://www.hou.usra.edu/meetings/lpsc2023/) NASA’s Year of Open Science TownHall [slides](https://zenodo.org/doi/10.5281/zenodo.10578412)  
-1. `2023` 6 Mar UC Berkeley Collaborative and Reproducible Data Science  [Stats 159](https://ucb-stat-159-s23.github.io/site/)  'Climate Data Analysis using Xarray' Guest Lecture [slides](https://zenodo.org/doi/10.5281/zenodo.10578400)  
-1. `2023` 21 Feb Materials Research Data Alliance [MaRDA](https://www.eventbrite.com/e/marda-virtual-annual-meeting-2023-speakers-and-panelists-tickets-504977048947?utm_source=eventbrite&utm_medium=email&utm_campaign=event_reminder&utm_term=eventname) Annual Meeting,  Invited Talk: Equitable Access and the Year of Open Science [slides](https://zenodo.org/doi/10.5281/zenodo.10578410)  
-1. `2023` 09 Feb UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Presentation](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)  
-1. `2023` 08 Feb Scientific Society CEO breakfast 2023 NASA’s Year of Open Science [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10578404)  
-1. `2023` 11 Jan American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). Core Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239). NASA's Year of Open Science.  
-1. `2023` 11 Jan American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). TOPS Townhall  
-1. `2022`
-National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.  
-1. `2022`
-[Global Dynamics in Responsible Research](https://symposium.einsteinfoundation.de/), The Einstein FoundationGlobal Dynamics in Responsible Research, Keynote: Transforming to Open Science  
-1. `2022`
-PyDataNY Keynote: [I'm from the government and I'm here to help](https://zenodo.org/record/7308372)  
-1. `2022`
-Solid Earth Science Team Meeting, La Jolla. Workshop [Ethos of Open Science](https://zenodo.org/record/7304777)  
-1. `2022`
-Fish and Wildlife Service Data Management Conference Keynote: [Science Storms the Cloud](https://zenodo.org/record/7268791)  
-1. `2022`
-Open Source Science: A Conversation with Leaders at NASA and UC Berkeley [Panel](https://www.eventbrite.com/e/open-source-science-a-conversation-with-leaders-at-nasa-and-uc-berkeley-tickets-429815468637) with [livestream](bit.ly/opensci1026live) and [slides](https://zenodo.org/record/7254804#.Y105I2fMKUk) 
-1. `2022`
-NOAA Environmental Data Management [Workshop](https://noaaedm2022.sched.com/chellegentemann) Panel and Invited talk: [Year of Open Science](https://zenodo.org/record/7086354) \
-1. `2022`
-[PACE Applications Workshop](https://app.swapcard.com/event/2022-pace-applications-workshop) Plenary talk: [Open Data and Accessibility](https://zenodo.org/record/7075771) \
-1. `2022`
-[Python at Scale](https://www.pythonatscale.com/speakers) \
-1. `2022`
-[Women in Data Science](http://wids-santaclara.org/) Santa Clara, Distinguished Speaker, Transforming to Open Science \
-1. `2022` 
-[US CLIVAR Summit](https://usclivar.org/meetings/us-clivar-summit-2022) Transforming to Open Science \
-1. `2022`
-AGU [Open Science Pathways in the Earth, Space, and Life Sciences](https://data.agu.org/2022/03/11/open-science-pathways-earth-life.html) [Opening up to Open Science](https://doi.org/10.5281/zenodo.6536833) \
-1. `2022` 
-DOE [ARM/ASR Open Science Virtual Workshop 2022](https://web.cvent.com/event/a240de56-f066-45f3-a5e8-5bb4ef6293f2/summary) Keynote: NASA's Transform to Open Science Initiative \
-1. `2022` 
-[NAS Machine Learning and Artificial Intelligence to Advance Earth System Science Opportunities and Challenges](https://www.nationalacademies.org/our-work/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges---a-workshop) ML/AI - opportunities & challenges: data & community [talk](https://zenodo.org/record/6015660#.YvKP8rfMKUk) \
-1. `2021`
-AGU Fall Meeting U34A-02: Science for the World: Transform to OPen Science (TOPS) \
-1. `2021`
-AGU Fall Meeting IN55C-02: Open Oceanography - FOSS science \
-1. `2021` 
-Australian Bureau of Meteorology Annual research and development workshop [Science Storms the Cloud](http://www.bom.gov.au/research/workshop/2021/) \
-1. `2021`
-[Lecture 19](https://ds100.org/fa21/lecture/lec19/) to UC Berkeley's Data 100 class on the physical basis of climate change and using Xarray to analyze climate records \
-1. `2021`
-NASA Open-Source Science for Data Processing and Archives Workshop [Transform to OPen Science](https://science.nasa.gov/researchers/science-data/open-source-science-workshop) \
-1. `2021` 
-[FOSS4G](https://2021.foss4g.org/) invited talk [Open Source Science](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science) \
-1. `2021` 
-[NASEM Committee on Radio Frequencies](https://www.nationalacademies.org/our-work/committee-on-radio-frequencies) invited talk: [Passive microwave data provide a critically important 40-year record of changes to our climate](https://www.slideshare.net/ChelleGentemann/satellite-passive-microwave-measurements-of-the-climate-crisis) \
-1. `2021` 
-FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/) \
-1. `2021`
-Pangeo Science Showcase: [Accessing SST data on the cloud](https://discourse.pangeo.io/t/may-19-2021-accessing-sea-surface-temperature-data-on-the-cloud/1503)\
-1. `2021` 
-Science Thursday Livestream on [Distributed Data Science and Oceanography with Dask](https://www.youtube.com/watch?v=ZoK3Rn5j9R4&feature=youtu.be&ab_channel=Coiled)\
-1. `2021` 
-International Ocean Vector Wind Science Team meeting invited talk: [Butterfly](https://youtu.be/AhkGZYbW_24)\
-1. `2020` 
-AGU Fall meeting invited talk: Session:Â Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".\
-1. `2020` 
-ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) \
-1. `2020` 
-The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [slides](https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)\
-1. `2020` 
-NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ["Towards open science: accelerating and expanding NASA's scientific impact"](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).\
-1. `2020` 
-COVID-19: Identifying Unique Opportunities for Earth System Science"Keck Institute for Space Studies virtual workshop, invited speaker and participant. "Cloud enabled science".\
-1. `2020` 
-AWS Public Sector Summit, The Cube, ["Cloud enabled science"](https://video.cube365.net/c/927999) invited interview.\
-1. `2020` 
-Coiled Blog invited interview, ["Dask in Action with Massive Satellite Datasets"](https://coiled.io/blog/dask-in-action-gentemann/).\
+1. `2023 Dec 14` AGU Fall Meeting [IN43A](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1255196) - Fostering Wide-Open Science by Improving Collaboration, Innovation, Attribution, Identity, and Ethics in Data Repositories and Data (Re)publication II, Transforming to Open Science [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10581689)
+1. `2023 Nov 16` National Academy of Science and Engineering Committee on Science, Engineering, Medicine, and Public Policy [Fall Meeting](https://www.nationalacademies.org/event/41319_11-2023_committee-on-science-engineering-medicine-and-public-policy-fall-meeting-2023), NASA's Transform to Open Science initative [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10143316)
+1. `2023 Nov 02`, Irish National Open Research Festival 2023 [NORF](https://www.ria.ie/national-open-research-festival-2023-norfest2023) Keynote [Opening Science](https://zenodo.org/doi/10.5281/zenodo.10059654)  
+1. `2023 Oct 18` Health Research Alliance ([HRA](https://www.healthra.org)) on an [Open Research Webinar Series](https://www.healthra.org/exploring-the-value-of-open-evo-program) 'Year of Open Science' [slides](https://zenodo.org/doi/10.5281/zenodo.10578442)
+1. `2023 Oct 12` CERN Scientific Information Service [(SIS)](https://scientific-info.cern/) Retreat 'Open Science Perspectives' Keynote [slides](https://zenodo.org/doi/10.5281/zenodo.10578427)  
+1. `2023 Jul 17` National Science Foundation and the American Association for the Advancement of Science Seminar [How can public access advance equity and learning?](https://new.nsf.gov/events/how-can-public-access-advance-equity-learning/2023-07-17) Invited Talk [slides](https://zenodo.org/doi/10.5281/zenodo.10578423)  
+1. `2023 Jun 23` COARA [General Assembly](https://coara.eu/news/coara-holds-general-assembly/) Session: ’Research Assessment Practices and Perspective in a non-European Region’ NASA's Transform to Open Science Mission [Invited Talk](https://zenodo.org/records/8072685)  
+1. `2023 Jun 04` AAS Summer [meeting](https://aas.org/meetings/aas242), 'The What and Why of Open Science' [Session](“The What and Why of Open Science”) 2023 NASA Year of Open Science [slides](https://zenodo.org/doi/10.5281/zenodo.8008089)  
+1. `2023 May 12` Stanford Center for Open and REproducible Science CORES [Annual Meeting](https://datascience.stanford.edu/cores/cores-annual-meeting-2023) Keynote [slides](https://zenodo.org/records/7931483)  
+1. `2023 May 11` TOPS May Community [Forum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230511_community_forum.md): NASA’s Transform to Open Science (TOPS) [slides](https://zenodo.org/records/7948513)  
+1. `2023 May 9` Center for Open Science [MetaScience](https://metascience.info/) 2023 Year of Open Science Invited Talk [slides](https://zenodo.org/doi/10.5281/zenodo.10578418)  
+1. '2023 May 5` Turing Way Fireside Chat [Implementing Open Science at Scale](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)  
+1. `2023 May 4` University of Arizona Lunar and Planetary Laboratory Faculty Retreat [NASA's 2023 Year of Open Science](https://zenodo.org/records/7897387)  
+1. `2023 Mar 13` Lunar and Planetary Science Conference [LPSC](https://www.hou.usra.edu/meetings/lpsc2023/) NASA’s Year of Open Science TownHall [slides](https://zenodo.org/doi/10.5281/zenodo.10578412)  
+1. `2023 Mar 6` UC Berkeley Collaborative and Reproducible Data Science  [Stats 159](https://ucb-stat-159-s23.github.io/site/)  'Climate Data Analysis using Xarray' Guest Lecture [slides](https://zenodo.org/doi/10.5281/zenodo.10578400)  
+1. `2023 Feb 21` Materials Research Data Alliance [MaRDA](https://www.eventbrite.com/e/marda-virtual-annual-meeting-2023-speakers-and-panelists-tickets-504977048947?utm_source=eventbrite&utm_medium=email&utm_campaign=event_reminder&utm_term=eventname) Annual Meeting,  Invited Talk: Equitable Access and the Year of Open Science [slides](https://zenodo.org/doi/10.5281/zenodo.10578410)  
+1. `2023 Feb 09` UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Presentation](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)  
+1. `2023 Feb 08` Scientific Society CEO breakfast 2023 NASA’s Year of Open Science [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10578404)  
+1. `2023 Jan 11` American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). Core Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239). NASA's Year of Open Science.  
+1. `2023 Jan 11` American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). TOPS Townhall  
+1. `2022 Dec 5` National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.  
+1. `2022 Dec 1-2` [Global Dynamics in Responsible Research](https://symposium.einsteinfoundation.de/), The Einstein FoundationGlobal Dynamics in Responsible Research, Transforming to Open Science [Keynote](https://zenodo.org/uploads/7391501)  
+1. `2022 Nov 09` PyDataNY Keynote: [I'm from the government and I'm here to help](https://zenodo.org/record/7308372)  
+1. `2022 Nov 07` Solid Earth Science Team Meeting, La Jolla. Workshop [Ethos of Open Science](https://zenodo.org/record/7304777)  
+1. `2022 Oct 31` Fish and Wildlife Service Data Management Conference Keynote: [Science Storms the Cloud](https://zenodo.org/record/7268791)  
+1. `2022 Oct 26` Open Source Science: A Conversation with Leaders at NASA and UC Berkeley [Panel](https://www.eventbrite.com/e/open-source-science-a-conversation-with-leaders-at-nasa-and-uc-berkeley-tickets-429815468637) with [livestream](bit.ly/opensci1026live) and [slides](https://zenodo.org/record/7254804#.Y105I2fMKUk) 
+1. `2022 Sept 16` NOAA Environmental Data Management [Workshop](https://noaaedm2022.sched.com/chellegentemann) Panel and Invited talk: [Year of Open Science](https://zenodo.org/record/7086354)  
+1. `2022 Sept 15` [PACE Applications Workshop](https://app.swapcard.com/event/2022-pace-applications-workshop) Plenary talk: [Open Data and Accessibility](https://zenodo.org/record/7075771)  
+1. `2022 Oct 27` [Python at Scale]([https://www.pythonatscale.com/speakers](https://python.org/events/python-events/1276/))  
+1. `2022 May 7` [Women in Data Science](http://wids-santaclara.org/past_years/2022.html) Santa Clara, Distinguished Speaker, Transforming to Open Science  
+1. `2022 Mar 14` [US CLIVAR Summit](https://usclivar.org/meetings/us-clivar-summit-2022) Transforming to Open Science  
+1. `2022 Mar 11` AGU [Open Science Pathways in the Earth, Space, and Life Sciences](https://data.agu.org/2022/03/11/open-science-pathways-earth-life.html) [Opening up to Open Science](https://doi.org/10.5281/zenodo.6536833)  
+1. `2022 Apr 28` DOE [ARM/ASR Open Science Virtual Workshop 2022](https://web.cvent.com/event/a240de56-f066-45f3-a5e8-5bb4ef6293f2/summary) Keynote: NASA's Transform to Open Science Initiative  
+1. `2022 Feb 08` [NAS Machine Learning and Artificial Intelligence to Advance Earth System Science Opportunities and Challenges](https://www.nationalacademies.org/our-work/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges---a-workshop) ML/AI - opportunities & challenges: data & community [talk](https://zenodo.org/record/6015660#.YvKP8rfMKUk)  
+1. `2021 Dec 10` AGU Fall Meeting U34A-02: Science for the World: Transform to OPen Science (TOPS)  
+1. `2021 Dec 10` AGU Fall Meeting IN55C-02: Open Oceanography - FOSS science  
+1. `2021` Australian Bureau of Meteorology Annual research and development workshop [Science Storms the Cloud](http://www.bom.gov.au/research/workshop/2021/)  
+1. `2021` [Lecture 19](https://ds100.org/fa21/lecture/lec19/) to UC Berkeley's Data 100 class on the physical basis of climate change and using Xarray to analyze climate records  
+1. `2021` NASA Open-Source Science for Data Processing and Archives Workshop [Transform to OPen Science](https://science.nasa.gov/researchers/science-data/open-source-science-workshop) \
+1. `2021` [FOSS4G](https://2021.foss4g.org/) invited talk [Open Source Science](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science) \
+1. `2021` [NASEM Committee on Radio Frequencies](https://www.nationalacademies.org/our-work/committee-on-radio-frequencies) invited talk: [Passive microwave data provide a critically important 40-year record of changes to our climate](https://www.slideshare.net/ChelleGentemann/satellite-passive-microwave-measurements-of-the-climate-crisis) \
+1. `2021` FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/) \
+1. `2021`Pangeo Science Showcase: [Accessing SST data on the cloud](https://discourse.pangeo.io/t/may-19-2021-accessing-sea-surface-temperature-data-on-the-cloud/1503)\
+1. `2021` Science Thursday Livestream on [Distributed Data Science and Oceanography with Dask](https://www.youtube.com/watch?v=ZoK3Rn5j9R4&feature=youtu.be&ab_channel=Coiled)\
+1. `2021` International Ocean Vector Wind Science Team meeting invited talk: [Butterfly](https://youtu.be/AhkGZYbW_24)\
+1. `2020` AGU Fall meeting invited talk: Session:Â Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".\
+1. `2020` ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) \
+1. `2020` The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [slides](https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)\
+1. `2020` NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ["Towards open science: accelerating and expanding NASA's scientific impact"](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).\
+1. `2020` COVID-19: Identifying Unique Opportunities for Earth System Science"Keck Institute for Space Studies virtual workshop, invited speaker and participant. "Cloud enabled science".\
+1. `2020` AWS Public Sector Summit, The Cube, ["Cloud enabled science"](https://video.cube365.net/c/927999) invited interview.\
+1. `2020` Coiled Blog invited interview, ["Dask in Action with Massive Satellite Datasets"](https://coiled.io/blog/dask-in-action-gentemann/).\
 1. `2020` 
 Coiled Blog invited interview, ["Accelerating Science with Dask"](https://coiled.io/blog/accelerating-science-dask-gentemann/).\
 1. `2020` 
