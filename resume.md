@@ -229,7 +229,7 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 
 ## Partial list of invited talks/panels:
 
-1. `2023` 16 Nov National Academy of Science and Engineering Committee on Science, Engineering, Medicine, and Public Policy [Fall Meeting](https://www.nationalacademies.org/event/41319_11-2023_committee-on-science-engineering-medicine-and-public-policy-fall-meeting-2023), NASA's Transform to Open Science initative [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10143316)
+1. `2023 16 Nov` National Academy of Science and Engineering Committee on Science, Engineering, Medicine, and Public Policy [Fall Meeting](https://www.nationalacademies.org/event/41319_11-2023_committee-on-science-engineering-medicine-and-public-policy-fall-meeting-2023), NASA's Transform to Open Science initative [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10143316)
 1. `2023` 02 Nov, Irish National Open Research Festival 2023 [NORF](https://www.ria.ie/national-open-research-festival-2023-norfest2023) Keynote [Opening Science](https://zenodo.org/doi/10.5281/zenodo.10059654)  
 1. `2023` 18 Oct Health Research Alliance ([HRA](https://www.healthra.org)) on an [Open Research Webinar Series](https://www.healthra.org/exploring-the-value-of-open-evo-program) 'Year of Open Science' [slides](https://zenodo.org/doi/10.5281/zenodo.10578442)
 1. `2023` 12 Oct CERN Scientific Information Service [(SIS)](https://scientific-info.cern/) Retreat 'Open Science Perspectives' Keynote [slides](https://zenodo.org/doi/10.5281/zenodo.10578427)  
