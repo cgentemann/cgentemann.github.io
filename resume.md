@@ -230,7 +230,7 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 1. `2023 May 12` Stanford Center for Open and REproducible Science CORES [Annual Meeting](https://datascience.stanford.edu/cores/cores-annual-meeting-2023) [Keynote](https://zenodo.org/records/7931483)  
 1. `2023 May 11` TOPS May Community [Forum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230511_community_forum.md): NASA’s Transform to Open Science (TOPS) [slides](https://zenodo.org/records/7948513)  
 1. `2023 May 9` Center for Open Science [MetaScience](https://metascience.info/) 2023 Year of Open Science [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10578418)  
-1. '2023 May 5` Turing Way Fireside Chat [Implementing Open Science at Scale](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)  
+1. `2023 May 5` Turing Way Fireside Chat [Implementing Open Science at Scale](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)  
 1. `2023 May 4` University of Arizona Lunar and Planetary Laboratory Faculty Retreat NASA's 2023 Year of Open Science [Invited Talk](https://zenodo.org/records/7897387)  
 1. `2023 Mar 13` Lunar and Planetary Science Conference [LPSC](https://www.hou.usra.edu/meetings/lpsc2023/) NASA’s Year of Open Science [Town Hall](https://zenodo.org/doi/10.5281/zenodo.10578412)  
 1. `2023 Mar 6` UC Berkeley Collaborative and Reproducible Data Science  [Stats 159](https://ucb-stat-159-s23.github.io/site/)  'Climate Data Analysis using Xarray' [Guest Lecture](https://zenodo.org/doi/10.5281/zenodo.10578400)  
