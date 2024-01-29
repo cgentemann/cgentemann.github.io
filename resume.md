@@ -255,21 +255,21 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 1. `2022 Feb 08` [NAS Machine Learning and Artificial Intelligence to Advance Earth System Science Opportunities and Challenges](https://www.nationalacademies.org/our-work/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges---a-workshop) ML/AI - opportunities & challenges: data & community [talk](https://zenodo.org/record/6015660#.YvKP8rfMKUk)  
 1. `2021 Dec 10` AGU Fall Meeting U34A-02: Science for the World: Transform to OPen Science (TOPS)  
 1. `2021 Dec 10` AGU Fall Meeting IN55C-02: Open Oceanography - FOSS science  
-1. `2021` Australian Bureau of Meteorology Annual research and development workshop [Science Storms the Cloud](http://www.bom.gov.au/research/workshop/2021/)  
-1. `2021` [Lecture 19](https://ds100.org/fa21/lecture/lec19/) to UC Berkeley's Data 100 class on the physical basis of climate change and using Xarray to analyze climate records  
-1. `2021` NASA Open-Source Science for Data Processing and Archives Workshop [Transform to OPen Science](https://science.nasa.gov/researchers/science-data/open-source-science-workshop) \
-1. `2021` [FOSS4G](https://2021.foss4g.org/) invited talk [Open Source Science](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science) \
-1. `2021` [NASEM Committee on Radio Frequencies](https://www.nationalacademies.org/our-work/committee-on-radio-frequencies) invited talk: [Passive microwave data provide a critically important 40-year record of changes to our climate](https://www.slideshare.net/ChelleGentemann/satellite-passive-microwave-measurements-of-the-climate-crisis) \
-1. `2021` FedGeo keynote [Open Ecosystems Help Science Storm the Cloud](https://fedgeo.us/) \
-1. `2021`Pangeo Science Showcase: [Accessing SST data on the cloud](https://discourse.pangeo.io/t/may-19-2021-accessing-sea-surface-temperature-data-on-the-cloud/1503)\
-1. `2021` Science Thursday Livestream on [Distributed Data Science and Oceanography with Dask](https://www.youtube.com/watch?v=ZoK3Rn5j9R4&feature=youtu.be&ab_channel=Coiled)\
-1. `2021` International Ocean Vector Wind Science Team meeting invited talk: [Butterfly](https://youtu.be/AhkGZYbW_24)\
-1. `2020` AGU Fall meeting invited talk: Session:Â Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".\
-1. `2020` ESIP Summer Meeting, plenary speaker, ["Empowering Transformational Science"](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP) \
-1. `2020` The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, invited speaker and panelist on ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [slides](https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)\
-1. `2020` NASA Designated Observables Special Topic: Open Science and Data Systems, invited speaker and panelist, ["Towards open science: accelerating and expanding NASA's scientific impact"](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).\
-1. `2020` COVID-19: Identifying Unique Opportunities for Earth System Science"Keck Institute for Space Studies virtual workshop, invited speaker and participant. "Cloud enabled science".\
-1. `2020` AWS Public Sector Summit, The Cube, ["Cloud enabled science"](https://video.cube365.net/c/927999) invited interview.\
+1. `2021 Nov 8-11` Australian Bureau of Meteorology Annual research and development workshop Science Storms the Cloud, [Invited Talk](http://www.bom.gov.au/research/workshop/2021/)  
+1. `2021 Oct 28` UC Berkeley's [Data 100](https://ds100.org/fa21/) Physical Data and Climate [Guest Lecture](https://ds100.org/fa21/lecture/lec19/)   
+1. `2021 Oct 14` NASA Open-Source Science for Data Processing and Archives [Workshop](https://science.nasa.gov/open-source-science-workshop-overview/) Transform to OPen Science Invited Talk  
+1. `2021 Sept 27` [FOSS4G](https://2021.foss4g.org/) Open Source Science [Invited Talk](https://www.slideshare.net/ChelleGentemann/foss4g-2021-open-source-science)  
+1. `2021 Oct 21` [NASEM Committee on Radio Frequencies](https://www.nationalacademies.org/our-work/committee-on-radio-frequencies) Passive microwave data provide a critically important 40-year record of changes to our climate [Invited Talk](https://www.slideshare.net/ChelleGentemann/satellite-passive-microwave-measurements-of-the-climate-crisis)  
+1. `2021 Jun 9` [FedGeoDay](https://www.fedgeo.us/about-2023/#past-events) Open Ecosystems Help Science Storm the Cloud [Keynote](https://fedgeo.us/) \
+1. `2021`Pangeo Science Showcase: [Accessing SST data on the cloud](https://discourse.pangeo.io/t/may-19-2021-accessing-sea-surface-temperature-data-on-the-cloud/1503)  
+1. `2021 Apr 8` Science Thursday Livestream on Distributed Data Science and Oceanography with Dask [Invited Talk] (https://www.youtube.com/watch?v=ZoK3Rn5j9R4&feature=youtu.be&ab_channel=Coiled)  
+1. `2021` International Ocean Vector Wind Science Team meeting Butterfly [Invited talk](https://youtu.be/AhkGZYbW_24)  
+1. `2020` AGU Fall meeting invited talk: Session:Â Atmospheric and Oceanic Processes Governing the Trade-wind Regions, "Emerging technologies for air-sea interaction research: saildrones during EUREC4A/ATOMIC".  
+1. `2020` ESIP Summer Meeting, "Empowering Transformational Science" [Plenary Speaker](https://www.youtube.com/watch?v=HAh7Xy9ReJo&ab_channel=ESIP)  
+1. `2020` The Consortium for Ocean Leadership's Workshop to Support Implementation of NOAA's UxS Strategy, ["Building a community of practice"](https://oceanleadership.org/unmanned-systems-workshop/) panel. [Invited Talk](https://www2.slideshare.net/ChelleGentemann/building-a-community-of-practise?qid=9d28f1cf-adde-4c6a-92c8-af65da7efd1f&v=&b=&from_search=1)  
+1. `2020` NASA Designated Observables Special Topic: Open Science and Data Systems, "Towards open science: accelerating and expanding NASA's scientific impact" [Invited Talk](https://www2.slideshare.net/ChelleGentemann/open-science-239057717?qid=8c85b964-08a8-4152-b0eb-1237657666f9&v=&b=&from_search=2).  
+1. `2020` COVID-19: Identifying Unique Opportunities for Earth System Science"Keck Institute for Space Studies virtual workshop, "Cloud enabled science" [Invited Talk]  
+1. `2020` AWS Public Sector Summit, The Cube, "Cloud enabled science" [Interview] (https://video.cube365.net/c/927999) invited interview.  
 1. `2020` Coiled Blog invited interview, ["Dask in Action with Massive Satellite Datasets"](https://coiled.io/blog/dask-in-action-gentemann/).\
 1. `2020` 
 Coiled Blog invited interview, ["Accelerating Science with Dask"](https://coiled.io/blog/accelerating-science-dask-gentemann/).\
