@@ -79,7 +79,7 @@ __American Meteorological Society 13th Conference on Satellite Meteorology and O
 `2024-Present` __Co-chair__ White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Engagement, within the Subcommittee on Open Science  
 `2022-2023` __Co-chair__ White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Year of Open Science, within the Subcommittee on Open Science  
 `2021-2023` __Steering Committee__ NASA Open-Source Science for the [Earth System Observatory Mission Data Processing Study](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops)  
-`2021-present` __Board Member__ [NOAA Science Advisory Board](https://sab.noaa.gov/)   
+`2021-present` __Board Member__ [NOAA Science Advisory Board](https://sab.noaa.gov/). Strategic Research Guidance Memorandum (SRGM) 2026 Tiger Team.   
 `2012-2020` __Committee Member__ `2018-2020` __Co-Chair__ National Academies of Sciences, Engineering, and Medicine, Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) \
 `2017-2018`
 __Co-Chair__
