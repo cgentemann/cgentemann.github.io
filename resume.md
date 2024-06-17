@@ -143,6 +143,7 @@ NASA Satellite Ocean Atlas Team
 
 ## Public Speaking and Articles:
 
+`2024` NASA Small steps, Giant leaps podcast [Episode 129: Accelerating discoveries with open science](https://appel.nasa.gov/podcast/podcast-episode-129-accelerating-discoveries-with-open-science/)  
 `2023`
 [StoryCorps Archives: AGU Narratives](https://archive.storycorps.org/interviews/by-changing-how-science-is-done-we-open-it-up-to-more-diverse-experiences-an-interview-with-chelle-gentemann/)  
 `2023` Turing Way Fireside Chat Implementing Open Science at Scale [Interview](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)  
@@ -344,6 +345,7 @@ Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored
 
 ## Publications
 
+1. Costes, S.V., Gentemann, C.L., Platts, S.H. et al. [Biological horizons: pioneering open science in the cosmos](https://www.nature.com/articles/s41467-024-48633-2). Nat Commun 15, 4780 (2024). https://doi.org/10.1038/s41467-024-48633-2  
 1. Bingham, A. et al., 2023, [Final Report of the Open Source Science for Earth System Observatory Mission Data Processing Architecture Study](https://doi.org/10.48577/jpl.AXZSUY), doi:10.48577/jpl.AXZSUY  
 1. [Why NASA and federal agencies are declaring this the Year of Open Science](https://doi.org/10.1038/d41586-023-00019-y) (2023). Nature 613, 217. doi: 10.1038/d41586-023-00019-y  
 2. NOAA Science Advisory Board (2022), [Report on open data / open science](https://sab.noaa.gov/wp-content/uploads/SAB_Report_Dec2022_OSOD.pdf)
