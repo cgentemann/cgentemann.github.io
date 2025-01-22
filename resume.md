@@ -2,10 +2,10 @@
 layout: resume
 ---
 
-Computational physical oceanographer, remote sensing scientist, and advocate for open science and inclusivity
+Computational physical oceanographer, remote sensing scientist, and advocate for open science
 
 ## Professional Summary
-Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for adeptly excelling in diverse roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing technical counsel and crafting impactful initiatives.
+Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for adeptly excelling in different roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing technical counsel and crafting impactful initiatives.
 
 ## Significant Achievements
 
