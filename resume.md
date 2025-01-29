@@ -5,14 +5,14 @@ layout: resume
 Computational physical oceanographer, remote sensing scientist, and advocate for open science
 
 ## Professional Summary
-Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for adeptly excelling in different roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing technical counsel and crafting impactful initiatives.
+Senior scientist and thought leader. Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for adeptly excelling in diverse roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing scientific and technical counsel and crafting impactful initiatives.
 
 ## Significant Achievements
-
+- **2024**	Raised almost $2 million from private funders to create a NASA challenge activity to modernize incentives at universities. Collaborations with the artist Jewel on [‘Heart of the Ocean’](https://mlmiamimag.com/jewel-heart-of-the-ocean-miami-art-week-2024) and Greg Niemeyer on [Synchronicity](https://www.gregniemeyer.com/synchronicity) SalesForce Tower installation.  
 - **2023** Created NASA’s [Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) and worked as co-chair of the OSTP Subcommittee on Open Science Sub-Working Group on the Year of Open Science to have the White House and 16 other federal agencies declare a [Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)  
 - **2022** Lead Scientist for NASA’s $40 million Transform to Open Science ([TOPS](https://nasa.github.io/Transform-to-Open-Science/)) project, collaborated on NASA’s new scientific information policy ([SPD-41a](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf)). 
 - **2021** Principal Investigator [Butterfly](https://nasa-butterfly.github.io/) a $190 mission NASA satellite mission proposal that received the highest possible review score (Cat 1). Published science section openly [online](https://medium.com/nasa-butterfly/how-to-write-a-great-nasa-proposal-2c6010faf7ab).
-- **2020** Co-created one of NASA’s [first ](https://registry.opendata.aws/mur/)cloud-optimized public datasets. Successfully advocated NOAA leadership to change UAV from _Unmanned_ Surface Vehicles to _Uncrewed_ Surface Vehicles across all NOAA communications. 
+- **2020** Co-created one of NASA’s [first ](https://registry.opendata.aws/mur/)cloud-optimized public datasets.  
 - **2019** Testified at the House Subcommittee on Space and Aeronautics, “Discovery on the Frontiers of Space: Exploring NASA’s Science Mission.” [Video](https://science.house.gov/hearings/discovery-on-the-frontiers-of-space-exploring-nasas-science-mission)
 - **2018** Co-author Best Practices for a Future Open Code Policy for NASA Space Studies NASEM [Report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)
 
@@ -142,7 +142,7 @@ __Team Member__
 NASA Satellite Ocean Atlas Team
 
 ## Public Speaking and Articles:
-
+`2024`	Vanishing Gradients podcast [Episode 35: Open Science at NASA -- Measuring Impact and the Future of AI](https://podcasts.apple.com/us/podcast/episode-35-open-science-at-nasa-measuring-impact-and/id1610318868?i=1000670023902)  
 `2024` NASA Small steps, Giant leaps podcast [Episode 129: Accelerating discoveries with open science](https://appel.nasa.gov/podcast/podcast-episode-129-accelerating-discoveries-with-open-science/)  
 `2023`
 [StoryCorps Archives: AGU Narratives](https://archive.storycorps.org/interviews/by-changing-how-science-is-done-we-open-it-up-to-more-diverse-experiences-an-interview-with-chelle-gentemann/)  
@@ -174,7 +174,11 @@ House Subcommittee on Space and Aeronautics, "Discovery on the Frontiers of Spac
 `2018`
 Human Emissions Made Ocean Heat Wave 53 Times More Likely 15 Jan 2018. [Article](https://www.nationalgeographic.com/science/article/carbon-dioxide-emissions-drive-ocean-heat-waves-global-warming) \
 
-## Images:
+## Art and Images:
+`2024`	
+Collaboration with the artist Jewel on ‘[Heart of the Ocean](https://mlmiamimag.com/jewel-heart-of-the-ocean-miami-art-week-2024)’ 
+`2024`	
+[Synchronicity](https://www.gregniemeyer.com/synchronicity) installation on SalesForce Tower in collaboration with artist Greg Niemeyer 
 `2020`
 Cover [image](https://journals.ametsoc.org/bams/issue/101/8) August 2020 BAMS\
 `2020`
@@ -221,6 +225,12 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 
 ## Partial list of invited talks/panels/interviews:
 
+1. `2024`	Invited panelist at IBM “AI for Federal Agencies” event  
+1. `2024`	Invited speaker at Cloud Native’s [Women in Geospatial Webinar](https://cloudnativegeo.org/events/geospatial-careers-insights-for-women/)
+1. `2024`	Keynote at [University of Santo Tomas College of Science](https://www.ust.edu.ph/science/)  
+1. `2024`	Invited talk at NSF’s Open Science Hour
+2. `2024`	Plenary at Center for Open Science Year of Open Science Culminating Conference: [NASA’s open road ahead](https://doi.org/10.5281/zenodo.10845225)
+1. `2024`	Plenary at NOAA’s 2024 Enterprise Data Management Workshop [The open road ahead](https://doi.org/10.5281/zenodo.11187196)
 1. `2023 Dec 19` StoryCorps Archives: AGU Narratives [Interview](https://archive.storycorps.org/interviews/by-changing-how-science-is-done-we-open-it-up-to-more-diverse-experiences-an-interview-with-chelle-gentemann/)  
 1. `2023 Dec 14` AGU Fall Meeting [IN43A](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1255196) - Fostering Wide-Open Science by Improving Collaboration, Innovation, Attribution, Identity, and Ethics in Data Repositories and Data (Re)publication II, Transforming to Open Science [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10581689)
 1. `2023 Nov 16` National Academy of Science and Engineering Committee on Science, Engineering, Medicine, and Public Policy [Fall Meeting](https://www.nationalacademies.org/event/41319_11-2023_committee-on-science-engineering-medicine-and-public-policy-fall-meeting-2023), NASA's Transform to Open Science initative [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10143316)
