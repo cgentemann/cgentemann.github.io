@@ -176,9 +176,9 @@ Human Emissions Made Ocean Heat Wave 53 Times More Likely 15 Jan 2018. [Article]
 
 ## Art and Images:
 `2024`	
-Collaboration with the artist Jewel on ‘[Heart of the Ocean](https://mlmiamimag.com/jewel-heart-of-the-ocean-miami-art-week-2024)’ 
+Collaboration with the artist Jewel on ‘[Heart of the Ocean](https://mlmiamimag.com/jewel-heart-of-the-ocean-miami-art-week-2024)’  
 `2024`	
-[Synchronicity](https://www.gregniemeyer.com/synchronicity) installation on SalesForce Tower in collaboration with artist Greg Niemeyer 
+[Synchronicity](https://www.gregniemeyer.com/synchronicity) installation on SalesForce Tower in collaboration with artist Greg Niemeyer   
 `2020`
 Cover [image](https://journals.ametsoc.org/bams/issue/101/8) August 2020 BAMS\
 `2020`
