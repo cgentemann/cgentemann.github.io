@@ -5,10 +5,10 @@ layout: resume
 Computational physical oceanographer, remote sensing scientist, and advocate for open science
 
 ## Professional Summary
-Senior scientist and thought leader. Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for adeptly excelling in diverse roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing scientific and technical counsel and crafting impactful initiatives.
+Senior scientist and thought leader. Results-driven and versatile professional with a strong drive for success and exceptional leadership acumen. Recognized for excelling in diverse roles, leveraging strategic communication, meticulous project planning, and effective execution. Proven talent in adeptly managing multifaceted teams and cultivating robust relationships. Skilled in providing scientific and technical counsel and crafting impactful initiatives.
 
 ## Significant Achievements
-- **2024**	Raised almost $2 million from private funders to create a NASA challenge activity to modernize incentives at universities. Collaborations with the artist Jewel on [‘Heart of the Ocean’](https://mlmiamimag.com/jewel-heart-of-the-ocean-miami-art-week-2024) and Greg Niemeyer on [Synchronicity](https://www.gregniemeyer.com/synchronicity) SalesForce Tower installation.  
+- **2024**	Raised almost $2 million from private funders to create a NASA challenge activity to modernize university incentives. Collaborations with the artist Jewel on [‘Heart of the Ocean’](https://mlmiamimag.com/jewel-heart-of-the-ocean-miami-art-week-2024) and Greg Niemeyer on [Synchronicity](https://www.gregniemeyer.com/synchronicity) SalesForce Tower installation.  
 - **2023** Created NASA’s [Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) and worked as co-chair of the OSTP Subcommittee on Open Science Sub-Working Group on the Year of Open Science to have the White House and 16 other federal agencies declare a [Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)  
 - **2022** Lead Scientist for NASA’s $40 million Transform to Open Science ([TOPS](https://nasa.github.io/Transform-to-Open-Science/)) project, collaborated on NASA’s new scientific information policy ([SPD-41a](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf)). 
 - **2021** Principal Investigator [Butterfly](https://nasa-butterfly.github.io/) a $190 mission NASA satellite mission proposal that received the highest possible review score (Cat 1). Published science section openly [online](https://medium.com/nasa-butterfly/how-to-write-a-great-nasa-proposal-2c6010faf7ab).
@@ -18,39 +18,36 @@ Senior scientist and thought leader. Results-driven and versatile professional w
 
 ## Occupation
 
+`2022 - Current` 
+__Open Science Program Scientist__, [NASA Headquarters, Science Mission Directorate Office of the Chief Science Data Officer](https://science.nasa.gov/about-us/ocsdo/) \
 `2023 - Current` 
-__Open Science Program Scientist__, [NASA OCSDO](https://science.nasa.gov/open-science/transform-to-open-science) \
-`2022 - 2023` 
-__Transform to Open Science (TOPS) Program Scientist__, [NASA](https://science.nasa.gov/open-science/transform-to-open-science) \
-`2023 - Current` 
-__Senior Program Executive (currently on IPA assignment to NASA HQ)__, [International Computer Science Institute](https://www.icsi.berkeley.edu/icsi/) \
-`2016 - 2023` 
+__Senior Program Executive__, [International Computer Science Institute](https://www.icsi.berkeley.edu/icsi/) \
+`2021 - Current` 
+__Special Government Employee__ [NOAA Science Advisory Board](https://sab.noaa.gov/)  
+`2020 - 2023` 
 __Senior Scientist__, [Farallon Institute](https://faralloninstitute.org) \
 `2016 - 2022` 
 __Affiliate__ [University of Washington, Applied Physics Laboratory](https://www.apl.washington.edu/) \
-`2016 - 2022` 
-__Affiliate__ [Earth and Space Research](https://www.esr.org/) \
 `2017 - 2018` 
 __Visiting Scholar__, NASA Jet Propulsion Laboratory \
 `2016 - 2020`
-__Senior Scientist__, Earth & Space Research \
+__Senior Scientist__, [Earth and Space Research](https://www.esr.org/) \
 `2012 - 2015` 
 __Senior Principal Scientist__, Remote Sensing Systems \
 `1998 - 2012` 
 __Scientist__, Remote Sensing Systems  
 
-
 ## Education
 
 `2003 - 2007`
-__University of Miami (Advisor: Peter Minnett)__
-Ph.D.Meteorology and Physical Oceanography\
+__Ph.D. University of Miami__
+Meteorology and Physical Oceanography\
 `1995 - 1997`
-__UCSD Scripps Institution of Oceanography__
-M.S. Physical Oceanography \
+__M.S. UCSD Scripps Institution of Oceanography__
+Physical Oceanography \
 `1991 - 1995`
-__Massachusetts Institute of Technology__
-B.S. Earth, Atmospheric, and Planetary Sciences 
+__B.S. Massachusetts Institute of Technology__
+Earth, Atmospheric, and Planetary Sciences 
 
 ## Awards
 
@@ -76,21 +73,20 @@ __American Meteorological Society 13th Conference on Satellite Meteorology and O
 
 ## Science Teams, Working Groups, Organizing Committees:
 
-`2024-Present` __Co-chair__ White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Engagement, within the Subcommittee on Open Science  
-`2022-2023` __Co-chair__ White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Year of Open Science, within the Subcommittee on Open Science  
-`2021-2023` __Steering Committee__ NASA Open-Source Science for the [Earth System Observatory Mission Data Processing Study](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops)  
-`2021-present` __Board Member__ [NOAA Science Advisory Board](https://sab.noaa.gov/). Strategic Research Guidance Memorandum (SRGM) 2026 Tiger Team.   
-`2012-2020` __Committee Member__ `2018-2020` __Co-Chair__ National Academies of Sciences, Engineering, and Medicine, Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) \
-`2017-2018`
-__Co-Chair__
-National Academies of Sciences, Engineering, and Medicine, Committee on Best Practices for a Future Open Code Policy for NASA Space Studies [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)\
-`2015 - present` 
+`2024 - Current` __Co-chair__ White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Engagement, within the Subcommittee on Open Science  
+`2021 - Current` __Board Member__ [NOAA Science Advisory Board](https://sab.noaa.gov/). Strategic Research Guidance Memorandum (SRGM) 2026 Tiger Team.
+`2015 - Current` 
 __Committee Member__
-National Academies of Sciences, Engineering, and Medicine, Intelligence Science and Technology Experts Group [(ISTEG)](https://www.nationalacademies.org/our-work/intelligence-science-and-technology-experts-group) \
+National Academies of Sciences, Engineering, and Medicine, Intelligence Science and Technology Experts Group [(ISTEG)](https://www.nationalacademies.org/our-work/intelligence-science-and-technology-experts-group)  
+`2022 - 2023` __Co-chair__ White House Office for Science Technology and Policy National Science and Technology Council (NSTC) Subgroup on Year of Open Science, within the Subcommittee on Open Science  
+`2021 - 2023` __Steering Committee__ NASA Open-Source Science for the [Earth System Observatory Mission Data Processing Study](https://www.earthdata.nasa.gov/esds/open-science/oss-for-eso-workshops)  
+`2012 - 2020` __Committee Member__ `2018 - 2020` __Co-Chair__ National Academies of Sciences, Engineering, and Medicine, Standing Committee on Earth Science & Applications from Space [(CESAS)](https://www.nationalacademies.org/our-work/committee-on-earth-sciences-and-applications-from-space) \
+`2017 - 2018` __Co-Chair__
+National Academies of Sciences, Engineering, and Medicine, Committee on Best Practices for a Future Open Code Policy for NASA Space Studies [report](https://sites.nationalacademies.org/SSB/CurrentProjects/SSB_178892)\
 `2013 - 2015` 
 __Committee Member__
 National Academies of Sciences, Engineering, and Medicine, Committee on a Framework for Analyzing the Needs for Continuity of NASA-Sustained Remote Sensing Observations of the Earth from Space [report](https://www.nap.edu/catalog/21789/continuity-of-nasa-earth-observations-from-space-a-value-framework)\
-`2020 - present` 
+`2020 - 2024` 
 __Associate Editor__
 American Geophysical Union [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/hub/journal/23335084/editorial-board.html)\
 `2020 - 2022`
@@ -213,15 +209,15 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 `2023 Dec 15` [U51A](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/198458) Union Session: Science for All—Organizing Agile Openness  
 `2023 Dec 12` [IN22A](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/213163) Flourishing Science Commons: Data Science, Open Science, and Knowledge Communities  
 `2023 July 10-14` CERN/NASA Open Science [Summit](https://home.cern/news/announcement/knowledge-sharing/cernnasa-summit-accelerating-adoption-open-science) Co-Chair  
-`2022 - 2023` four NASA TOPS Community [Panels](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Panels)  
+`2022 - 2023` NASA TOPS Community [Panels](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Panels)  
 `2022 Mar 4` ASLO/AGU Ocean Sciences Meeting Innovation Session: [IN08A](https://www.aslo.org/osm2022/innovative-sessions/) Open Ocean Science  
 `2021 Dec 17` AGU Fall Meeting full day Innovation Session: [U51B](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122142): Open Science in Action  
 `2020` Symposium on Earth Science and Applications from Space with Special Guest Michael Freilich [website](https://eospso.gsfc.nasa.gov/sites/default/files/eo_pdfs/March%20April%202020%20Earth%20Observer%20Color%20508.pdf)  
 `2019` OceanObs Session ["Open Source Software Revolution"](http://www.oceanobs19.net/living-action-plan/open-source-software/)  
-`2003 - present` Annual MISST science team meetings held at AGU/Ocean Sciences  
+`2003 - 2022` Annual MISST science team meetings held at AGU/Ocean Sciences  
 `2009` 10TH International GHRSST Science Team Meeting [website](https://www.ghrsst.org/meetings/10th-international-ghrsst-science-team-meeting-ghrsst-x/)\
 `2018 - 2020` Biannual NASEM CESAS committee meetings  
-`2017-2018` NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings (3 total)   
+`2017 - 2018` NASEM Committee on Best Practices for a Future Open Code Policy for NASA Space Studies meetings (3 total)   
 
 ## Partial list of invited talks/panels/interviews:
 
@@ -250,8 +246,8 @@ GHRSST Science Team meeting, organized and gave 1-day Python workshop [website](
 1. `2023 Feb 21` Materials Research Data Alliance [MaRDA](https://www.eventbrite.com/e/marda-virtual-annual-meeting-2023-speakers-and-panelists-tickets-504977048947?utm_source=eventbrite&utm_medium=email&utm_campaign=event_reminder&utm_term=eventname) Annual Meeting,  Equitable Access and the Year of Open Science [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10578410)  
 1. `2023 Feb 09` UN 3rd Global Open Science [Conference](https://www.un.org/en/library/OS23). NASA Year of Open Science [Invited Talk](https://zenodo.org/record/7621202#.ZAnpzXbMKUk)  
 1. `2023 Feb 08` Scientific Society CEO breakfast 2023 NASA’s Year of Open Science [Invited Talk](https://zenodo.org/doi/10.5281/zenodo.10578404)  
-1. `2023 Jan 11` American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). NASA's Year of Open Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239).   
-1. `2023 Jan 11` American Meterological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). TOPS Townhall  
+1. `2023 Jan 11` American Meteorological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). NASA's Year of Open Science [Keynote](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/423239).   
+1. `2023 Jan 11` American Meteorological Society Annual [Meeting](https://annual.ametsoc.org/index.cfm/2023/). TOPS Townhall  
 1. `2022 Dec 5` National Academy of Science [Open Science Roundtable](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) Stakeholder Actions to Implement Open Scholarship [Workshop](https://www.nationalacademies.org/event/12-05-2022/stakeholder-actions-to-implement-open-scholarship-a-workshop). Federal Perspectives.  
 1. `2022 Dec 1-2`  Einstein Foundation Global Dynamics in Responsible Research [Workshop](https://symposium.einsteinfoundation.de/), Open Science [Keynote](https://zenodo.org/uploads/7391501)  
 1. `2022 Nov 09` PyDataNY [Conference](https://pydata.org/nyc2022/) I'm from the government and I'm here to help [Keynote](https://zenodo.org/record/7308372)  
@@ -326,20 +322,20 @@ IGARSS, "Satellite Microwave SST: Accuracy, Comparisons to AVHRR and Reynolds SS
 
 ## Mentoring Experience:
 
-Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored to groups in several hackathons, and mentored several Summer interns. She uses social media to encourage and communicate with Early Career Scientists.
+Dr. Gentemann has mentored over 20 students, sat on 6 Ph.D. committees, mentored groups in several hackathons, and mentored several Summer interns. She uses social media to encourage and communicate with Early Career Scientists.
 
 ## Ph.D. / Masters Committees, Summer Interns, Student collaborators:
 
 `2019 - 2023` Chong Jia, University of Miami\
 `2021` Lucas Sterzinger, UC Davis\
-`2020-2021` Sanola Sandiford, Caribbean Institute for Meteorology and Hydrology\
-`2020-2021` Kashawn Hall, Caribbean Institute for Meteorology and Hydrology\
-`2020-2021` Alton Daley, Caribbean Institute for Meteorology and Hydrology\
-`2020-2021` Shanice Whitehall, Caribbean Institute for Meteorology and Hydrology\
-`2020-2021` Zaher Alruzaiqi, Sultan Qaboos University\
+`2020 - 2021` Sanola Sandiford, Caribbean Institute for Meteorology and Hydrology\
+`2020 - 2021` Kashawn Hall, Caribbean Institute for Meteorology and Hydrology\
+`2020 - 2021` Alton Daley, Caribbean Institute for Meteorology and Hydrology\
+`2020 - 2021` Shanice Whitehall, Caribbean Institute for Meteorology and Hydrology\
+`2020 - 2021` Zaher Alruzaiqi, Sultan Qaboos University\
 `2019 - 2020` Sotirios Skarpalezos, Technical University of Denmark\
 `2017 - 2018` Emy Alerskans, Technical University of Denmark\
-`2019 - -2020` Senya Stein, Colorado School of the Mines\
+`2019 - 2020` Senya Stein, Colorado School of the Mines\
 `2020` Alayah Densby, KIPP San Francisco College Prep\
 `2020` Alessandra Richardson-Beatty, Stanford Online High School\
 `2020` Alyssa Bautista, George Washington High School \
